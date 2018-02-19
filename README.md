@@ -6,66 +6,66 @@ This repository contains information and guidelines about contributions to CNCF 
 
 ### Kubernetes
 
-[Kubernetes contribution guide](https://kubernetes.io/docs/imported/community/guide/)
+[Contribution guide](https://kubernetes.io/docs/imported/community/guide/)
 
 ### Prometheus
 
-TBD
+[Contributing to Prometheus](https://github.com/prometheus/prometheus/blob/master/CONTRIBUTING.md)
 
 ### OpenTracing
 
-TBD
+[Contributing to OpenTracing](https://github.com/opentracing-contrib/meta)
 
 ### Fluentd
 
-TBD
+[Contributing to Fluentd](https://github.com/fluent/fluentd/blob/master/CONTRIBUTING.md)
 
 ### gRPC
 
-TBD
+[Contributing to gRPC](https://github.com/grpc/grpc-contrib/blob/master/CONTRIBUTING.md)
 
-### ContainerD
+### containerd
 
-TBD
+[Contributing to containerd](https://github.com/containerd/containerd/blob/master/CONTRIBUTING.md)
 
 ### rkt
 
-TBD
+[Contributing to rkt](https://github.com/rkt/rkt/blob/master/CONTRIBUTING.md)
 
 ### CNI
 
-TBD
+[Contributing to CNI](https://github.com/containernetworking/cni/blob/master/CONTRIBUTING.md)
 
 ### Envoy
 
-TBD
+[Contributing to Envoy](https://github.com/envoyproxy/envoy/blob/master/CONTRIBUTING.md)
 
 ### Jaeger
 
-TBD
+[Contributing to Jaeger](https://github.com/jaegertracing/jaeger-idl/blob/master/CONTRIBUTING.md)
 
 ### Notary
 
-TBD
+[Contributing to Notary](https://github.com/theupdateframework/notary/blob/master/CONTRIBUTING.md)
 
 ### TUF
 
-TBD
+[Contributing to TUF](https://github.com/theupdateframework/tuf/blob/develop/docs/CONTRIBUTORS.rst)
 
 ### Vitess
 
-TBD
+[Contributing to Vitess](https://github.com/youtube/vitess/blob/master/CONTRIBUTING.md)
 
 ## Inception Projects
 
 ### Linkerd
 
-TBD
+[Contributing to Linkerd](https://github.com/linkerd/linkerd/blob/master/CONTRIBUTING.md)
 
 ### CoreDNS
 
-TBD
+[Contributing to CoreDNS](https://github.com/coredns/coredns/blob/master/CONTRIBUTING.md)
 
 ### Rook
 
-TBD
+[Contributing to Rook](https://github.com/rook/rook/blob/master/CONTRIBUTING.md)
