@@ -1,5 +1,7 @@
 ### Vitess
 
+- [Contributing to
+Vitess](https://github.com/youtube/vitess/blob/master/CONTRIBUTING.md)
 - [GitHub](https://github.com/youtube/vitess)
 - [Twitter](https://twitter.com/vitessio)
 - [Mailing list](https://groups.google.com/forum/#!forum/vitess-announce)
