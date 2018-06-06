@@ -1,5 +1,7 @@
 ### Prometheus
 
+- [Contributing to
+Prometheus](https://github.com/prometheus/prometheus/blob/master/CONTRIBUTING.md)
 - [GitHub](https://github.com/prometheus)
 - [Twitter](https://twitter.com/prometheusio)
 - [Developers Mailing list](https://prometheus.io/community/)
