@@ -1,5 +1,7 @@
 ### containerd
 
+- [Contributing to
+  containerd](https://github.com/containerd/containerd/blob/master/CONTRIBUTING.md)
 - [GitHub](https://github.com/containerd/containerd)
 - [Twitter](https://twitter.com/containerd)
 - [Slack](https://slack.containerd.io/)
