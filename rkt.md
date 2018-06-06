@@ -1,5 +1,6 @@
 ### rkt
 
+- [Contributing to rkt](https://github.com/rkt/rkt/blob/master/CONTRIBUTING.md)
 - [GitHub](https://github.com/rkt/rkt)
 - [Twitter](https://twitter.com/hashtag/rkt)
 - [Developers Mailing
