@@ -1,101 +1,56 @@
-# Contribution guides to the CNCF ecosystem
+# Contributions to CNCF projects
 
-This repository contains information and guidelines about contributions to CNCF projects.
+This repository contains information and guidelines about contributions to CNCF
+projects.
 
 ## Graduated Projects
 
-### Kubernetes
-
-[Kubernetes](kubernetes.md)
+### [Kubernetes](kubernetes.md)
 
 ## Incubating Projects
 
-### Prometheus
+### [Prometheus](prometheus.md)
 
-[Prometheus](prometheus.md)
+### [OpenTracing](opentracing.md)
 
-### OpenTracing
+### [Fluentd](fluentd.md)
 
-[OpenTracing](opentracing.md)
+### [gRPC](grpc.md)
 
-### Fluentd
+### [containerd](containerd.md)
 
-[Fluentd](fluentd.md)
+### [rkt](rkt.md)
 
-### gRPC
+### [CNI](cni.md)
 
-[gRPC](grpc.md)
+### [Envoy](envoy.md)
 
-### containerd
+### [Jaeger](jaeger.md)
 
-[containerd](containerd.md)
+### [Notary](notary.md)
 
-### rkt
+### [TUF](tuf.md)
 
-[rkt](rkt.md)
+### [Vitess](vitess.md)
 
-### CNI
+### [CoreDNS](coredns.md)
 
-[CNI](cni.md)
+### [NATS](nats.md)
 
-### Envoy
+### [Linkerd](linkerd.md)
 
-[Envoy](envoy.md)
-
-### Jaeger
-
-[Jaeger](jaeger.md)
-
-### Notary
-
-[Notary](notary.md)
-
-### TUF
-
-[TUF](tuf.md)
-
-### Vitess
-
-[Vitess](vitess.md)
-
-### CoreDNS
-
-[CoreDNS](coredns.md)
-
-### NATS
-
-[NATS](nats.md)
-
-### Linkerd
-
-[Linkerd](linkerd.md)
-
-### Helm
-
-[Helm](helm.md)
+### [Helm](helm.md)
 
 ## Sandbox Projects
 
-### Rook
+### [Rook](rook.md)
 
-[Rook](rook.md)
+### [SPIFFE](spiffe.md)
 
-### SPIFFE
+### [SPIRE](spire.md)
 
-[SPIFFE](spiffe.md)
+### [OPA](opa.md)
 
-### SPIRE
+### [CloudEvents](cloudevents.md)
 
-[SPIRE](spire.md)
-
-### Open Policy Agent
-
-[OPA](opa.md)
-
-### CloudEvents
-
-[CloudEvents](cloudevents.md)
-
-### Telepresence
-
-[Telepresence](telepresence.md)
+### [Telepresence](telepresence.md)
