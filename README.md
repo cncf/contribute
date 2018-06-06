@@ -6,76 +6,96 @@ This repository contains information and guidelines about contributions to CNCF 
 
 ### Kubernetes
 
-- [Kubernetes contributions guide](https://kubernetes.io/docs/imported/community/guide/)
-- [GitHub](https://github.com/kubernetes)
-- [Twitter](https://twitter.com/kubernetesio)
-- [Slack](http://slack.k8s.io/)
-- [Stackoverflow](http://stackoverflow.com/search?tab=newest&q=Kubernetes)
-- [DevStats](https://k8s.devstats.cncf.io/)
-- [YouTube](https://www.youtube.com/channel/UCZ2bu0qutTOM0tHYa_jkIwg)
-- [Blog](http://blog.kubernetes.io/)
-- [Developers Mailing
-List](https://groups.google.com/forum/#!forum/kubernetes-dev)
+[Kubernetes](kubernetes.md)
 
 ## Incubating Projects
 
 ### Prometheus
 
+[Prometheus](prometheus.md)
 
 ### OpenTracing
 
-TBD
+[OpenTracing](opentracing.md)
 
 ### Fluentd
 
-TBD
+[Fluentd](fluentd.md)
 
 ### gRPC
 
-TBD
+[gRPC](grpc.md)
 
-### ContainerD
+### containerd
 
-TBD
+[containerd](containerd.md)
 
 ### rkt
 
-TBD
+[rkt](rkt.md)
 
 ### CNI
 
-TBD
+[CNI](cni.md)
 
 ### Envoy
 
-TBD
+[Envoy](envoy.md)
 
 ### Jaeger
 
-TBD
+[Jaeger](jaeger.md)
 
 ### Notary
 
-TBD
+[Notary](notary.md)
 
 ### TUF
 
-TBD
+[TUF](tuf.md)
 
 ### Vitess
 
-TBD
-
-## Inception Projects
-
-### Linkerd
-
-TBD
+[Vitess](vitess.md)
 
 ### CoreDNS
 
-TBD
+[CoreDNS](coredns.md)
+
+### NATS
+
+[NATS](nats.md)
+
+### Linkerd
+
+[Linkerd](linkerd.md)
+
+### Helm
+
+[Helm](helm.md)
+
+## Sandbox Projects
 
 ### Rook
 
-TBD
+[Rook](rook.md)
+
+### SPIFFE
+
+[SPIFFE](spiffe.md)
+
+### SPIRE
+
+[SPIRE](spire.md)
+
+### Open Policy Agent
+
+[OPA](opa.md)
+
+### CloudEvents
+
+[CloudEvents](cloudevents.md)
+
+### Telepresence
+
+[Telepresence](telepresence.md)
