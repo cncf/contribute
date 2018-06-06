@@ -1,7 +1,5 @@
 ### Kubernetes
 
-#### Orchestration
-
 - [Website](http://kubernetes.io/)
 - [Contributions guide](https://kubernetes.io/docs/imported/community/guide/)
 - [GitHub](https://github.com/kubernetes)
