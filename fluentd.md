@@ -1,5 +1,7 @@
 ### Fluentd
 
+- [Contributing to
+  Fluentd](https://github.com/fluent/fluentd/blob/master/CONTRIBUTING.md)
 - [GitHub](https://github.com/fluent/fluentd/)
 - [Twitter](https://twitter.com/fluentd)
 - [Slack](http://slack.fluentd.org/)
