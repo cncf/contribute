@@ -1,5 +1,7 @@
 ### gRPC
 
+- [Contributing to
+gRPC](https://github.com/grpc/grpc-contrib/blob/master/CONTRIBUTING.md)
 - [GitHub](https://github.com/grpc)
 - [Twitter](https://twitter.com/grpcio)
 - [Stackoverflow](https://stackoverflow.com/search?tab=newest&q=grpc)
