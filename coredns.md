@@ -1,5 +1,7 @@
 ### CoreDNS
 
+- [Contributing to
+CoreDNS](https://github.com/coredns/coredns/blob/master/CONTRIBUTING.md)
 - [GitHub](https://github.com/coredns/coredns)
 - [Twitter](https://twitter.com/corednsio)
 - [Slack](https://slack.cncf.io/)
