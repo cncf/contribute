@@ -1,5 +1,7 @@
 ### Linkerd
 
+- [Contributing to
+  Linkerd](https://github.com/linkerd/linkerd/blob/master/CONTRIBUTING.md)
 - [GitHub](https://github.com/linkerd/linkerd)
 - [Twitter](https://twitter.com/linkerd)
 - [Slack](https://slack.linkerd.io/)
