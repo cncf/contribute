@@ -1,5 +1,6 @@
 ### OpenTracing
 
+- [Contributing to OpenTracing](https://github.com/opentracing-contrib/meta)
 - [GitHub](https://github.com/opentracing)
 - [Twitter](https://twitter.com/opentracing)
 - [Developers Mailing
