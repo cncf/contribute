@@ -1,71 +1,56 @@
-# Contribution guides to the CNCF ecosystem
+# Contributions to CNCF projects
 
-This repository contains information and guidelines about contributions to CNCF projects.
+This repository contains information and guidelines about contributions to CNCF
+projects.
+
+## Graduated Projects
+
+### [Kubernetes](01-graduated/kubernetes.md)
 
 ## Incubating Projects
 
-### Kubernetes
+### [Prometheus](02-incubating/prometheus.md)
 
-[Kubernetes contribution guide](https://kubernetes.io/docs/imported/community/guide/)
+### [OpenTracing](02-incubating/opentracing.md)
 
-### Prometheus
+### [Fluentd](02-incubating/fluentd.md)
 
-TBD
+### [gRPC](02-incubating/grpc.md)
 
-### OpenTracing
+### [containerd](02-incubating/containerd.md)
 
-TBD
+### [rkt](02-incubating/rkt.md)
 
-### Fluentd
+### [CNI](02-incubating/cni.md)
 
-TBD
+### [Envoy](02-incubating/envoy.md)
 
-### gRPC
+### [Jaeger](02-incubating/jaeger.md)
 
-TBD
+### [Notary](02-incubating/notary.md)
 
-### ContainerD
+### [TUF](02-incubating/tuf.md)
 
-TBD
+### [Vitess](02-incubating/vitess.md)
 
-### rkt
+### [CoreDNS](02-incubating/coredns.md)
 
-TBD
+### [NATS](02-incubating/nats.md)
 
-### CNI
+### [Linkerd](02-incubating/linkerd.md)
 
-TBD
+### [Helm](02-incubating/helm.md)
 
-### Envoy
+## Sandbox Projects
 
-TBD
+### [Rook](03-sandbox/rook.md)
 
-### Jaeger
+### [SPIFFE](03-sandbox/spiffe.md)
 
-TBD
+### [SPIRE](03-sandbox/spire.md)
 
-### Notary
+### [OPA](03-sandbox/opa.md)
 
-TBD
+### [CloudEvents](03-sandbox/cloudevents.md)
 
-### TUF
-
-TBD
-
-### Vitess
-
-TBD
-
-## Inception Projects
-
-### Linkerd
-
-TBD
-
-### CoreDNS
-
-TBD
-
-### Rook
-
-TBD
+### [Telepresence](03-sandbox/telepresence.md)
