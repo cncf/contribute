@@ -5,52 +5,52 @@ projects.
 
 ## Graduated Projects
 
-### [Kubernetes](kubernetes.md)
+### [Kubernetes](01-graduated/kubernetes.md)
 
 ## Incubating Projects
 
-### [Prometheus](prometheus.md)
+### [Prometheus](02-incubating/prometheus.md)
 
-### [OpenTracing](opentracing.md)
+### [OpenTracing](02-incubating/opentracing.md)
 
-### [Fluentd](fluentd.md)
+### [Fluentd](02-incubating/fluentd.md)
 
-### [gRPC](grpc.md)
+### [gRPC](02-incubating/grpc.md)
 
-### [containerd](containerd.md)
+### [containerd](02-incubating/containerd.md)
 
-### [rkt](rkt.md)
+### [rkt](02-incubating/rkt.md)
 
-### [CNI](cni.md)
+### [CNI](02-incubating/cni.md)
 
-### [Envoy](envoy.md)
+### [Envoy](02-incubating/envoy.md)
 
-### [Jaeger](jaeger.md)
+### [Jaeger](02-incubating/jaeger.md)
 
-### [Notary](notary.md)
+### [Notary](02-incubating/notary.md)
 
-### [TUF](tuf.md)
+### [TUF](02-incubating/tuf.md)
 
-### [Vitess](vitess.md)
+### [Vitess](02-incubating/vitess.md)
 
-### [CoreDNS](coredns.md)
+### [CoreDNS](02-incubating/coredns.md)
 
-### [NATS](nats.md)
+### [NATS](02-incubating/nats.md)
 
-### [Linkerd](linkerd.md)
+### [Linkerd](02-incubating/linkerd.md)
 
-### [Helm](helm.md)
+### [Helm](02-incubating/helm.md)
 
 ## Sandbox Projects
 
-### [Rook](rook.md)
+### [Rook](03-sandbox/rook.md)
 
-### [SPIFFE](spiffe.md)
+### [SPIFFE](03-sandbox/spiffe.md)
 
-### [SPIRE](spire.md)
+### [SPIRE](03-sandbox/spire.md)
 
-### [OPA](opa.md)
+### [OPA](03-sandbox/opa.md)
 
-### [CloudEvents](cloudevents.md)
+### [CloudEvents](03-sandbox/cloudevents.md)
 
-### [Telepresence](telepresence.md)
+### [Telepresence](03-sandbox/telepresence.md)
