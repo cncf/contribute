@@ -292,3 +292,13 @@ CloudEvents Specification
 * **Developer Mailing List/Forum:** None
 * **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 * **Legal Requirements:** None
+
+### OpenMetrics
+*"An effort to create an open standard for transmitting metrics at scale, with support for both text representation and Protocol Buffers."* - [openmetrics.io](https://openmetrics.io/)
+
+* **Project Repository:** https://github.com/OpenObservability/OpenMetrics
+* **Contributor Guide:** [TBD]
+* **Chat:** Slack: [https://cloud-native.slack.com/messages/openmetrics/](https://cloud-native.slack.com/messages/CC6CPDEJV/)
+* **Developer Mailing List/Forum:** https://groups.google.com/forum/m/#!forum/openmetrics
+* **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+* **Legal Requirements:** None
