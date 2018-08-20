@@ -3,7 +3,27 @@
 Welcome! Are you interested in contributing to one of CNCF hosted projects? This repository 
 should help you contains information and guidelines about contributions to CNCF projects.
 
+CNCF offers multiple ways to start contributing to the CNCF ecosystem, including either foundation-wide and project-wide opportunities.
+
+# TOC
+
+The CNCF TOC is the technical governing body of the CNCF Foundation. The recommended way to start contributing to CNCF TOC - acting as a TOC Contributor. Details - [here].(https://github.com/cncf/toc/blob/master/CONTRIBUTORS.md)
+
+## Working Groups
+
+The TOC has created the working groups (WG) to investigate and discuss the following topics:
+
+| Working Group | Chair            | Meeting Time                          | Minutes/Recordings |
+|---------------|------------------|---------------------------------------|--------------------|
+| [CI](https://github.com/cncf/wg-ci)         | Camille Fournier | [4th Tue of every month at 8AM PT](https://zoom.us/my/cncfciwg) | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2P3_A3ujWHSxOu1IO_bd7Zi)
+| [Networking](https://github.com/cncf/wg-networking) | Ken Owens        |  [1st and 3rd Tue every month at 9AM PT](https://zoom.us/my/cncfnetworkingwg)                                      | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2M_-K5n67_zTdrPh_PtTKFC)
+| [Serverless](https://github.com/cncf/wg-serverless) | Ken Owens        |  [Thu of every week at 9AM PT](https://zoom.us/my/cncfserverlesswg)                                     | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2Ph7YoBIgsZNW_RGJvNlFOt)
+| [Storage](https://github.com/cncf/wg-storage)    | Ben Hindman      |  [2nd and 4th Wed every month at 8AM PT](https://zoom.us/my/cncfstoragewg)                                     | [Youtube](https://www.youtube.com/playlist?list=PLj6h78yzYM2NoiNaLVZxr-ERc1ifKP7n6)
+
+
 # Projects
+
+The Projects of the Cloud Native Computing Foundation are listed below, together with the brief information on engaging with them:
 
 |               Project Name              |              Maturity              |          Focus          |
 |:---------------------------------------:|:----------------------------------:|:-----------------------:|
@@ -303,3 +323,27 @@ CloudEvents Specification
 * **Developer Mailing List/Forum:** https://groups.google.com/forum/m/#!forum/openmetrics
 * **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 * **Legal Requirements:** None
+
+# Community engagement
+
+## Ambassadors
+
+[Cloud Native Ambassadors](https://www.cncf.io/people/ambassadors/) (CNAs) are individuals who are passionate about [Cloud Native Computing Foundation](https://www.cncf.io/) technology and projects, recognized for their expertise, and willing to help others learn about the framework and community.
+
+Successful ambassadors are people such as bloggers, influencers, evangelists who are already engaged with a CNCF project in some way including contributing to forums, online groups, community events, etc.
+
+Details on the Ambassadors program, and information on how to join CNCF as an Ambassador is available [here](https://github.com/cncf/ambassadors).
+
+## Meetups
+
+The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native meetups (they are listed on [meetup.com](https://www.meetup.com/pro/cncf/)) website. 
+
+CNCF is currently working on expanding the Cloud Native community around the globe, and we are happy to accept the new meetup communities to join our network, and become one of the official CNCF meetups.
+
+Details on the Meetups program, together with the best practices on running CNCF Meetups is available [here](https://github.com/cncf/meetups).
+
+## CNCF + Summer of Code
+
+The Cloud Native Computing Foundation participates in [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC). CNCF is a great place to spend a summer learning, coding, participating and contributing. We are an exciting open source foundation with a vibrant community of projects, and we look forward to your application and your project ideas!
+
+CNCF and SoC information is available [here](https://github.com/cncf/soc/blob/master/README.md).
