@@ -31,6 +31,7 @@ should help you contains information and guidelines about contributions to CNCF 
 |            [SPIFFE](#spiffe)            |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
 |             [SPIRE](#spire)             |    [Sandbox](#sandbox-projects)    |         Identity        |
 |      [Telepresence](#telepresence)      |    [Sandbox](#sandbox-projects)    |         Tooling         |
+|       [OpenMetrics](#openmetrics)       |    [Sandbox](#sandbox-projects)    |         Tooling         |
 
 ---
 
