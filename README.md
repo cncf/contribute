@@ -25,6 +25,16 @@ Projects
 
 The Projects of the Cloud Native Computing Foundation are listed below, together with the brief information on engaging with them:
 
+### CNCF Project Grades
+
+All projects of the Cloud Native Computing Foundation are classified with one of three stages of maturity:
+
+-	Graduated
+-	Incubated
+-	Sandboxed
+
+[CNCF Graduation Criteria](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) are documented in the CNCF TOC repo. The document describes the maturity stages of the projects.
+
 | Project Name                            | Maturity                           | Focus                   |
 |:---------------------------------------:|:----------------------------------:|:-----------------------:|
 |        [Kubernetes](#kubernetes)        |  [Graduated](#graduated-projects)  |      Orchestration      |
