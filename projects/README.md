@@ -82,6 +82,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |            [SPIFFE](#spiffe)            |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
 |             [SPIRE](#spire)             |    [Sandbox](#sandbox-projects)    |        Identity         |
 |      [Telepresence](#telepresence)      |    [Sandbox](#sandbox-projects)    |         Tooling         |
+|              [TiKV](#TiKV)              |    [Sandbox](#sandbox-projects)    |     Key/Value Store     |
 
 
 ---
@@ -556,3 +557,15 @@ remote Kubernetes cluster."* - [Overview - telepresene.io][telepresence-overview
 [telepresence-overview]: https://www.telepresence.io/discussion/overview
 [telepresence-contributor-guide]: https://github.com/telepresenceio/telepresence/blob/master/docs/reference/developing.md
 [telepresence-chat]: https://gitter.im/datawire/telepresence
+
+### TiKV
+
+*"TiKV ("Ti" stands for Titanium) is a distributed transactional key-value database, originally created to complement TiDB, a distributed HTAP database compatible with the MySQL protocol. TiKV is built in Rust and powered by Raft, and was inspired by the design of Google Spanner and HBase, but without dependency on any specific distributed file system."* - [TiKV Readme][tikv-overview]
+
+- **Project Repository:** https://github.com/tikv/tikv
+- **Contributor Guide:** [tkiv/tkiv/contributing][tikv-contributor-guide]
+- **License:**  [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[tikv-overview]: https://github.com/tikv/tikv#tikv
+[tikv-contributor-guide]: https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md
