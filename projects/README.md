@@ -82,7 +82,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |            [SPIFFE](#spiffe)            |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
 |             [SPIRE](#spire)             |    [Sandbox](#sandbox-projects)    |        Identity         |
 |      [Telepresence](#telepresence)      |    [Sandbox](#sandbox-projects)    |         Tooling         |
-|              [TiKV](#TiKV)              |    [Sandbox](#sandbox-projects)    |     Key/Value Store     |
+|              [TiKV](#tikv)              |    [Sandbox](#sandbox-projects)    |     Key/Value Store     |
 
 
 ---
