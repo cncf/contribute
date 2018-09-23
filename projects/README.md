@@ -16,7 +16,7 @@ convenience.
 
 ### ${PROJECT-FULL-NAME}
 
-*"<Quote or brief project description "* - [ ][${PROJECT}-overview]
+*"Quote or brief project description"* - [ ][${PROJECT}-overview]
 
 - **Project Repository:** 
 - **Contributor Guide:** [ ][${PROJECT}-contributor-guide]
@@ -75,6 +75,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |               [TUF](#tuf)               | [Incubating](#incubating-projects) |  Software Update Spec   |
 |            [Vitess](#vitess)            | [Incubating](#incubating-projects) |         Storage         |
 |       [CloudEvents](#cloudevents)       |    [Sandbox](#sandbox-projects)    |       Serverless        |
+|            [Cortex](#cortex)            |    [Sandbox](#sandbox-projects)    |       Monitoring        |
 |            [Harbor](#harbor)            |    [Sandbox](#sandbox-projects)    |        Registry         |
 | [Open Policy Agent](#open-policy-agent) |    [Sandbox](#sandbox-projects)    |         Policy          |
 |       [OpenMetrics](#openmetrics)       |    [Sandbox](#sandbox-projects)    |         Tooling         |
@@ -434,6 +435,21 @@ CloudEvents Specification
 [cloudevents-chat]: https://cloud-native.slack.com/messages/C9DB5ABAA/
 [cloudevents-dev-list]: https://lists.cncf.io/g/cncf-wg-serverless
 
+### Cortex
+
+*"Cortex provides horizontally scalable, multi-tenant, long term storage for Prometheus metrics when used as a remote
+write destination, and a horizontally scalable, Prometheus-compatible query API."* - [Cortex Readme][cortex-overview]
+
+- **Project Repository:** https://github.com/cortexproject/cortex
+- **Contributor Guide:** [cortextproject/cortex/readme][cortex-contributor-guide]
+- **Chat:** Slack: `#cortext` in [slack.cncf.io][cortex-chat]
+- **License:**  [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[cortex-overview]: https://github.com/cortexproject/cortex#open-source-horizontally-scalable-multi-tenant-prometheus-as-a-service
+[cortex-contributor-guide]: https://github.com/cortexproject/cortex#for-developers
+[cortex-chat]: https://cloud-native.slack.com/messages/cortex/
+
 ### Harbor
 
 *"Project Harbor is an an open source trusted cloud native registry project that stores, signs, and scans content.
@@ -560,7 +576,10 @@ remote Kubernetes cluster."* - [Overview - telepresene.io][telepresence-overview
 
 ### TiKV
 
-*"TiKV ("Ti" stands for Titanium) is a distributed transactional key-value database, originally created to complement TiDB, a distributed HTAP database compatible with the MySQL protocol. TiKV is built in Rust and powered by Raft, and was inspired by the design of Google Spanner and HBase, but without dependency on any specific distributed file system."* - [TiKV Readme][tikv-overview]
+*"TiKV ("Ti" stands for Titanium) is a distributed transactional key-value database, originally created to complement
+TiDB, a distributed HTAP database compatible with the MySQL protocol. TiKV is built in Rust and powered by Raft, and
+was inspired by the design of Google Spanner and HBase, but without dependency on any specific distributed file
+system."* - [TiKV Readme][tikv-overview]
 
 - **Project Repository:** https://github.com/tikv/tikv
 - **Contributor Guide:** [tkiv/tkiv/contributing][tikv-contributor-guide]
