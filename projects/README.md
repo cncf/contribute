@@ -72,6 +72,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |            [Notary](#notary)            | [Incubating](#incubating-projects) |        Security         |
 |       [OpenTracing](#opentracing)       | [Incubating](#incubating-projects) | Distributed Tracing API |
 |               [rkt](#rkt)               | [Incubating](#incubating-projects) |    Container Runtime    |
+|              [Rook](#rook)              | [Incubating](#incubating-projects) |         Storage         |
 |               [TUF](#tuf)               | [Incubating](#incubating-projects) |  Software Update Spec   |
 |            [Vitess](#vitess)            | [Incubating](#incubating-projects) |         Storage         |
 |       [CloudEvents](#cloudevents)       |    [Sandbox](#sandbox-projects)    |       Serverless        |
@@ -79,7 +80,6 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |            [Harbor](#harbor)            |    [Sandbox](#sandbox-projects)    |        Registry         |
 | [Open Policy Agent](#open-policy-agent) |    [Sandbox](#sandbox-projects)    |         Policy          |
 |       [OpenMetrics](#openmetrics)       |    [Sandbox](#sandbox-projects)    |         Tooling         |
-|              [Rook](#rook)              |    [Sandbox](#sandbox-projects)    |         Storage         |
 |            [SPIFFE](#spiffe)            |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
 |             [SPIRE](#spire)             |    [Sandbox](#sandbox-projects)    |        Identity         |
 |      [Telepresence](#telepresence)      |    [Sandbox](#sandbox-projects)    |         Tooling         |
@@ -377,6 +377,24 @@ rkt is a pod-native container engine for Linux. It is composable, secure, and bu
 [rkt-chat]: https://riot.im/app/#/room/#freenode_#rkt-dev:matrix.org
 [rkt-dev-list]: https://groups.google.com/forum/#!forum/rkt-dev
 
+### Rook
+
+*"Rook is an open source cloud-native storage orchestrator for Kubernetes, providing the platform, framework, and
+support for a diverse set of storage solutions to natively integrate with cloud-native environments."*
+What is Rook? - Rook Readme][rook-overview]
+
+- **Project Repository:** https://github.com/rook/rook
+- **Contributor Guide:** [rook/rook/contributing][rook-contributor-guide]
+- **Chat:** Slack: [rook-io.slack.com][rook-chat]
+- **Developer Mailing List/Forum:** [Rook-Dev Mailing List][rook-dev-list]
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[rook-overview]: https://github.com/rook/rook/blob/master/README.md
+[rook-contributor-guide]: https://github.com/rook/rook/blob/master/CONTRIBUTING.md
+[rook-chat]: https://rook-io.slack.com/
+[rook-dev-list]: https://groups.google.com/forum/#!forum/rook-dev
+
 ### TUF
 
 *"The Update Framework (TUF) helps developers maintain the security of a software update system, even against attackers
@@ -502,24 +520,6 @@ Protocol Buffers."* - [openmetrics.io][openmetrics-overview]
 [openmetrics-overview]: https://openmetrics.io/
 [openmetrics-chat]: https://cloud-native.slack.com/messages/CC6CPDEJV/
 [openmetrics-dev-list]: https://groups.google.com/forum/m/#!forum/openmetrics
-
-### Rook
-
-*"Rook is an open source cloud-native storage orchestrator for Kubernetes, providing the platform, framework, and
-support for a diverse set of storage solutions to natively integrate with cloud-native environments."*
-What is Rook? - Rook Readme][rook-overview]
-
-- **Project Repository:** https://github.com/rook/rook
-- **Contributor Guide:** [rook/rook/contributing][rook-contributor-guide]
-- **Chat:** Slack: [rook-io.slack.com][rook-chat]
-- **Developer Mailing List/Forum:** [Rook-Dev Mailing List][rook-dev-list]
-- **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** [DCO][DCO]
-
-[rook-overview]: https://github.com/rook/rook/blob/master/README.md
-[rook-contributor-guide]: https://github.com/rook/rook/blob/master/CONTRIBUTING.md
-[rook-chat]: https://rook-io.slack.com/
-[rook-dev-list]: https://groups.google.com/forum/#!forum/rook-dev
 
 ### SPIFFE
 
