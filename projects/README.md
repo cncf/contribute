@@ -75,8 +75,10 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |              [Rook](#rook)              | [Incubating](#incubating-projects) |         Storage         |
 |               [TUF](#tuf)               | [Incubating](#incubating-projects) |  Software Update Spec   |
 |            [Vitess](#vitess)            | [Incubating](#incubating-projects) |         Storage         |
+|        [Buildpacks](#buildpacks)        |    [Sandbox](#sandbox-projects)    |        Packaging        | 
 |       [CloudEvents](#cloudevents)       |    [Sandbox](#sandbox-projects)    |       Serverless        |
 |            [Cortex](#cortex)            |    [Sandbox](#sandbox-projects)    |       Monitoring        |
+|             [Falco](#falco)             |    [Sandbox](#sandbox-projects)    |   Container Security    |
 |            [Harbor](#harbor)            |    [Sandbox](#sandbox-projects)    |        Registry         |
 | [Open Policy Agent](#open-policy-agent) |    [Sandbox](#sandbox-projects)    |         Policy          |
 |       [OpenMetrics](#openmetrics)       |    [Sandbox](#sandbox-projects)    |         Tooling         |
@@ -380,8 +382,8 @@ rkt is a pod-native container engine for Linux. It is composable, secure, and bu
 ### Rook
 
 *"Rook is an open source cloud-native storage orchestrator for Kubernetes, providing the platform, framework, and
-support for a diverse set of storage solutions to natively integrate with cloud-native environments."*
-What is Rook? - Rook Readme][rook-overview]
+support for a diverse set of storage solutions to natively integrate with cloud-native environments."* -
+[What is Rook? - Rook Readme][rook-overview]
 
 - **Project Repository:** https://github.com/rook/rook
 - **Contributor Guide:** [rook/rook/contributing][rook-contributor-guide]
@@ -438,6 +440,20 @@ extends many important MySQL features with the scalability of a NoSQL database."
 Sandbox Projects
 ----------------
 
+### Buildpacks
+
+*"Buildpacks provide a higher-level abstraction for building apps compared to
+Dockerfiles."* - [What Are Buildpacks? - buildpacks.io][buildpacks-overview]
+
+- **Project Repository:** https://github.com/buildpack
+- **Chat:** Slack: [slack.buildpacks.io][buildpacks-chat]
+- **License:**  [Apache 2.0][apache-license]
+
+[buildpacks-overview]: https://buildpacks.io/
+[buildpacks-chat]: https://slack.buildpacks.io/
+
+
+
 ### CloudEvents
 
 CloudEvents Specification
@@ -467,6 +483,22 @@ write destination, and a horizontally scalable, Prometheus-compatible query API.
 [cortex-overview]: https://github.com/cortexproject/cortex#open-source-horizontally-scalable-multi-tenant-prometheus-as-a-service
 [cortex-contributor-guide]: https://github.com/cortexproject/cortex#for-developers
 [cortex-chat]: https://cloud-native.slack.com/messages/cortex/
+
+### Falco
+
+*"Falco is a behavioral activity monitor designed to detect anomalous activity in your applications. Powered by
+sysdig’s system call capture infrastructure, Falco lets you continuously monitor and detect container, application,
+host, and network activity... all in one place, from one source of data, with one set of rules."* -
+[Overview - Falco Readme][falco-overview]
+
+- **Project Repository:** https://github.com/falcosecurity/falco
+- **Chat:** Slack: `#falco` in [slack.sysdig.com][falco-chat]
+- **License:**  [Apache 2.0][apache-license]
+- **Legal Requirements:** [Falco CLA][falco-legal]
+
+[falco-overview]: https://github.com/falcosecurity/falco#overview
+[falco-chat]: https://slack.sysdig.com/
+[falco-legal]: https://github.com/falcosecurity/falco#contributor-license-agreements
 
 ### Harbor
 
