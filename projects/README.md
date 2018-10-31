@@ -171,14 +171,14 @@ etc.."* - [About containerd - containerd.io][about-containerd]
 
 - **Project Repository:** https://github.com/containerd/containerd
 - **Contributor Guide:** [containerd/containerd/contributing][containerd-contributor-guide]
-- **Chat:** Slack: [slack.containerd.io][containerd-chat]
+- **Chat:** Slack: `#containerd` in [dockercommunity.slack.com][containerd-chat]
 - **Developer Mailing List/Forum:** None
 - **License:** [Apache 2.0][apache-license]
 - **Legal Requirements:** [DCO][DCO]
 
 [container-overview]: https://containerd.io/#about-containerd
 [containerd-contributor-guide]: https://github.com/containerd/containerd/blob/master/CONTRIBUTING.md
-[containerd-chat]: https://slack.containerd.io/
+[containerd-chat]: https://join.slack.com/t/dockercommunity/shared_invite/enQtNDY4MDc1Mzc0MzIwLTgxZDBlMmM4ZGEyNDc1N2FkMzlhODJkYmE1YTVkYjM1MDE3ZjAwZjBkOGFlOTJkZjRmZGYzNjYyY2M3ZTUxYzQ
 
 ### CoreDNS
 
