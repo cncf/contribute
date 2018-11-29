@@ -57,14 +57,15 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 
 | Project Name                            | Maturity                           | Focus                   |
 |:---------------------------------------:|:----------------------------------:|:-----------------------:|
+|             [Envoy](#envoy)             |  [Graduated](#graduated-projects)  |      Service Mesh       |
 |        [Kubernetes](#kubernetes)        |  [Graduated](#graduated-projects)  |      Orchestration      |
 |        [Prometheus](#prometheus)        |  [Graduated](#graduated-projects)  |       Monitoring        |
 |               [CNI](#cni)               | [Incubating](#incubating-projects) |     Networking API      |
 |        [containerd](#containerd)        | [Incubating](#incubating-projects) |    Container Runtime    |
 |           [CoreDNS](#coredns)           | [Incubating](#incubating-projects) |    Service Discovery    |
-|             [Envoy](#envoy)             | [Incubating](#incubating-projects) |      Service Mesh       |
 |           [Fluentd](#fluentd)           | [Incubating](#incubating-projects) |         Logging         |
 |              [gRPC](#grpc)              | [Incubating](#incubating-projects) |  Remote Procedure Call  |
+|            [Harbor](#harbor)            | [Incubating](#incubating-projects) |        Registry         |
 |              [Helm](#helm)              | [Incubating](#incubating-projects) |   Package Management    |
 |            [Jaeger](#jaeger)            | [Incubating](#incubating-projects) |   Distributed Tracing   |
 |           [Linkerd](#linkerd)           | [Incubating](#incubating-projects) |      Service Mesh       |
@@ -75,11 +76,11 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |              [Rook](#rook)              | [Incubating](#incubating-projects) |         Storage         |
 |               [TUF](#tuf)               | [Incubating](#incubating-projects) |  Software Update Spec   |
 |            [Vitess](#vitess)            | [Incubating](#incubating-projects) |         Storage         |
-|        [Buildpacks](#buildpacks)        |    [Sandbox](#sandbox-projects)    |        Packaging        | 
+|        [Buildpacks](#buildpacks)        |    [Sandbox](#sandbox-projects)    |        Packaging        |
 |       [CloudEvents](#cloudevents)       |    [Sandbox](#sandbox-projects)    |       Serverless        |
 |            [Cortex](#cortex)            |    [Sandbox](#sandbox-projects)    |       Monitoring        |
+|         [Dragonfly](#dragonfly)         |    [Sandbox](#sandbox-projects)    |   Image Distribution    |
 |             [Falco](#falco)             |    [Sandbox](#sandbox-projects)    |   Container Security    |
-|            [Harbor](#harbor)            |    [Sandbox](#sandbox-projects)    |        Registry         |
 | [Open Policy Agent](#open-policy-agent) |    [Sandbox](#sandbox-projects)    |         Policy          |
 |       [OpenMetrics](#openmetrics)       |    [Sandbox](#sandbox-projects)    |         Tooling         |
 |            [SPIFFE](#spiffe)            |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
@@ -92,6 +93,28 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 
 Graduated Projects
 ------------------
+
+### Envoy
+
+*"Originally built at Lyft, Envoy is a high performance C++ distributed proxy designed for single services and
+applications, as well as a communication bus and “universal data plane” designed for large microservice “service mesh”
+architectures. Built on the learnings of solutions such as NGINX, HAProxy, hardware load balancers, and cloud load
+balancers, Envoy runs alongside every application and abstracts the network by providing common features in a
+platform-agnostic manner. When all service traffic in an infrastructure flows via an Envoy mesh, it becomes easy to
+visualize problem areas via consistent observability, tune overall performance, and add substrate features in a single
+place."* - [Why Envoy? - envoyproxy.io][envoy-overview]
+
+- **Project Repository:** https://github.com/envoyproxy/envoy
+- **Contributor Guide:** [envoyproxy/envoy/contributing][envoy-contributor-guide]
+- **Chat:** Slack: [envoyslack.cncf.io][envoy-chat]
+- **Developer Mailing List/Forum:** [Envoy-Dev Mailing List][envoy-dev-list]
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[envoy-overview]: https://www.envoyproxy.io/#why-envoy
+[envoy-contributor-guide]: https://github.com/envoyproxy/envoy/blob/master/CONTRIBUTING.md
+[envoy-chat]: https://envoyslack.cncf.io/
+[envoy-dev-list]: https://groups.google.com/forum/#!forum/envoy-dev
 
 ### Kubernetes
 
@@ -198,29 +221,6 @@ flexibility. CoreDNS is licensed under the Apache License Version 2, and complet
 [coredns-chat]: https://cloud-native.slack.com/messages/C4DF7FP71/
 [coredns-dev-list]: https://groups.google.com/forum/#!forum/coredns-discuss
 
-
-### Envoy
-
-*"Originally built at Lyft, Envoy is a high performance C++ distributed proxy designed for single services and
-applications, as well as a communication bus and “universal data plane” designed for large microservice “service mesh”
-architectures. Built on the learnings of solutions such as NGINX, HAProxy, hardware load balancers, and cloud load
-balancers, Envoy runs alongside every application and abstracts the network by providing common features in a
-platform-agnostic manner. When all service traffic in an infrastructure flows via an Envoy mesh, it becomes easy to
-visualize problem areas via consistent observability, tune overall performance, and add substrate features in a single
-place."* - [Why Envoy? - envoyproxy.io][envoy-overview]
-
-- **Project Repository:** https://github.com/envoyproxy/envoy
-- **Contributor Guide:** [envoyproxy/envoy/contributing][envoy-contributor-guide]
-- **Chat:** Slack: [envoyslack.cncf.io][envoy-chat]
-- **Developer Mailing List/Forum:** [Envoy-Dev Mailing List][envoy-dev-list]
-- **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** [DCO][DCO]
-
-[envoy-overview]: https://www.envoyproxy.io/#why-envoy
-[envoy-contributor-guide]: https://github.com/envoyproxy/envoy/blob/master/CONTRIBUTING.md
-[envoy-chat]: https://envoyslack.cncf.io/
-[envoy-dev-list]: https://groups.google.com/forum/#!forum/envoy-dev
-
 ### Fluentd
 
 *"Fluentd is an open source data collector for building the unified logging layer. Once installed on a server, it runs
@@ -257,6 +257,25 @@ browsers to backend services."* - [About - grpc.io][grpc-overview]
 [grpc-contributor-guide]: https://github.com/grpc/grpc/blob/master/CONTRIBUTING.md
 [grpc-chat]: https://gitter.im/grpc/grpc
 [grpc-dev-list]: https://groups.google.com/forum/#!forum/grpc-io
+
+### Harbor
+
+*"Project Harbor is an an open source trusted cloud native registry project that stores, signs, and scans content.
+Harbor extends the open source Docker Distribution by adding the functionalities usually required by users such as
+security, identity and management. Having a registry closer to the build and run environment can improve the image
+transfer efficiency. Harbor supports replication of images between registries, and also offers advanced security
+features such as user management, access control and activity auditing."* - [Harbor Readme][harbor-overview]
+
+- **Project Repository:** https://github.com/goharbor/harbor
+- **Contributor Guide:** [vmware/harbor/contributing][harbor-contributor-guide]
+- **Chat:** Slack: `#harbor-dev` in [slack.cncf.io][harbor-chat]
+- **Developer Mailing List/Forum:** [Harbor-Dev Mailing List][harbor-dev-list]
+- **License:** [Apache 2.0][apache-license]
+
+[harbor-overview]: https://github.com/goharbor/harbor
+[harbor-contributor-guide]: https://github.com/goharbor/harbor/blob/master/CONTRIBUTING.md
+[harbor-chat]: https://slack.cncf.io
+[harbor-dev-list]: https://groups.google.com/forum/#!forum/harbor-dev
 
 ### Helm
 
@@ -452,8 +471,6 @@ Dockerfiles."* - [What Are Buildpacks? - buildpacks.io][buildpacks-overview]
 [buildpacks-overview]: https://buildpacks.io/
 [buildpacks-chat]: https://slack.buildpacks.io/
 
-
-
 ### CloudEvents
 
 CloudEvents Specification
@@ -484,6 +501,22 @@ write destination, and a horizontally scalable, Prometheus-compatible query API.
 [cortex-contributor-guide]: https://github.com/cortexproject/cortex#for-developers
 [cortex-chat]: https://cloud-native.slack.com/messages/cortex/
 
+### Dragonfly
+
+*"Dragonfly is an intelligent P2P-based image and file distribution tool. It aims to improve the efficiency and success
+  rate of file transferring, and maximize the usage of network bandwidth, especially for the distribution of larget
+  amounts of data, such as application distribution, cache distribution, log distribution, and image
+  distribution."* - [Overview - d7y.io][dragonfly-overview]
+
+- **Project Repository:** https://github.com/dragonflyoss/dragonfly
+- **Contributor Guide:** [dragonflyoss/dragonfly/CONTRIBUTING][dragonfly-contributor-guide]
+- **Chat:** [gitter.im/alibaba/Dragonfly][dragonfly-chat]
+- **License:**  [Apache 2.0][apache-license]
+
+[dragonfly-overview]: https://d7y.io/
+[dragonfly-contributor-guide]: https://github.com/dragonflyoss/Dragonfly/blob/master/CONTRIBUTING.md
+[dragonfly-chat]: https://gitter.im/alibaba/Dragonfly
+
 ### Falco
 
 *"Falco is a behavioral activity monitor designed to detect anomalous activity in your applications. Powered by
@@ -499,27 +532,6 @@ host, and network activity... all in one place, from one source of data, with on
 [falco-overview]: https://github.com/falcosecurity/falco#overview
 [falco-chat]: https://slack.sysdig.com/
 [falco-legal]: https://github.com/falcosecurity/falco#contributor-license-agreements
-
-### Harbor
-
-*"Project Harbor is an an open source trusted cloud native registry project that stores, signs, and scans content.
-Harbor extends the open source Docker Distribution by adding the functionalities usually required by users such as
-security, identity and management. Having a registry closer to the build and run environment can improve the image
-transfer efficiency. Harbor supports replication of images between registries, and also offers advanced security
-features such as user management, access control and activity auditing."* - [Harbor Readme][harbor-overview]
-
-- **Project Repository:** https://github.com/goharbor/harbor
-- **Contributor Guide:** [vmware/harbor/contributing][harbor-contributor-guide]
-- **Chat:** Slack: [code.vmware.com][harbor-chat]
-- **Developer Mailing List/Forum:** [Harbor-Dev Mailing List][harbor-dev-list]
-- **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** [VMware CLA][harbor-legal]
-
-[harbor-overview]: https://github.com/goharbor/harbor
-[harbor-contributor-guide]: https://github.com/goharbor/harbor/blob/master/CONTRIBUTING.md
-[harbor-chat]: https://code.vmware.com/join/
-[harbor-dev-list]: https://groups.google.com/forum/#!forum/harbor-dev
-[harbor-legal]: https://cla.vmware.com/faq
 
 ### Open Policy Agent
 
@@ -595,7 +607,7 @@ systems and issue SPIFFE IDs and SVIDs to them."* - [Spire Readme][spire-overvie
 *"Telepresence is an open source tool that lets you run a single service locally, while connecting that service to a
 remote Kubernetes cluster."* - [Overview - telepresene.io][telepresence-overview]
 
-- **Project Repository:** https://github.com/telepresenceio/telepresesence
+- **Project Repository:** https://github.com/telepresenceio/telepresence
 - **Contributor Guide:** [telepresenceio/telepresence/docs/reference/developing][telepresence-contributor-guide]
 - **Chat:** Gitter: [gitter.im/datawire/telepresence][telepresence-chat]
 - **Developer Mailing List/Forum:** None
