@@ -64,6 +64,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |        [containerd](#containerd)        | [Incubating](#incubating-projects) |    Container Runtime    |
 |           [CoreDNS](#coredns)           | [Incubating](#incubating-projects) |    Service Discovery    |
 |           [Fluentd](#fluentd)           | [Incubating](#incubating-projects) |         Logging         |
+|              [etcd](#etcd)              | [Incubating](#incubating-projects) |     Key/Value Store     |
 |              [gRPC](#grpc)              | [Incubating](#incubating-projects) |  Remote Procedure Call  |
 |            [Harbor](#harbor)            | [Incubating](#incubating-projects) |        Registry         |
 |              [Helm](#helm)              | [Incubating](#incubating-projects) |   Package Management    |
@@ -87,6 +88,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |             [SPIRE](#spire)             |    [Sandbox](#sandbox-projects)    |        Identity         |
 |      [Telepresence](#telepresence)      |    [Sandbox](#sandbox-projects)    |         Tooling         |
 |              [TiKV](#tikv)              |    [Sandbox](#sandbox-projects)    |     Key/Value Store     |
+|   [Virtual Kubelet](#virtual-kubelet)   |    [Sandbox](#sandbox-projects)    |        Nodeless         |
 
 
 ---
@@ -238,6 +240,26 @@ in the background to collect, parse, transform, analyze and store various types 
 [fluentd-contributor-guide]: https://github.com/fluent/fluentd/blob/master/CONTRIBUTING.md
 [fluentd-chat]: https://slack.fluentd.org/
 [fluentd-dev-list]: https://groups.google.com/group/fluentd
+
+### etcd
+
+*"etcd is a distributed reliable key-value store for the most critical data of a distributed system, with a focus on being:*
+* *Simple: well-defined, user-facing API (gRPC)*
+* *Secure: automatic TLS with optional client cert authentication*
+* *Fast: benchmarked 10,000 writes/sec*
+* *Reliable: properly distributed using Raft"*
+\- [etcd readme][etcd-overview]
+
+- **Project Repository:** https://github.com/etcd-io/etcd
+- **Contributor Guide:** [etcd-io/etcd/contributing][etcd-contributor-guide]
+- **Chat:** `#etcd` on [freenode][freenode] (join via [Riot][etcd-chat]\)
+- **Developer List/Forum:** [etcd-dev Mailing List][etcd-dev-list]
+- **License:**  [Apache 2.0][apache-license]
+
+[etcd-overview]: https://github.com/etcd-io/etcd#etcd
+[etcd-contributor-guide]: https://github.com/etcd-io/etcd/blob/master/CONTRIBUTING.md
+[etcd-dev-list]: https://groups.google.com/forum/?hl=en#!forum/etcd-dev
+[etcd-chat]:  https://riot.im/app/#/room/#freenode_#etcd:matrix.org
 
 ### gRPC
 
@@ -632,3 +654,20 @@ system."* - [TiKV Readme][tikv-overview]
 
 [tikv-overview]: https://github.com/tikv/tikv#tikv
 [tikv-contributor-guide]: https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md
+
+### Virtual Kubelet
+
+*"Virtual Kubelet is an open source Kubernetes kubelet implementation that masquerades as a kubelet for the purposes of
+connecting Kubernetes to other APIs. This allows the nodes to be backed by other services like ACI, AWS Fargate,
+Hyper.sh, IoT Edge etc. The primary scenario for VK is enabling the extension of the Kubernetes API into serverless
+container platforms like ACI, Fargate, and Hyper.sh, though we are open to others. However, it should be noted that
+VK is explicitly not intended to be an alternative to Kubernetes federation."* -
+[Virtual Kubelet Readme][virtual-kubelet-overview]
+
+- **Project Repository:** https://github.com/virtual-kubelet/virtual-kubelet
+- **Contributor Guide:** [virtual-kubelet/virtual-kubelet/contributing][virtual-kubelet-contributor-guide]
+- **License:**  [Apache 2.0](apache-license)
+- **Legal Requirements:** [CNCF CLA][CNCF-CLA]
+
+[virtual-kubelet-overview]: https://github.com/virtual-kubelet/virtual-kubelet
+[virtual-kubelet-contributor-guide]: https://github.com/virtual-kubelet/virtual-kubelet/blob/master/CONTRIBUTING.md
