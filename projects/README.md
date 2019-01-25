@@ -57,12 +57,12 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 
 | Project Name                            | Maturity                           | Focus                   |
 |:---------------------------------------:|:----------------------------------:|:-----------------------:|
+|           [CoreDNS](#coredns)           |  [Graduated](#graduated-projects)  |    Service Discovery    |
 |             [Envoy](#envoy)             |  [Graduated](#graduated-projects)  |      Service Mesh       |
 |        [Kubernetes](#kubernetes)        |  [Graduated](#graduated-projects)  |      Orchestration      |
 |        [Prometheus](#prometheus)        |  [Graduated](#graduated-projects)  |       Monitoring        |
 |               [CNI](#cni)               | [Incubating](#incubating-projects) |     Networking API      |
 |        [containerd](#containerd)        | [Incubating](#incubating-projects) |    Container Runtime    |
-|           [CoreDNS](#coredns)           | [Incubating](#incubating-projects) |    Service Discovery    |
 |           [Fluentd](#fluentd)           | [Incubating](#incubating-projects) |         Logging         |
 |              [etcd](#etcd)              | [Incubating](#incubating-projects) |     Key/Value Store     |
 |              [gRPC](#grpc)              | [Incubating](#incubating-projects) |  Remote Procedure Call  |
@@ -90,11 +90,28 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |              [TiKV](#tikv)              |    [Sandbox](#sandbox-projects)    |     Key/Value Store     |
 |   [Virtual Kubelet](#virtual-kubelet)   |    [Sandbox](#sandbox-projects)    |        Nodeless         |
 
-
 ---
 
 Graduated Projects
 ------------------
+
+### CoreDNS
+
+*"CoreDNS is a DNS server. It is written in Go. It can be used in a multitude of environments because of its
+flexibility. CoreDNS is licensed under the Apache License Version 2, and completely open source."* -
+[What is it? - coredns.io][coredns-overview]
+
+- **Project Repository:** https://github.com/coredns/coredns
+- **Contributor Guide:** [coredns/coredns/contributing][coredns-contributor-guide]
+- **Chat:** Slack: `#coredns` in [slack.cncf.io][coredns-chat]
+- **Developer Mailing List/Forum:** [Coredns-Discuss Mailing List][coredns-dev-list]
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** None
+
+[coredns-overview]: https://coredns.io/
+[coredns-contributor-guide]: https://github.com/coredns/coredns/blob/master/CONTRIBUTING.md
+[coredns-chat]: https://cloud-native.slack.com/messages/C4DF7FP71/
+[coredns-dev-list]: https://groups.google.com/forum/#!forum/coredns-discuss
 
 ### Envoy
 
@@ -204,24 +221,6 @@ etc.."* - [About containerd - containerd.io][about-containerd]
 [container-overview]: https://containerd.io/#about-containerd
 [containerd-contributor-guide]: https://github.com/containerd/containerd/blob/master/CONTRIBUTING.md
 [containerd-chat]: https://join.slack.com/t/dockercommunity/shared_invite/enQtNDY4MDc1Mzc0MzIwLTgxZDBlMmM4ZGEyNDc1N2FkMzlhODJkYmE1YTVkYjM1MDE3ZjAwZjBkOGFlOTJkZjRmZGYzNjYyY2M3ZTUxYzQ
-
-### CoreDNS
-
-*"CoreDNS is a DNS server. It is written in Go. It can be used in a multitude of environments because of its
-flexibility. CoreDNS is licensed under the Apache License Version 2, and completely open source."* -
-[What is it? - coredns.io][coredns-overview]
-
-- **Project Repository:** https://github.com/coredns/coredns
-- **Contributor Guide:** [coredns/coredns/contributing][coredns-contributor-guide]
-- **Chat:** Slack: `#coredns` in [slack.cncf.io][coredns-chat]
-- **Developer Mailing List/Forum:** [Coredns-Discuss Mailing List][coredns-dev-list]
-- **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** None
-
-[coredns-overview]: https://coredns.io/
-[coredns-contributor-guide]: https://github.com/coredns/coredns/blob/master/CONTRIBUTING.md
-[coredns-chat]: https://cloud-native.slack.com/messages/C4DF7FP71/
-[coredns-dev-list]: https://groups.google.com/forum/#!forum/coredns-discuss
 
 ### Fluentd
 
