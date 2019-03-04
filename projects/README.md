@@ -1,4 +1,4 @@
-<!-- 
+<!--
 
 When adding a new project to the list, add an entry to the table under the CNCF Projects section. The table is sorted
 by Maturity, than by project name. Use the below template to add project details in the corresponding location in the
@@ -18,7 +18,7 @@ convenience.
 
 *"Quote or brief project description"* - [ ][${PROJECT}-overview]
 
-- **Project Repository:** 
+- **Project Repository:**
 - **Contributor Guide:** [ ][${PROJECT}-contributor-guide]
 - **Chat:** [ ][${PROJECT}-chat]
 - **Developer List/Forum:** [ ][${PROJECT}-dev-list]
@@ -37,7 +37,7 @@ convenience.
 -->
 
 <!-- Frequently Used Links -->
-[CNCF-CLA]: https://github.com/cncf/cla 
+[CNCF-CLA]: https://github.com/cncf/cla
 [DCO]: https://developercertificate.org/
 [apache-license]: https://choosealicense.com/licenses/apache-2.0/
 [mit-license]: https://choosealicense.com/licenses/mit/
@@ -52,17 +52,17 @@ All projects of the Cloud Native Computing Foundation are classified with one of
 - [Incubated](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc#incubating-stage)
 - [Sandboxed](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc#sandbox-stage)
 
-[CNCF Graduation Criteria](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) are documented in 
+[CNCF Graduation Criteria](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) are documented in
 the CNCF TOC repo. The document describes the maturity stages of the projects.
 
 | Project Name                            | Maturity                           | Focus                   |
 |:---------------------------------------:|:----------------------------------:|:-----------------------:|
+|        [containerd](#containerd)        |  [Graduated](#graduated-projects)  |    Container Runtime    |
 |           [CoreDNS](#coredns)           |  [Graduated](#graduated-projects)  |    Service Discovery    |
 |             [Envoy](#envoy)             |  [Graduated](#graduated-projects)  |      Service Mesh       |
 |        [Kubernetes](#kubernetes)        |  [Graduated](#graduated-projects)  |      Orchestration      |
 |        [Prometheus](#prometheus)        |  [Graduated](#graduated-projects)  |       Monitoring        |
 |               [CNI](#cni)               | [Incubating](#incubating-projects) |     Networking API      |
-|        [containerd](#containerd)        | [Incubating](#incubating-projects) |    Container Runtime    |
 |           [Fluentd](#fluentd)           | [Incubating](#incubating-projects) |         Logging         |
 |              [etcd](#etcd)              | [Incubating](#incubating-projects) |     Key/Value Store     |
 |              [gRPC](#grpc)              | [Incubating](#incubating-projects) |  Remote Procedure Call  |
@@ -94,6 +94,24 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 
 Graduated Projects
 ------------------
+
+### containerd
+
+*"containerd is an industry-standard core container runtime with an emphasis on simplicity, robustness and portability.
+It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host
+system: image transfer and storage, container execution and supervision, low-level storage and network attachments,
+etc.."* - [About containerd - containerd.io][about-containerd]
+
+- **Project Repository:** https://github.com/containerd/containerd
+- **Contributor Guide:** [containerd/containerd/contributing][containerd-contributor-guide]
+- **Chat:** Slack: `#containerd` in [dockercommunity.slack.com][containerd-chat]
+- **Developer Mailing List/Forum:** None
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[container-overview]: https://containerd.io/#about-containerd
+[containerd-contributor-guide]: https://github.com/containerd/containerd/blob/master/CONTRIBUTING.md
+[containerd-chat]: https://join.slack.com/t/dockercommunity/shared_invite/enQtNDY4MDc1Mzc0MzIwLTgxZDBlMmM4ZGEyNDc1N2FkMzlhODJkYmE1YTVkYjM1MDE3ZjAwZjBkOGFlOTJkZjRmZGYzNjYyY2M3ZTUxYzQ
 
 ### CoreDNS
 
@@ -137,7 +155,7 @@ place."* - [Why Envoy? - envoyproxy.io][envoy-overview]
 
 ### Kubernetes
 
-*"Kubernetes is a portable, extensible open-source platform for managing containerized workloads and services, that 
+*"Kubernetes is a portable, extensible open-source platform for managing containerized workloads and services, that
 facilitates both declarative configuration and automation. It has a large, rapidly growing ecosystem. Kubernetes
 services, support, and tools are widely available.*
 
@@ -203,24 +221,6 @@ implement."* - [What is CNI?- CNI Readme][cni-overview]
 [cni-contributor-guide]: https://github.com/containernetworking/cni/blob/master/CONTRIBUTING.md
 [cni-chat]: https://containernetworking.slack.com/
 [cni-dev-list]: https://groups.google.com/forum/#!forum/cni-dev
-
-### containerd
-
-*"containerd is an industry-standard core container runtime with an emphasis on simplicity, robustness and portability.
-It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host
-system: image transfer and storage, container execution and supervision, low-level storage and network attachments,
-etc.."* - [About containerd - containerd.io][about-containerd]
-
-- **Project Repository:** https://github.com/containerd/containerd
-- **Contributor Guide:** [containerd/containerd/contributing][containerd-contributor-guide]
-- **Chat:** Slack: `#containerd` in [dockercommunity.slack.com][containerd-chat]
-- **Developer Mailing List/Forum:** None
-- **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** [DCO][DCO]
-
-[container-overview]: https://containerd.io/#about-containerd
-[containerd-contributor-guide]: https://github.com/containerd/containerd/blob/master/CONTRIBUTING.md
-[containerd-chat]: https://join.slack.com/t/dockercommunity/shared_invite/enQtNDY4MDc1Mzc0MzIwLTgxZDBlMmM4ZGEyNDc1N2FkMzlhODJkYmE1YTVkYjM1MDE3ZjAwZjBkOGFlOTJkZjRmZGYzNjYyY2M3ZTUxYzQ
 
 ### Fluentd
 
@@ -320,7 +320,7 @@ Microsoft, Google, Bitnami and the Helm contributor community."* - [What is Helm
 ### Jaeger
 
 *"Jaeger, inspired by Dapper and OpenZipkin, is a distributed tracing system released as open source by Uber
-Technologies. It is used for monitoring and troubleshooting microservices-based distributed systems."* - 
+Technologies. It is used for monitoring and troubleshooting microservices-based distributed systems."* -
 [About - jaegertracing.io][jaeger-overview]
 
 - **Project Repository:** https://github.com/jaegertracing/jaeger
