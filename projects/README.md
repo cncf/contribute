@@ -89,6 +89,8 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |      [Telepresence](#telepresence)      |    [Sandbox](#sandbox-projects)    |         Tooling         |
 |              [TiKV](#tikv)              |    [Sandbox](#sandbox-projects)    |     Key/Value Store     |
 |   [Virtual Kubelet](#virtual-kubelet)   |    [Sandbox](#sandbox-projects)    |        Nodeless         |
+|          [KubeEdge](#kubeedge)          |    [Sandbox](#sandbox-projects)    |           Edge          |
+|           [Brigade](#brigade)           |    [Sandbox](#sandbox-projects)    |        Scripting        |
 
 ---
 
@@ -670,3 +672,30 @@ VK is explicitly not intended to be an alternative to Kubernetes federation."* -
 
 [virtual-kubelet-overview]: https://github.com/virtual-kubelet/virtual-kubelet
 [virtual-kubelet-contributor-guide]: https://github.com/virtual-kubelet/virtual-kubelet/blob/master/CONTRIBUTING.md
+
+### KubeEdge
+
+*"KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge."* - [KubeEdge website][KubeEdge-overview]
+
+- **Project Repository:** https://github.com/kubeedge/kubeedge
+- **Contributor Guide:** [KubeEdge-contributor-guide][KubeEdge-contributor-guide]
+- **Chat:** [KubeEdge][KubeEdge-chat]
+- **Developer List/Forum:** [KubeEdge][KubeEdge-dev-list]
+- **License:**  [Apache 2.0](apache-license)
+
+[KubeEdge-overview]: https://kubeedge.io/
+[KubeEdge-contributor-guide]: https://github.com/kubeedge/kubeedge/blob/master/CONTRIBUTING.md
+[KubeEdge-chat]: https://kubeedge.slack.com/
+[KubeEdge-dev-list]: https://groups.google.com/forum/?hl=en#!forum/kubeedge
+
+### Brigade
+
+*"Brigade is a tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster."* - [Brigade-overview][Brigade-overview]
+
+- **Project Repository:** https://github.com/brigadecore/brigade/
+- **Contributor Guide:** [Brigade-contributor-guide][Brigade-contributor-guide]
+- **Chat:** [Brigade-chat][Brigade-chat]
+
+[Brigade-overview]: https://brigade.sh/
+[Brigade-contributor-guide]: https://docs.brigade.sh/topics/developers/
+[Brigade-chat]: https://kubernetes.slack.com/messages/C87MF1RFD/
