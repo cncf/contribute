@@ -72,6 +72,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |           [Linkerd](#linkerd)           | [Incubating](#incubating-projects) |      Service Mesh       |
 |              [NATS](#nats)              | [Incubating](#incubating-projects) |        Messaging        |
 |            [Notary](#notary)            | [Incubating](#incubating-projects) |        Security         |
+| [Open Policy Agent](#open-policy-agent) | [Incubating](#incubating-projects) |         Policy          |
 |       [OpenTracing](#opentracing)       | [Incubating](#incubating-projects) | Distributed Tracing API |
 |               [rkt](#rkt)               | [Incubating](#incubating-projects) |    Container Runtime    |
 |              [Rook](#rook)              | [Incubating](#incubating-projects) |         Storage         |
@@ -82,7 +83,6 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |            [Cortex](#cortex)            |    [Sandbox](#sandbox-projects)    |       Monitoring        |
 |         [Dragonfly](#dragonfly)         |    [Sandbox](#sandbox-projects)    |   Image Distribution    |
 |             [Falco](#falco)             |    [Sandbox](#sandbox-projects)    |   Container Security    |
-| [Open Policy Agent](#open-policy-agent) |    [Sandbox](#sandbox-projects)    |         Policy          |
 |       [OpenMetrics](#openmetrics)       |    [Sandbox](#sandbox-projects)    |         Tooling         |
 |            [SPIFFE](#spiffe)            |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
 |             [SPIRE](#spire)             |    [Sandbox](#sandbox-projects)    |        Identity         |
@@ -391,6 +391,22 @@ enables malicious content to be substituted for the legitimate content."* [Overv
 [notary-contributor-guide]: https://github.com/theupdateframework/notary/blob/master/CONTRIBUTING.md
 [notary-dev-list]: https://groups.google.com/forum/?fromgroups#!forum/theupdateframework
 
+### Open Policy Agent
+
+*"OPA is a lightweight general-purpose policy engine that can be co-located with your service. You can integrate OPA
+as a sidecar, host-level daemon, or library."* - [What is OPA? - openpolicyagent.org][opa-overview]
+
+- **Project Repository:** https://github.com/open-policy-agent/opa
+- **Contributor Guide:** [open-policy-agent/opa/contributing][opa-contributor-guide]
+- **Chat:** Slack: [slack.openpolicyagent.org][opa-chat]
+- **Developer Mailing List/Forum:** None
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** None
+
+[opa-overview]: https://www.openpolicyagent.org/docs/#what-is-opa
+[opa-contributor-guide]: https://github.com/open-policy-agent/opa/blob/master/CONTRIBUTING.md
+[opa-chat]: https://slack.openpolicyagent.org/
+
 ### OpenTracing
 
 Vendor-neutral APIs and instrumentation for distributed tracing.
@@ -555,22 +571,6 @@ host, and network activity... all in one place, from one source of data, with on
 [falco-overview]: https://github.com/falcosecurity/falco#overview
 [falco-chat]: https://slack.sysdig.com/
 [falco-legal]: https://github.com/falcosecurity/falco#contributor-license-agreements
-
-### Open Policy Agent
-
-*"OPA is a lightweight general-purpose policy engine that can be co-located with your service. You can integrate OPA
-as a sidecar, host-level daemon, or library."* - [What is OPA? - openpolicyagent.org][opa-overview]
-
-- **Project Repository:** https://github.com/open-policy-agent/opa
-- **Contributor Guide:** [open-policy-agent/opa/contributing][opa-contributor-guide]
-- **Chat:** Slack: [slack.openpolicyagent.org][opa-chat]
-- **Developer Mailing List/Forum:** None
-- **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** None
-
-[opa-overview]: https://www.openpolicyagent.org/docs/#what-is-opa
-[opa-contributor-guide]: https://github.com/open-policy-agent/opa/blob/master/CONTRIBUTING.md
-[opa-chat]: https://slack.openpolicyagent.org/
 
 ### OpenMetrics
 
