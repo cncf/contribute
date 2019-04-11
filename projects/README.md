@@ -60,10 +60,10 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |        [containerd](#containerd)        |  [Graduated](#graduated-projects)  |    Container Runtime    |
 |           [CoreDNS](#coredns)           |  [Graduated](#graduated-projects)  |    Service Discovery    |
 |             [Envoy](#envoy)             |  [Graduated](#graduated-projects)  |      Service Mesh       |
+|           [Fluentd](#fluentd)           |  [Graduated](#graduated-projects)  |         Logging         |
 |        [Kubernetes](#kubernetes)        |  [Graduated](#graduated-projects)  |      Orchestration      |
 |        [Prometheus](#prometheus)        |  [Graduated](#graduated-projects)  |       Monitoring        |
 |               [CNI](#cni)               | [Incubating](#incubating-projects) |     Networking API      |
-|           [Fluentd](#fluentd)           | [Incubating](#incubating-projects) |         Logging         |
 |              [etcd](#etcd)              | [Incubating](#incubating-projects) |     Key/Value Store     |
 |              [gRPC](#grpc)              | [Incubating](#incubating-projects) |  Remote Procedure Call  |
 |            [Harbor](#harbor)            | [Incubating](#incubating-projects) |        Registry         |
@@ -155,6 +155,24 @@ place."* - [Why Envoy? - envoyproxy.io][envoy-overview]
 [envoy-chat]: https://envoyslack.cncf.io/
 [envoy-dev-list]: https://groups.google.com/forum/#!forum/envoy-dev
 
+### Fluentd
+
+*"Fluentd is an open source data collector for building the unified logging layer. Once installed on a server, it runs
+in the background to collect, parse, transform, analyze and store various types of data."* -
+[What is Fluentd? - fluentd.org faq][fluentd-overview]
+
+- **Project Repository:** https://github.com/fluent/fluentd
+- **Contributor Guide:** [fluent/fluentd/contributing][fluentd-contributor-guide]
+- **Chat:** Slack: [slack.fluentd.org][fluentd-chat]
+- **Developer Mailing List/Forum:** [Fluentd Mailing List][fluentd-dev-list]
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[fluentd-overview]: https://www.fluentd.org/faqs
+[fluentd-contributor-guide]: https://github.com/fluent/fluentd/blob/master/CONTRIBUTING.md
+[fluentd-chat]: https://slack.fluentd.org/
+[fluentd-dev-list]: https://groups.google.com/group/fluentd
+
 ### Kubernetes
 
 *"Kubernetes is a portable, extensible open-source platform for managing containerized workloads and services, that
@@ -223,24 +241,6 @@ implement."* - [What is CNI?- CNI Readme][cni-overview]
 [cni-contributor-guide]: https://github.com/containernetworking/cni/blob/master/CONTRIBUTING.md
 [cni-chat]: https://containernetworking.slack.com/
 [cni-dev-list]: https://groups.google.com/forum/#!forum/cni-dev
-
-### Fluentd
-
-*"Fluentd is an open source data collector for building the unified logging layer. Once installed on a server, it runs
-in the background to collect, parse, transform, analyze and store various types of data."* -
-[What is Fluentd? - fluentd.org faq][fluentd-overview]
-
-- **Project Repository:** https://github.com/fluent/fluentd
-- **Contributor Guide:** [fluent/fluentd/contributing][fluentd-contributor-guide]
-- **Chat:** Slack: [slack.fluentd.org][fluentd-chat]
-- **Developer Mailing List/Forum:** [Fluentd Mailing List][fluentd-dev-list]
-- **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** [DCO][DCO]
-
-[fluentd-overview]: https://www.fluentd.org/faqs
-[fluentd-contributor-guide]: https://github.com/fluent/fluentd/blob/master/CONTRIBUTING.md
-[fluentd-chat]: https://slack.fluentd.org/
-[fluentd-dev-list]: https://groups.google.com/group/fluentd
 
 ### etcd
 
