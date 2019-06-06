@@ -3,7 +3,24 @@ Contribution Guides to the CNCF Ecosystem
 
 Welcome! Are you interested in contributing to one of CNCF hosted projects? This repository should help you contains information and guidelines about contributions to CNCF projects.
 
-CNCF offers multiple ways to start contributing to the CNCF ecosystem, including either foundation-wide and project-wide opportunities.
+CNCF offers multiple ways to start contributing to the CNCF ecosystem, including either foundation-wide and project-wide opportunities. 
+
+Developers
+=== 
+Review our [projects](projects/README.md) for their current initiatives and ways to get involved.  
+
+Designers
+=== 
+We're always looking for ways for designers to be involved. Have an idea? Reach out to [info@cncf.io](info@cncf.io). 
+
+Event Organizers
+=== 
+Our meetups program may be a great fit for you to to contribute to the community! See the Community Engagement section of this document. 
+
+Technical Writers and Translators
+===
+Are you a writer looking to expand your open source contributions? Know another language?
+[Luc Perkins](lperkins@linuxfoundation.org) of CNCF helps guide our documentation and translation efforts and is your best resource to reach out to. 
 
 TOC
 ===
