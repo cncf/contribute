@@ -31,34 +31,8 @@ Fluentd: [Contributing](https://www.fluentd.org/contributing)
 Special interest groups within CNCF: 
 * [SIG-Storage](https://github.com/cncf/sig-storage/blob/master/storage-charter.md)
 * [SIG-Security](https://github.com/cncf/sig-security)
-* Proposed SIG: [App-Delivery SIG]()
 
-Kubernetes special interest groups: 
-
-* [API Machinery](https://github.com/kubernetes/community/blob/master/sig-api-machinery/README.md)
-* [Apps](https://github.com/kubernetes/community/blob/master/sig-apps/README.md)
-* [Architecture](https://github.com/kubernetes/community/blob/master/sig-architecture/README.md)
-* [Auth](https://github.com/kubernetes/community/blob/master/sig-auth/README.md)
-* [Autoscaling](https://github.com/kubernetes/community/blob/master/sig-autoscaling/README.md)
-* [Azure](https://github.com/kubernetes/community/blob/master/sig-azure/README.md)
-* [CLI](https://github.com/kubernetes/community/blob/master/sig-cli/README.md)
-* [Cloud Provider](https://github.com/kubernetes/community/blob/master/sig-cloud-provider/README.md)
-* [Cluster Lifecycle](https://github.com/kubernetes/community/blob/master/sig-cluster-lifecycle/README.md)
-* [GCP](https://github.com/kubernetes/community/blob/master/sig-gcp/README.md)
-* [IBMCloud](https://github.com/kubernetes/community/blob/master/sig-ibmcloud/README.md)
-* [Instrumentation](https://github.com/kubernetes/community/blob/master/sig-instrumentation/README.md)
-* [Multicluster](https://github.com/kubernetes/community/blob/master/sig-multicluster/README.md)
-* [Network](https://github.com/kubernetes/community/blob/master/sig-network/README.md)
-* [Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md)
-* [OpenStack](https://github.com/kubernetes/community/blob/master/sig-openstack/README.md)
-* [Release](https://github.com/kubernetes/community/blob/master/sig-release/README.md)
-* [Scalability](https://github.com/kubernetes/community/blob/master/sig-scalability/README.md)
-* [Service Catalog](https://github.com/kubernetes/community/blob/master/sig-service-catalog/README.md)
-* [Storage](https://github.com/kubernetes/community/blob/master/sig-storage/README.md)
-* [Testing](https://github.com/kubernetes/community/blob/master/sig-testing/README.md)
-* [UI](https://github.com/kubernetes/community/blob/master/sig-ui/README.md)
-* [VMWare](https://github.com/kubernetes/community/blob/master/sig-vmware/README.md)
-* [Windows](https://github.com/kubernetes/community/blob/master/sig-windows/README.md)
+Kubernetes [Special Interest Groups](https://github.com/kubernetes/community/blob/master/sig-list.md)
 
 
  Designers
