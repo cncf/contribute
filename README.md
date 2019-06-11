@@ -6,11 +6,12 @@ Welcome! Are you interested in contributing to one of CNCF hosted projects? This
 CNCF offers multiple ways to start contributing to the CNCF ecosystem, including either foundation-wide and project-wide opportunities. 
 
 Developers
-=== 
+--------------
 
-Kubernetes: (Contributor's Guide)[https://github.com/kubernetes/community/tree/master/contributors/guide]
-* Example Pull Request: (Ephemeral storage monitoring via filesystem quotas)[https://github.com/kubernetes/kubernetes/pull/66928]
-* Example Pull Request: (Initialize contributing cheatsheet in Bahasa Indonesia.)[https://github.com/kubernetes/community/pull/3697]
+Kubernetes: 
+[Contributor's Guide](https://github.com/kubernetes/community/tree/master/contributors/guide)
+* Example Pull Request: [Ephemeral storage monitoring via filesystem quotas](https://github.com/kubernetes/kubernetes/pull/66928)
+* Example Pull Request: [Initialize contributing cheatsheet in Bahasa Indonesia](https://github.com/kubernetes/community/pull/3697)
 
 Prometheus: [Community](https://prometheus.io/community/)
 * Example Pull Request: [GCE discovery](https://github.com/prometheus/prometheus/pull/1769)
@@ -19,7 +20,7 @@ EnvoyProxy: [Community](https://www.envoyproxy.io/community)
 * Example Pull Request: [cors: add ability to enable and shadow via runtime](https://github.com/envoyproxy/envoy/pull/5265)
 
 CoreDNS: [Community](https://coredns.io/community/)
-* Example Pull Request: (plugin/metadata: add metadata plugin)[https://github.com/coredns/coredns/pull/1894]
+* Example Pull Request: [plugin/metadata: add metadata plugin](https://github.com/coredns/coredns/pull/1894)
 
 Containerd: [Contributing](https://containerd.io/contributing/)
 * Example Pull Request: [Add restart manager to containerd](https://github.com/containerd/containerd/pull/2318)
@@ -61,7 +62,7 @@ Kubernetes special interest groups:
 
 
  Designers
-=== 
+--------------
 
 Kubernetes: 
 [UI](https://github.com/kubernetes/community/blob/master/sig-ui/README.md) 
@@ -70,7 +71,7 @@ Kubernetes:
 * Example Pull Request: [Design doc for access control management UI](https://github.com/kubernetes/dashboard/pull/1463)
 
  Event Organizers  - Product Managers - Project Managers - Program Managers 
-=== 
+--------------
 Our meetups program may be a great fit for you to to contribute to the community! See the Community Engagement section of this document.
 
 Special Interest Groups:
@@ -81,7 +82,7 @@ Special Interest Groups:
 * Example Pull Request: [adding more event handbooks](https://github.com/kubernetes/community/pull/3765)
 
  Technical Writers and Translators
-===
+--------------
 Are you a writer looking to expand your open source contributions? Know another language?
 
 Kubernetes: 
