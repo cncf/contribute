@@ -7,20 +7,88 @@ CNCF offers multiple ways to start contributing to the CNCF ecosystem, including
 
 Developers
 === 
-Review our [projects](projects/README.md) for their current initiatives and ways to get involved.  
 
-Designers
+Kubernetes: (Contributor's Guide)[https://github.com/kubernetes/community/tree/master/contributors/guide]
+* Example Pull Request: (Ephemeral storage monitoring via filesystem quotas)[https://github.com/kubernetes/kubernetes/pull/66928]
+* Example Pull Request: (Initialize contributing cheatsheet in Bahasa Indonesia.)[https://github.com/kubernetes/community/pull/3697]
+
+Prometheus: [Community](https://prometheus.io/community/)
+* Example Pull Request: [GCE discovery](https://github.com/prometheus/prometheus/pull/1769)
+
+EnvoyProxy: [Community](https://www.envoyproxy.io/community)
+* Example Pull Request: [cors: add ability to enable and shadow via runtime](https://github.com/envoyproxy/envoy/pull/5265)
+
+CoreDNS: [Community](https://coredns.io/community/)
+* Example Pull Request: (plugin/metadata: add metadata plugin)[https://github.com/coredns/coredns/pull/1894]
+
+Containerd: [Contributing](https://containerd.io/contributing/)
+* Example Pull Request: [Add restart manager to containerd](https://github.com/containerd/containerd/pull/2318)
+
+Fluentd: [Contributing](https://www.fluentd.org/contributing)
+* Example Pull Request: [Supported 'timezone' configuration parameter. (e.g. "+09:00" for JST)](https://github.com/fluent/fluentd/pull/430)
+
+Special interest groups within CNCF: 
+* [SIG-Storage](https://github.com/cncf/sig-storage/blob/master/storage-charter.md)
+* [SIG-Security](https://github.com/cncf/sig-security)
+* Proposed SIG: [App-Delivery SIG]()
+
+Kubernetes special interest groups: 
+
+* [API Machinery](https://github.com/kubernetes/community/blob/master/sig-api-machinery/README.md)
+* [Apps](https://github.com/kubernetes/community/blob/master/sig-apps/README.md)
+* [Architecture](https://github.com/kubernetes/community/blob/master/sig-architecture/README.md)
+* [Auth](https://github.com/kubernetes/community/blob/master/sig-auth/README.md)
+* [Autoscaling](https://github.com/kubernetes/community/blob/master/sig-autoscaling/README.md)
+* [Azure](https://github.com/kubernetes/community/blob/master/sig-azure/README.md)
+* [CLI](https://github.com/kubernetes/community/blob/master/sig-cli/README.md)
+* [Cloud Provider](https://github.com/kubernetes/community/blob/master/sig-cloud-provider/README.md)
+* [Cluster Lifecycle](https://github.com/kubernetes/community/blob/master/sig-cluster-lifecycle/README.md)
+* [GCP](https://github.com/kubernetes/community/blob/master/sig-gcp/README.md)
+* [IBMCloud](https://github.com/kubernetes/community/blob/master/sig-ibmcloud/README.md)
+* [Instrumentation](https://github.com/kubernetes/community/blob/master/sig-instrumentation/README.md)
+* [Multicluster](https://github.com/kubernetes/community/blob/master/sig-multicluster/README.md)
+* [Network](https://github.com/kubernetes/community/blob/master/sig-network/README.md)
+* [Node](https://github.com/kubernetes/community/blob/master/sig-node/README.md)
+* [OpenStack](https://github.com/kubernetes/community/blob/master/sig-openstack/README.md)
+* [Release](https://github.com/kubernetes/community/blob/master/sig-release/README.md)
+* [Scalability](https://github.com/kubernetes/community/blob/master/sig-scalability/README.md)
+* [Service Catalog](https://github.com/kubernetes/community/blob/master/sig-service-catalog/README.md)
+* [Storage](https://github.com/kubernetes/community/blob/master/sig-storage/README.md)
+* [Testing](https://github.com/kubernetes/community/blob/master/sig-testing/README.md)
+* [UI](https://github.com/kubernetes/community/blob/master/sig-ui/README.md)
+* [VMWare](https://github.com/kubernetes/community/blob/master/sig-vmware/README.md)
+* [Windows](https://github.com/kubernetes/community/blob/master/sig-windows/README.md)
+
+
+ Designers
 === 
-We're always looking for ways for designers to be involved. Have an idea? Reach out to [info@cncf.io](info@cncf.io). 
 
-Event Organizers
+Kubernetes: 
+[UI](https://github.com/kubernetes/community/blob/master/sig-ui/README.md) 
+
+[Dashboard](https://github.com/kubernetes/dashboard)
+* Example Pull Request: [Design doc for access control management UI](https://github.com/kubernetes/dashboard/pull/1463)
+
+ Event Organizers  - Product Managers - Project Managers - Program Managers 
 === 
-Our meetups program may be a great fit for you to to contribute to the community! See the Community Engagement section of this document. 
+Our meetups program may be a great fit for you to to contribute to the community! See the Community Engagement section of this document.
 
-Technical Writers and Translators
+Special Interest Groups:
+
+[PM Special Interest Group](https://github.com/kubernetes/community/blob/master/sig-pm/README.md)
+
+[Contributor Experience](https://github.com/kubernetes/community/blob/master/sig-contributor-experience/README.md)
+* Example Pull Request: [adding more event handbooks](https://github.com/kubernetes/community/pull/3765)
+
+ Technical Writers and Translators
 ===
 Are you a writer looking to expand your open source contributions? Know another language?
-[Luc Perkins](lperkins@linuxfoundation.org) of CNCF helps guide our documentation and translation efforts and is your best resource to reach out to. 
+
+Kubernetes: 
+[Docs](https://github.com/kubernetes/community/blob/master/sig-docs/README.md)
+
+* Example Pull Request: [Kubernetes Blog Subproject: Proposed README and Role Handbooks](https://github.com/kubernetes/community/pull/3721)
+
 
 TOC
 ===
