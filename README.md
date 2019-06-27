@@ -1,7 +1,7 @@
 Contribution Guides to the CNCF Ecosystem
 =========================================
 
-Welcome! Are you interested in contributing to one of CNCF hosted projects? This repository should help you contains information and guidelines about contributions to CNCF projects.
+Welcome! Are you interested in contributing to one of CNCF hosted projects? This repository should help you. It contains information and guidelines about contributions to CNCF projects.
 
 CNCF offers multiple ways to start contributing to the CNCF ecosystem, including either foundation-wide and project-wide opportunities.
 
