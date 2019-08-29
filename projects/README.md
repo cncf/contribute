@@ -74,7 +74,6 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |            [Notary](#notary)            | [Incubating](#incubating-projects) |        Security         |
 | [Open Policy Agent](#open-policy-agent) | [Incubating](#incubating-projects) |         Policy          |
 |       [OpenTracing](#opentracing)       | [Incubating](#incubating-projects) | Distributed Tracing API |
-|               [rkt](#rkt)               | [Incubating](#incubating-projects) |    Container Runtime    |
 |              [Rook](#rook)              | [Incubating](#incubating-projects) |         Storage         |
 |               [TUF](#tuf)               | [Incubating](#incubating-projects) |  Software Update Spec   |
 |            [Vitess](#vitess)            | [Incubating](#incubating-projects) |         Storage         |
@@ -91,6 +90,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |   [Virtual Kubelet](#virtual-kubelet)   |    [Sandbox](#sandbox-projects)    |        Nodeless         |
 |          [KubeEdge](#kubeedge)          |    [Sandbox](#sandbox-projects)    |           Edge          |
 |           [Brigade](#brigade)           |    [Sandbox](#sandbox-projects)    |        Scripting        |
+|               [rkt](#rkt)               | [Archived](#archived-projects)     |    Container Runtime    |
 
 ---
 
@@ -422,21 +422,6 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 [opentracing-chat]: https://gitter.im/opentracing/public
 [opentracing-dev-list]: https://groups.google.com/forum/#!forum/opentracing
 
-### rkt
-
-rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
-
-- **Project Repository:** https://github.com/rkt/rkt
-- **Contributor Guide:** [rkt/rkt/contributing][rkt-contributor-guide]
-- **Chat:** `#rkt-dev` on [freenode][freenode] (join via [Riot][rkt-chat]\)
-- **Developer Mailing List/Forum:** [rkt-dev Mailing List][rkt-dev-list]
-- **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** [DCO][DCO]
-
-[rkt-contributor-guide]: https://github.com/rkt/rkt/blob/master/CONTRIBUTING.md
-[rkt-chat]: https://riot.im/app/#/room/#freenode_#rkt-dev:matrix.org
-[rkt-dev-list]: https://groups.google.com/forum/#!forum/rkt-dev
-
 ### Rook
 
 *"Rook is an open source cloud-native storage orchestrator for Kubernetes, providing the platform, framework, and
@@ -699,3 +684,23 @@ VK is explicitly not intended to be an alternative to Kubernetes federation."* -
 [Brigade-overview]: https://brigade.sh/
 [Brigade-contributor-guide]: https://docs.brigade.sh/topics/developers/
 [Brigade-chat]: https://kubernetes.slack.com/messages/C87MF1RFD/
+
+---
+
+Archived Projects
+----------------
+
+### rkt
+
+rkt is a pod-native container engine for Linux. It is composable, secure, and built on standards.
+
+- **Project Repository:** https://github.com/rkt/rkt
+- **Contributor Guide:** [rkt/rkt/contributing][rkt-contributor-guide]
+- **Chat:** `#rkt-dev` on [freenode][freenode] (join via [Riot][rkt-chat]\)
+- **Developer Mailing List/Forum:** [rkt-dev Mailing List][rkt-dev-list]
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[rkt-contributor-guide]: https://github.com/rkt/rkt/blob/master/CONTRIBUTING.md
+[rkt-chat]: https://riot.im/app/#/room/#freenode_#rkt-dev:matrix.org
+[rkt-dev-list]: https://groups.google.com/forum/#!forum/rkt-dev
