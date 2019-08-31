@@ -78,18 +78,18 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |              [TiKV](#tikv)              | [Incubating](#incubating-projects) |     Key/Value Store     |
 |               [TUF](#tuf)               | [Incubating](#incubating-projects) |  Software Update Spec   |
 |            [Vitess](#vitess)            | [Incubating](#incubating-projects) |         Storage         |
+|           [Brigade](#brigade)           |    [Sandbox](#sandbox-projects)    |        Scripting        |
 |        [Buildpacks](#buildpacks)        |    [Sandbox](#sandbox-projects)    |        Packaging        |
 |       [CloudEvents](#cloudevents)       |    [Sandbox](#sandbox-projects)    |       Serverless        |
 |            [Cortex](#cortex)            |    [Sandbox](#sandbox-projects)    |       Monitoring        |
 |         [Dragonfly](#dragonfly)         |    [Sandbox](#sandbox-projects)    |   Image Distribution    |
 |             [Falco](#falco)             |    [Sandbox](#sandbox-projects)    |   Container Security    |
+|          [KubeEdge](#kubeedge)          |    [Sandbox](#sandbox-projects)    |           Edge          |
 |       [OpenMetrics](#openmetrics)       |    [Sandbox](#sandbox-projects)    |         Tooling         |
 |            [SPIFFE](#spiffe)            |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
 |             [SPIRE](#spire)             |    [Sandbox](#sandbox-projects)    |        Identity         |
 |      [Telepresence](#telepresence)      |    [Sandbox](#sandbox-projects)    |         Tooling         |
 |   [Virtual Kubelet](#virtual-kubelet)   |    [Sandbox](#sandbox-projects)    |        Nodeless         |
-|          [KubeEdge](#kubeedge)          |    [Sandbox](#sandbox-projects)    |           Edge          |
-|           [Brigade](#brigade)           |    [Sandbox](#sandbox-projects)    |        Scripting        |
 |               [rkt](#rkt)               |   [Archived](#archived-projects)   |    Container Runtime    |
 
 ---
@@ -499,6 +499,18 @@ extends many important MySQL features with the scalability of a NoSQL database."
 Sandbox Projects
 ----------------
 
+### Brigade
+
+*"Brigade is a tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster."* - [Brigade-overview][Brigade-overview]
+
+- **Project Repository:** https://github.com/brigadecore/brigade/
+- **Contributor Guide:** [Brigade-contributor-guide][Brigade-contributor-guide]
+- **Chat:** [Brigade-chat][Brigade-chat]
+
+[Brigade-overview]: https://brigade.sh/
+[Brigade-contributor-guide]: https://docs.brigade.sh/topics/developers/
+[Brigade-chat]: https://kubernetes.slack.com/messages/C87MF1RFD/
+
 ### Buildpacks
 
 *"Buildpacks provide a higher-level abstraction for building apps compared to
@@ -572,6 +584,21 @@ host, and network activity... all in one place, from one source of data, with on
 [falco-overview]: https://github.com/falcosecurity/falco#overview
 [falco-chat]: https://slack.sysdig.com/
 [falco-legal]: https://github.com/falcosecurity/falco#contributor-license-agreements
+
+### KubeEdge
+
+*"KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge."* - [KubeEdge website][KubeEdge-overview]
+
+- **Project Repository:** https://github.com/kubeedge/kubeedge
+- **Contributor Guide:** [KubeEdge-contributor-guide][KubeEdge-contributor-guide]
+- **Chat:** [KubeEdge][KubeEdge-chat]
+- **Developer List/Forum:** [KubeEdge][KubeEdge-dev-list]
+- **License:**  [Apache 2.0](apache-license)
+
+[KubeEdge-overview]: https://kubeedge.io/
+[KubeEdge-contributor-guide]: https://github.com/kubeedge/kubeedge/blob/master/CONTRIBUTING.md
+[KubeEdge-chat]: https://kubeedge.slack.com/
+[KubeEdge-dev-list]: https://groups.google.com/forum/?hl=en#!forum/kubeedge
 
 ### OpenMetrics
 
@@ -660,32 +687,6 @@ VK is explicitly not intended to be an alternative to Kubernetes federation."* -
 [virtual-kubelet-overview]: https://github.com/virtual-kubelet/virtual-kubelet
 [virtual-kubelet-contributor-guide]: https://github.com/virtual-kubelet/virtual-kubelet/blob/master/CONTRIBUTING.md
 
-### KubeEdge
-
-*"KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge."* - [KubeEdge website][KubeEdge-overview]
-
-- **Project Repository:** https://github.com/kubeedge/kubeedge
-- **Contributor Guide:** [KubeEdge-contributor-guide][KubeEdge-contributor-guide]
-- **Chat:** [KubeEdge][KubeEdge-chat]
-- **Developer List/Forum:** [KubeEdge][KubeEdge-dev-list]
-- **License:**  [Apache 2.0](apache-license)
-
-[KubeEdge-overview]: https://kubeedge.io/
-[KubeEdge-contributor-guide]: https://github.com/kubeedge/kubeedge/blob/master/CONTRIBUTING.md
-[KubeEdge-chat]: https://kubeedge.slack.com/
-[KubeEdge-dev-list]: https://groups.google.com/forum/?hl=en#!forum/kubeedge
-
-### Brigade
-
-*"Brigade is a tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster."* - [Brigade-overview][Brigade-overview]
-
-- **Project Repository:** https://github.com/brigadecore/brigade/
-- **Contributor Guide:** [Brigade-contributor-guide][Brigade-contributor-guide]
-- **Chat:** [Brigade-chat][Brigade-chat]
-
-[Brigade-overview]: https://brigade.sh/
-[Brigade-contributor-guide]: https://docs.brigade.sh/topics/developers/
-[Brigade-chat]: https://kubernetes.slack.com/messages/C87MF1RFD/
 
 ---
 
