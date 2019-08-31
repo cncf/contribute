@@ -87,6 +87,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |                [Falco](#falco)                |    [Sandbox](#sandbox-projects)    |    Container Security   |
 |             [KubeEdge](#kubeedge)             |    [Sandbox](#sandbox-projects)    |           Edge          |
 | [Network Service Mesh](#network-service-mesh) |    [Sandbox](#sandbox-projects)    |        Networking       |
+|              [OpenEBS](#openebs)              |    [Sandbox](#sandbox-projects)    |         Storage         |
 |          [OpenMetrics](#openmetrics)          |    [Sandbox](#sandbox-projects)    |         Tooling         |
 |        [OpenTelemetry](#opentelemetry)        |    [Sandbox](#sandbox-projects)    | Telemetry Specification |
 |               [SPIFFE](#spiffe)               |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
@@ -631,11 +632,25 @@ a service mesh to L2/L3 payloads."* - [What is Network Service Mesh? - networkse
 - **Project Repository:** https://github.com/networkservicemesh
 - **Chat:** Slack `#nsm-dev` in [slack.cncf.io][nsm-chat]
 - **Developer List/Forum:** [Network Service Mesh Mailing List][nsm-dev-list]
-- **License:** [Apache 2.0](apache-license)
+
 
 [nsm-overview]: https://networkservicemesh.io/docs/concepts/what-is-nsm
 [nsm-chat]: https://cloud-native.slack.com/messages/CHSKJ4849/
 [nsm-dev-list]: https://groups.google.com/forum/#!forum/networkservicemesh
+
+### OpenEBS
+
+*"OpenEBS is the leading open-source project for container-attached and container-native storage on Kubernetes. OpenEBS adopts Container Attached Storage (CAS) approach, where each workload is provided with a dedicated storage controller. OpenEBS implements granular storage policies and isolation that enable users to optimize storage for each specific workload. OpenEBS runs in user space and does not have any Linux kernel module dependencies."* - [Introduction - OpenEBS.io][openebs-overview]
+
+- **Project Repository:** https://github.com/openebs
+- **Contributor Guide:** [openebs/openebs/CONTRIBUTING][openebs-contributor-guide]
+- **Chat:** Slack: [openebs-community.slack.com][openebs-chat]
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[openebs-overview]: https://docs.openebs.io/#font-size-6-introduction-font
+[openebs-contributor-guide]: https://github.com/openebs/openebs/blob/master/CONTRIBUTING.md
+[openebs-chat]: https://openebs-community.slack.com/messages/openebs-users/
 
 ### OpenMetrics
 
