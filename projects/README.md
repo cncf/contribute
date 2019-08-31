@@ -85,6 +85,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |               [Cortex](#cortex)               |    [Sandbox](#sandbox-projects)    |        Monitoring       |
 |            [Dragonfly](#dragonfly)            |    [Sandbox](#sandbox-projects)    |    Image Distribution   |
 |                [Falco](#falco)                |    [Sandbox](#sandbox-projects)    |    Container Security   |
+|                 [Flux](#flux)                 |    [Sandbox](#sandbox-projects)    |          GitOps         |
 |             [KubeEdge](#kubeedge)             |    [Sandbox](#sandbox-projects)    |           Edge          |
 | [Network Service Mesh](#network-service-mesh) |    [Sandbox](#sandbox-projects)    |        Networking       |
 |              [OpenEBS](#openebs)              |    [Sandbox](#sandbox-projects)    |         Storage         |
@@ -607,6 +608,24 @@ host, and network activity... all in one place, from one source of data, with on
 [falco-overview]: https://github.com/falcosecurity/falco#overview
 [falco-chat]: https://slack.sysdig.com/
 [falco-legal]: https://github.com/falcosecurity/falco#contributor-license-agreements
+
+### Flux
+
+*"Flux is a tool that automatically ensures that the state of your Kubernetes cluster matches the configuration you’ve
+supplied in Git. It uses an operator in the cluster to trigger deployments inside Kubernetes, which means that you don’t
+need a separate continuous delivery tool."* - [Flux - fluxcd.io][flux-overview]
+
+- **Project Repository:** https://github.com/fluxcd/flux
+- **Contributor Guide:** [fluxcd/flux/CONTRIBUTING][flux-contributor-guide]
+- **Chat:** Slack: `#flux` in [slack.cncf.io][flux-chat]
+- **Developer List/Forum:** [Flux Dev Mailing List][flux-dev-list]
+- **License:**  [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[flux-overview]: https://fluxcd.io/
+[flux-contributor-guide]: https://github.com/fluxcd/flux/blob/master/CONTRIBUTING.md
+[flux-chat]: https://app.slack.com/client/T08PSQ7BQ/CLAJ40HV3
+[flux-dev-list]: https://lists.cncf.io/g/cncf-flux-dev
 
 ### KubeEdge
 
