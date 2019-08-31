@@ -55,43 +55,44 @@ All projects of the Cloud Native Computing Foundation are classified with one of
 [CNCF Graduation Criteria](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) are documented in
 the CNCF TOC repo. The document describes the maturity stages of the projects.
 
-| Project Name                            | Maturity                           | Focus                   |
-|:---------------------------------------:|:----------------------------------:|:-----------------------:|
-|        [containerd](#containerd)        |  [Graduated](#graduated-projects)  |    Container Runtime    |
-|           [CoreDNS](#coredns)           |  [Graduated](#graduated-projects)  |    Service Discovery    |
-|             [Envoy](#envoy)             |  [Graduated](#graduated-projects)  |      Service Mesh       |
-|           [Fluentd](#fluentd)           |  [Graduated](#graduated-projects)  |         Logging         |
-|        [Kubernetes](#kubernetes)        |  [Graduated](#graduated-projects)  |      Orchestration      |
-|        [Prometheus](#prometheus)        |  [Graduated](#graduated-projects)  |       Monitoring        |
-|               [CNI](#cni)               | [Incubating](#incubating-projects) |     Networking API      |
-|             [CRI-O](#cri-o)             | [Incubating](#incubating-projects) |    Container Runtime    |
-|              [etcd](#etcd)              | [Incubating](#incubating-projects) |     Key/Value Store     |
-|              [gRPC](#grpc)              | [Incubating](#incubating-projects) |  Remote Procedure Call  |
-|            [Harbor](#harbor)            | [Incubating](#incubating-projects) |        Registry         |
-|              [Helm](#helm)              | [Incubating](#incubating-projects) |   Package Management    |
-|            [Jaeger](#jaeger)            | [Incubating](#incubating-projects) |   Distributed Tracing   |
-|           [Linkerd](#linkerd)           | [Incubating](#incubating-projects) |      Service Mesh       |
-|              [NATS](#nats)              | [Incubating](#incubating-projects) |        Messaging        |
-|            [Notary](#notary)            | [Incubating](#incubating-projects) |        Security         |
-| [Open Policy Agent](#open-policy-agent) | [Incubating](#incubating-projects) |         Policy          |
-|       [OpenTracing](#opentracing)       | [Incubating](#incubating-projects) | Distributed Tracing API |
-|              [Rook](#rook)              | [Incubating](#incubating-projects) |         Storage         |
-|              [TiKV](#tikv)              | [Incubating](#incubating-projects) |     Key/Value Store     |
-|               [TUF](#tuf)               | [Incubating](#incubating-projects) |  Software Update Spec   |
-|            [Vitess](#vitess)            | [Incubating](#incubating-projects) |         Storage         |
-|           [Brigade](#brigade)           |    [Sandbox](#sandbox-projects)    |        Scripting        |
-|        [Buildpacks](#buildpacks)        |    [Sandbox](#sandbox-projects)    |        Packaging        |
-|       [CloudEvents](#cloudevents)       |    [Sandbox](#sandbox-projects)    |       Serverless        |
-|            [Cortex](#cortex)            |    [Sandbox](#sandbox-projects)    |       Monitoring        |
-|         [Dragonfly](#dragonfly)         |    [Sandbox](#sandbox-projects)    |   Image Distribution    |
-|             [Falco](#falco)             |    [Sandbox](#sandbox-projects)    |   Container Security    |
-|          [KubeEdge](#kubeedge)          |    [Sandbox](#sandbox-projects)    |           Edge          |
-|       [OpenMetrics](#openmetrics)       |    [Sandbox](#sandbox-projects)    |         Tooling         |
-|            [SPIFFE](#spiffe)            |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
-|             [SPIRE](#spire)             |    [Sandbox](#sandbox-projects)    |        Identity         |
-|      [Telepresence](#telepresence)      |    [Sandbox](#sandbox-projects)    |         Tooling         |
-|   [Virtual Kubelet](#virtual-kubelet)   |    [Sandbox](#sandbox-projects)    |        Nodeless         |
-|               [rkt](#rkt)               |   [Archived](#archived-projects)   |    Container Runtime    |
+|                  Project Name                 |              Maturity              |          Focus          |
+|:---------------------------------------------:|:----------------------------------:|:-----------------------:|
+|           [containerd](#containerd)           |  [Graduated](#graduated-projects)  |    Container Runtime    |
+|              [CoreDNS](#coredns)              |  [Graduated](#graduated-projects)  |    Service Discovery    |
+|                [Envoy](#envoy)                |  [Graduated](#graduated-projects)  |       Service Mesh      |
+|              [Fluentd](#fluentd)              |  [Graduated](#graduated-projects)  |         Logging         |
+|           [Kubernetes](#kubernetes)           |  [Graduated](#graduated-projects)  |      Orchestration      |
+|           [Prometheus](#prometheus)           |  [Graduated](#graduated-projects)  |        Monitoring       |
+|                  [CNI](#cni)                  | [Incubating](#incubating-projects) |      Networking API     |
+|                [CRI-O](#cri-o)                | [Incubating](#incubating-projects) |    Container Runtime    |
+|                 [etcd](#etcd)                 | [Incubating](#incubating-projects) |     Key/Value Store     |
+|                 [gRPC](#grpc)                 | [Incubating](#incubating-projects) |  Remote Procedure Call  |
+|               [Harbor](#harbor)               | [Incubating](#incubating-projects) |         Registry        |
+|                 [Helm](#helm)                 | [Incubating](#incubating-projects) |    Package Management   |
+|               [Jaeger](#jaeger)               | [Incubating](#incubating-projects) |   Distributed Tracing   |
+|              [Linkerd](#linkerd)              | [Incubating](#incubating-projects) |       Service Mesh      |
+|                 [NATS](#nats)                 | [Incubating](#incubating-projects) |        Messaging        |
+|               [Notary](#notary)               | [Incubating](#incubating-projects) |         Security        |
+|    [Open Policy Agent](#open-policy-agent)    | [Incubating](#incubating-projects) |          Policy         |
+|          [OpenTracing](#opentracing)          | [Incubating](#incubating-projects) | Distributed Tracing API |
+|                 [Rook](#rook)                 | [Incubating](#incubating-projects) |         Storage         |
+|                 [TiKV](#tikv)                 | [Incubating](#incubating-projects) |     Key/Value Store     |
+|                  [TUF](#tuf)                  | [Incubating](#incubating-projects) |   Software Update Spec  |
+|               [Vitess](#vitess)               | [Incubating](#incubating-projects) |         Storage         |
+|              [Brigade](#brigade)              |    [Sandbox](#sandbox-projects)    |        Scripting        |
+|           [Buildpacks](#buildpacks)           |    [Sandbox](#sandbox-projects)    |        Packaging        |
+|          [CloudEvents](#cloudevents)          |    [Sandbox](#sandbox-projects)    |        Serverless       |
+|               [Cortex](#cortex)               |    [Sandbox](#sandbox-projects)    |        Monitoring       |
+|            [Dragonfly](#dragonfly)            |    [Sandbox](#sandbox-projects)    |    Image Distribution   |
+|                [Falco](#falco)                |    [Sandbox](#sandbox-projects)    |    Container Security   |
+|             [KubeEdge](#kubeedge)             |    [Sandbox](#sandbox-projects)    |           Edge          |
+| [Network Service Mesh](#network-service-mesh) |    [Sandbox](#sandbox-projects)    |        Networking       |
+|          [OpenMetrics](#openmetrics)          |    [Sandbox](#sandbox-projects)    |         Tooling         |
+|               [SPIFFE](#spiffe)               |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
+|                [SPIRE](#spire)                |    [Sandbox](#sandbox-projects)    |         Identity        |
+|         [Telepresence](#telepresence)         |    [Sandbox](#sandbox-projects)    |         Tooling         |
+|      [Virtual Kubelet](#virtual-kubelet)      |    [Sandbox](#sandbox-projects)    |         Nodeless        |
+|                  [rkt](#rkt)                  |   [Archived](#archived-projects)   |    Container Runtime    |
 
 ---
 
@@ -606,7 +607,8 @@ host, and network activity... all in one place, from one source of data, with on
 
 ### KubeEdge
 
-*"KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts at Edge."* - [KubeEdge website][KubeEdge-overview]
+*"KubeEdge is an open source system for extending native containerized application orchestration capabilities to hosts
+at Edge."* - [KubeEdge website][KubeEdge-overview]
 
 - **Project Repository:** https://github.com/kubeedge/kubeedge
 - **Contributor Guide:** [KubeEdge-contributor-guide][KubeEdge-contributor-guide]
@@ -618,6 +620,21 @@ host, and network activity... all in one place, from one source of data, with on
 [KubeEdge-contributor-guide]: https://github.com/kubeedge/kubeedge/blob/master/CONTRIBUTING.md
 [KubeEdge-chat]: https://kubeedge.slack.com/
 [KubeEdge-dev-list]: https://groups.google.com/forum/?hl=en#!forum/kubeedge
+
+### Network Service Mesh
+
+*"Network Service Mesh (NSM) is a novel approach to solving complicated L2/L3 use cases in Kubernetes that are tricky
+to address withing the existing Kubernetes Network Model. Inspired by Istio, Network Service Mesh maps the concept of
+a service mesh to L2/L3 payloads."* - [What is Network Service Mesh? - networkservicemesh.io ][nsm-overview]
+
+- **Project Repository:** https://github.com/networkservicemesh
+- **Chat:** Slack `#nsm-dev` in [slack.cncf.io][nsm-chat]
+- **Developer List/Forum:** [Network Service Mesh Mailing List][nsm-dev-list]
+- **License:** [Apache 2.0](apache-license)
+
+[nsm-overview]: https://networkservicemesh.io/docs/concepts/what-is-nsm
+[nsm-chat]: https://cloud-native.slack.com/messages/CHSKJ4849/
+[nsm-dev-list]: https://groups.google.com/forum/#!forum/networkservicemesh
 
 ### OpenMetrics
 
