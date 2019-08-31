@@ -88,6 +88,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |             [KubeEdge](#kubeedge)             |    [Sandbox](#sandbox-projects)    |           Edge          |
 | [Network Service Mesh](#network-service-mesh) |    [Sandbox](#sandbox-projects)    |        Networking       |
 |          [OpenMetrics](#openmetrics)          |    [Sandbox](#sandbox-projects)    |         Tooling         |
+|        [OpenTelemetry](#opentelemetry)        |    [Sandbox](#sandbox-projects)    | Telemetry Specification |
 |               [SPIFFE](#spiffe)               |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
 |                [SPIRE](#spire)                |    [Sandbox](#sandbox-projects)    |         Identity        |
 |         [Telepresence](#telepresence)         |    [Sandbox](#sandbox-projects)    |         Tooling         |
@@ -646,11 +647,23 @@ Protocol Buffers."* - [openmetrics.io][openmetrics-overview]
 - **Chat:** Slack: `#openmetrics` in [slack.cncf.io][openmetrics-chat]
 - **Developer Mailing List/Forum:** [OpemMetrics Mailing List][openmetrics-dev-list]
 - **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** None
 
 [openmetrics-overview]: https://openmetrics.io/
 [openmetrics-chat]: https://cloud-native.slack.com/messages/CC6CPDEJV/
 [openmetrics-dev-list]: https://groups.google.com/forum/m/#!forum/openmetrics
+
+### OpenTelemetry
+
+*"OpenTelemetry is made up of an integrated set of APIs and libraries as well as a collection mechanism via an agent and collector. These components are used to generate, collect, and describe telemetry about distributed systems. This data includes basic context propagation, distributed traces, metrics, and other signals in the future. OpenTelemetry is designed to make it easy to get critical telemetry data out of your services and into your backend(s) of choice. For each supported language it offers a single set of APIs, libraries, and data specifications, and developers can take advantage of whichever components they see fit.* - [What is OpenTelemetry? - opentelemetry.io][opentelemetry-overview]
+
+- **Project Repository:** https://github.com/open-telemetry
+- **Chat:** Gitter: [open-telemetry/community][opentelemetry-chat]
+- **Developer List/Forum:** [OpenTelemetry Dev Mailing List][opentelemetry-dev-list]
+- **License:** [Apache 2.0][apache-license]
+
+[opentelemetry-overview]: https://opentelemetry.io/
+[opentelemetry-chat]: https://gitter.im/open-telemetry/community
+[opentelemetry-dev-list]: https://lists.cncf.io/g/cncf-opentelemetry-contributors
 
 ### SPIFFE
 
