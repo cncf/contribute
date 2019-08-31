@@ -64,6 +64,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |        [Kubernetes](#kubernetes)        |  [Graduated](#graduated-projects)  |      Orchestration      |
 |        [Prometheus](#prometheus)        |  [Graduated](#graduated-projects)  |       Monitoring        |
 |               [CNI](#cni)               | [Incubating](#incubating-projects) |     Networking API      |
+|             [CRI-O](#cri-o)             | [Incubating](#incubating-projects) |    Container Runtime    |
 |              [etcd](#etcd)              | [Incubating](#incubating-projects) |     Key/Value Store     |
 |              [gRPC](#grpc)              | [Incubating](#incubating-projects) |  Remote Procedure Call  |
 |            [Harbor](#harbor)            | [Incubating](#incubating-projects) |        Registry         |
@@ -241,6 +242,24 @@ implement."* - [What is CNI?- CNI Readme][cni-overview]
 [cni-contributor-guide]: https://github.com/containernetworking/cni/blob/master/CONTRIBUTING.md
 [cni-chat]: https://containernetworking.slack.com/
 [cni-dev-list]: https://groups.google.com/forum/#!forum/cni-dev
+
+### CRI-O
+
+*"CRI-O is an implementation of the Kubernetes CRI (Container Runtime Interface) to enable using OCI (Open Container
+Initiative) compatible runtimes. It is a lightweight alternative to using Docker as the runtime for kubernetes. It
+allows Kubernetes to use any OCI-compliant runtime as the container runtime for running pods. Today it supports runc
+and Kata Containers as the container runtimes but any OCI-conformant runtime can be plugged in principle."* -
+[What is CRI-O? - CRI-O.org][crio-overview]
+
+- **Project Repository:** https://github.com/cri-o
+- **Contributor Guide:** [cri-o/cri-o/CONTRIBUTING.md][crio-contributor-guide]
+- **Chat:** `#cri-o` on [freenode][freenode] (join via [Riot][crio-chat])
+- **License:**  [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[crio-overview]: https://cri-o.io/
+[crio-contributor-guide]: https://github.com/cri-o/cri-o/blob/master/CONTRIBUTING.md
+[crio-chat]: https://riot.im/app/#/room/#freenode_#cri-o:matrix.org
 
 ### etcd
 
