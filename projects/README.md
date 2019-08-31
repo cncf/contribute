@@ -93,6 +93,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |               [SPIFFE](#spiffe)               |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
 |                [SPIRE](#spire)                |    [Sandbox](#sandbox-projects)    |         Identity        |
 |         [Telepresence](#telepresence)         |    [Sandbox](#sandbox-projects)    |         Tooling         |
+|               [Thanos](#thanos)               |    [Sandbox](#sandbox-projects)    |        Monitoring       |
 |      [Virtual Kubelet](#virtual-kubelet)      |    [Sandbox](#sandbox-projects)    |         Nodeless        |
 |                  [rkt](#rkt)                  |   [Archived](#archived-projects)   |    Container Runtime    |
 
@@ -727,12 +728,27 @@ remote Kubernetes cluster."* - [Overview - telepresene.io][telepresence-overview
 - **Chat:** Gitter: [gitter.im/datawire/telepresence][telepresence-chat]
 - **Developer Mailing List/Forum:** None
 - **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** None
+
 
 [telepresence-overview]: https://www.telepresence.io/discussion/overview
 [telepresence-contributor-guide]: https://github.com/telepresenceio/telepresence/blob/master/docs/reference/developing.md
 [telepresence-chat]: https://gitter.im/datawire/telepresence
 
+### Thanos
+
+*"Thanos is a set of components that can be composed into a highly available metric system with unlimited storage
+capacity, which can be added seamlessly on top of existing Prometheus deployments."* -
+[Overview - Thanos readme][thanos-overview]
+
+- **Project Repository:** https://github.com/thanos-io/thanos
+- **Contributor Guide:** [thanos.io/contributing][thanos-contributor-guide]
+- **Chat:** Slack: `#thanos` in [slack.cncf.io][thanos-chat]
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[thanos-overview]: https://github.com/thanos-io/thanos#overview
+[thanos-contributor-guide]: https://thanos.io/contributing/
+[thanos-chat]: https://app.slack.com/client/T08PSQ7BQ/CK5RSSC10
 
 ### Virtual Kubelet
 
