@@ -86,6 +86,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |            [Dragonfly](#dragonfly)            |    [Sandbox](#sandbox-projects)    |    Image Distribution   |
 |                [Falco](#falco)                |    [Sandbox](#sandbox-projects)    |    Container Security   |
 |                 [Flux](#flux)                 |    [Sandbox](#sandbox-projects)    |          GitOps         |
+|              [in-toto](#in-toto)              |    [Sandbox](#sandbox-projects)    |         Security        |
 |             [KubeEdge](#kubeedge)             |    [Sandbox](#sandbox-projects)    |           Edge          |
 | [Network Service Mesh](#network-service-mesh) |    [Sandbox](#sandbox-projects)    |        Networking       |
 |              [OpenEBS](#openebs)              |    [Sandbox](#sandbox-projects)    |         Storage         |
@@ -626,6 +627,22 @@ need a separate continuous delivery tool."* - [Flux - fluxcd.io][flux-overview]
 [flux-contributor-guide]: https://github.com/fluxcd/flux/blob/master/CONTRIBUTING.md
 [flux-chat]: https://app.slack.com/client/T08PSQ7BQ/CLAJ40HV3
 [flux-dev-list]: https://lists.cncf.io/g/cncf-flux-dev
+
+### in-toto
+
+*"in-toto provides a framework to protect the integrity of the software supply chain. It does so by verifying that each
+task in the chain is carried out as planned, by authorized personnel only, and that the product is not tampered with in
+transit."* - [in-toto - in-toto Readme][intoto-overview]
+
+- **Project Repository:** https://github.com/in-toto/in-toto
+- **Contributor Guide:** [Instructions for Contributors][intoto-contributor-guide]
+- **Developer List/Forum:** [in-toto mailing list][intoto-dev-list]
+- **License:**  [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[intoto-overview]: https://github.com/in-toto/in-toto#in-toto----
+[intoto-contributor-guide]: https://github.com/in-toto/in-toto#instructions-for-contributors
+[intoto-dev-list]:  mailto:in-toto-dev@googlegroups.com
 
 ### KubeEdge
 
