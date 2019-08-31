@@ -75,6 +75,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 | [Open Policy Agent](#open-policy-agent) | [Incubating](#incubating-projects) |         Policy          |
 |       [OpenTracing](#opentracing)       | [Incubating](#incubating-projects) | Distributed Tracing API |
 |              [Rook](#rook)              | [Incubating](#incubating-projects) |         Storage         |
+|              [TiKV](#tikv)              | [Incubating](#incubating-projects) |     Key/Value Store     |
 |               [TUF](#tuf)               | [Incubating](#incubating-projects) |  Software Update Spec   |
 |            [Vitess](#vitess)            | [Incubating](#incubating-projects) |         Storage         |
 |        [Buildpacks](#buildpacks)        |    [Sandbox](#sandbox-projects)    |        Packaging        |
@@ -86,11 +87,10 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |            [SPIFFE](#spiffe)            |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
 |             [SPIRE](#spire)             |    [Sandbox](#sandbox-projects)    |        Identity         |
 |      [Telepresence](#telepresence)      |    [Sandbox](#sandbox-projects)    |         Tooling         |
-|              [TiKV](#tikv)              |    [Sandbox](#sandbox-projects)    |     Key/Value Store     |
 |   [Virtual Kubelet](#virtual-kubelet)   |    [Sandbox](#sandbox-projects)    |        Nodeless         |
 |          [KubeEdge](#kubeedge)          |    [Sandbox](#sandbox-projects)    |           Edge          |
 |           [Brigade](#brigade)           |    [Sandbox](#sandbox-projects)    |        Scripting        |
-|               [rkt](#rkt)               | [Archived](#archived-projects)     |    Container Runtime    |
+|               [rkt](#rkt)               |   [Archived](#archived-projects)   |    Container Runtime    |
 
 ---
 
@@ -440,6 +440,22 @@ support for a diverse set of storage solutions to natively integrate with cloud-
 [rook-chat]: https://rook-io.slack.com/
 [rook-dev-list]: https://groups.google.com/forum/#!forum/rook-dev
 
+
+### TiKV
+
+*"TiKV ("Ti" stands for Titanium) is a distributed transactional key-value database, originally created to complement
+TiDB, a distributed HTAP database compatible with the MySQL protocol. TiKV is built in Rust and powered by Raft, and
+was inspired by the design of Google Spanner and HBase, but without dependency on any specific distributed file
+system."* - [TiKV Readme][tikv-overview]
+
+- **Project Repository:** https://github.com/tikv/tikv
+- **Contributor Guide:** [tkiv/tkiv/contributing][tikv-contributor-guide]
+- **License:**  [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[tikv-overview]: https://github.com/tikv/tikv#tikv
+[tikv-contributor-guide]: https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md
+
 ### TUF
 
 *"The Update Framework (TUF) helps developers maintain the security of a software update system, even against attackers
@@ -626,20 +642,6 @@ remote Kubernetes cluster."* - [Overview - telepresene.io][telepresence-overview
 [telepresence-contributor-guide]: https://github.com/telepresenceio/telepresence/blob/master/docs/reference/developing.md
 [telepresence-chat]: https://gitter.im/datawire/telepresence
 
-### TiKV
-
-*"TiKV ("Ti" stands for Titanium) is a distributed transactional key-value database, originally created to complement
-TiDB, a distributed HTAP database compatible with the MySQL protocol. TiKV is built in Rust and powered by Raft, and
-was inspired by the design of Google Spanner and HBase, but without dependency on any specific distributed file
-system."* - [TiKV Readme][tikv-overview]
-
-- **Project Repository:** https://github.com/tikv/tikv
-- **Contributor Guide:** [tkiv/tkiv/contributing][tikv-contributor-guide]
-- **License:**  [Apache 2.0][apache-license]
-- **Legal Requirements:** [DCO][DCO]
-
-[tikv-overview]: https://github.com/tikv/tikv#tikv
-[tikv-contributor-guide]: https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md
 
 ### Virtual Kubelet
 
