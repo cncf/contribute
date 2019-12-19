@@ -65,6 +65,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |           [Kubernetes](#kubernetes)           |  [Graduated](#graduated-projects)  |      Orchestration      |
 |           [Prometheus](#prometheus)           |  [Graduated](#graduated-projects)  |        Monitoring       |
 |                  [TUF](#tuf)                  |  [Graduated](#graduated-projects)  |   Software Update Spec  |
+|               [Vitess](#vitess)               |  [Graduated](#graduated-projects)  |         Storage         |
 |                  [CNI](#cni)                  | [Incubating](#incubating-projects) |      Networking API     |
 |                [CRI-O](#cri-o)                | [Incubating](#incubating-projects) |    Container Runtime    |
 |                 [etcd](#etcd)                 | [Incubating](#incubating-projects) |     Key/Value Store     |
@@ -78,7 +79,6 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |          [OpenTracing](#opentracing)          | [Incubating](#incubating-projects) | Distributed Tracing API |
 |                 [Rook](#rook)                 | [Incubating](#incubating-projects) |         Storage         |
 |                 [TiKV](#tikv)                 | [Incubating](#incubating-projects) |     Key/Value Store     |
-|               [Vitess](#vitess)               | [Incubating](#incubating-projects) |         Storage         |
 |              [Brigade](#brigade)              |    [Sandbox](#sandbox-projects)    |        Scripting        |
 |           [Buildpacks](#buildpacks)           |    [Sandbox](#sandbox-projects)    |        Packaging        |
 |          [CloudEvents](#cloudevents)          |    [Sandbox](#sandbox-projects)    |        Serverless       |
@@ -258,6 +258,27 @@ adopt into any software update system."* - [TUF Readme][tuf-overview]
 [tuf-overview]: https://github.com/theupdateframework/tuf/blob/develop/README.md
 [tuf-contributor-guide]: https://github.com/theupdateframework/tuf/blob/develop/docs/CONTRIBUTORS.rst
 [tuf-dev-list]: https://groups.google.com/forum/?fromgroups#!forum/theupdateframework
+
+### Vitess
+
+*"Vitess is a database solution for deploying, scaling and managing large clusters of MySQL instances. It's architected
+to run as effectively in a public or private cloud architecture as it does on dedicated hardware. It combines and
+extends many important MySQL features with the scalability of a NoSQL database."* -
+[Overview - vitess.io][vitess-overview]
+
+- **Project Repository:** https://github.com/vitessio/vitess
+- **Contributor Guide:** [vitessio/vitess/contributing][vitess-contributor-guide]
+- **Chat:** Slack: [vitess.slack.com][vitess-chat]
+- **Developer Mailing List/Forum:** [Vitess Mailing List][vitess-dev-list]
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** [Google Corporate CLA][vitess-corporate-cla] / [Google Individual CLA][vitess-individual-cla]
+
+[vitess-overview]: https://vitess.io/overview/
+[vitess-contributor-guide]: https://github.com/vitessio/vitess/blob/master/CONTRIBUTING.md
+[vitess-chat]: https://bit.ly/vitess-slack
+[vitess-dev-list]: https://groups.google.com/forum/#!forum/vitess
+[vitess-corporate-cla]: https://cla.developers.google.com/about/google-corporate
+[vitess-individual-cla]: https://cla.developers.google.com/about/google-individual
 
 ---
 
@@ -497,27 +518,6 @@ system."* - [TiKV Readme][tikv-overview]
 
 [tikv-overview]: https://github.com/tikv/tikv#tikv
 [tikv-contributor-guide]: https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md
-
-### Vitess
-
-*"Vitess is a database solution for deploying, scaling and managing large clusters of MySQL instances. It's architected
-to run as effectively in a public or private cloud architecture as it does on dedicated hardware. It combines and
-extends many important MySQL features with the scalability of a NoSQL database."* -
-[Overview - vitess.io][vitess-overview]
-
-- **Project Repository:** https://github.com/vitessio/vitess
-- **Contributor Guide:** [vitessio/vitess/contributing][vitess-contributor-guide]
-- **Chat:** Slack: [vitess.slack.com][vitess-chat]
-- **Developer Mailing List/Forum:** [Vitess Mailing List][vitess-dev-list]
-- **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** [Google Corporate CLA][vitess-corporate-cla] / [Google Individual CLA][vitess-individual-cla]
-
-[vitess-overview]: https://vitess.io/overview/
-[vitess-contributor-guide]: https://github.com/vitessio/vitess/blob/master/CONTRIBUTING.md
-[vitess-chat]: https://bit.ly/vitess-slack
-[vitess-dev-list]: https://groups.google.com/forum/#!forum/vitess
-[vitess-corporate-cla]: https://cla.developers.google.com/about/google-corporate
-[vitess-individual-cla]: https://cla.developers.google.com/about/google-individual
 
 ---
 
