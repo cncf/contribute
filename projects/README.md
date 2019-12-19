@@ -61,6 +61,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |              [CoreDNS](#coredns)              |  [Graduated](#graduated-projects)  |    Service Discovery    |
 |                [Envoy](#envoy)                |  [Graduated](#graduated-projects)  |       Service Mesh      |
 |              [Fluentd](#fluentd)              |  [Graduated](#graduated-projects)  |         Logging         |
+|               [Jaeger](#jaeger)               |  [Graduated](#graduated-projects)  |   Distributed Tracing   |
 |           [Kubernetes](#kubernetes)           |  [Graduated](#graduated-projects)  |      Orchestration      |
 |           [Prometheus](#prometheus)           |  [Graduated](#graduated-projects)  |        Monitoring       |
 |                  [TUF](#tuf)                  |  [Graduated](#graduated-projects)  |   Software Update Spec  |
@@ -70,7 +71,6 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |                 [gRPC](#grpc)                 | [Incubating](#incubating-projects) |  Remote Procedure Call  |
 |               [Harbor](#harbor)               | [Incubating](#incubating-projects) |         Registry        |
 |                 [Helm](#helm)                 | [Incubating](#incubating-projects) |    Package Management   |
-|               [Jaeger](#jaeger)               | [Incubating](#incubating-projects) |   Distributed Tracing   |
 |              [Linkerd](#linkerd)              | [Incubating](#incubating-projects) |       Service Mesh      |
 |                 [NATS](#nats)                 | [Incubating](#incubating-projects) |        Messaging        |
 |               [Notary](#notary)               | [Incubating](#incubating-projects) |         Security        |
@@ -179,6 +179,24 @@ in the background to collect, parse, transform, analyze and store various types 
 [fluentd-contributor-guide]: https://github.com/fluent/fluentd/blob/master/CONTRIBUTING.md
 [fluentd-chat]: https://slack.fluentd.org/
 [fluentd-dev-list]: https://groups.google.com/group/fluentd
+
+### Jaeger
+
+*"Jaeger, inspired by Dapper and OpenZipkin, is a distributed tracing system released as open source by Uber
+Technologies. It is used for monitoring and troubleshooting microservices-based distributed systems."* -
+[About - jaegertracing.io][jaeger-overview]
+
+- **Project Repository:** https://github.com/jaegertracing/jaeger
+- **Contributor Guide:** [jaegertracing/jaeger/contributing][jaeger-contributor-guide]
+- **Chat:** Gitter: [gitter.im/jaegertracing/Lobby][jaeger-chat]
+- **Developer Mailing List/Forum:** [Jaeger-Tracing Mailing List][jaeger-dev-list]
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[jaeger-overview]: https://www.jaegertracing.io/docs/#about
+[jaeger-contributor-guide]: https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING.md
+[jaeger-chat]: https://gitter.im/jaegertracing/Lobby
+[jaeger-dev-list]: https://groups.google.com/forum/#!forum/jaeger-tracing
 
 ### Kubernetes
 
@@ -360,24 +378,6 @@ Microsoft, Google, Bitnami and the Helm contributor community."* - [What is Helm
 [helm-contributor-guide]: https://github.com/helm/helm/blob/master/CONTRIBUTING.md
 [helm-chat]: https://slack.k8s.io/
 [helm-dev-list]: https://lists.cncf.io/g/cncf-helm
-
-### Jaeger
-
-*"Jaeger, inspired by Dapper and OpenZipkin, is a distributed tracing system released as open source by Uber
-Technologies. It is used for monitoring and troubleshooting microservices-based distributed systems."* -
-[About - jaegertracing.io][jaeger-overview]
-
-- **Project Repository:** https://github.com/jaegertracing/jaeger
-- **Contributor Guide:** [jaegertracing/jaeger/contributing][jaeger-contributor-guide]
-- **Chat:** Gitter: [gitter.im/jaegertracing/Lobby][jaeger-chat]
-- **Developer Mailing List/Forum:** [Jaeger-Tracing Mailing List][jaeger-dev-list]
-- **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** [DCO][DCO]
-
-[jaeger-overview]: https://www.jaegertracing.io/docs/#about
-[jaeger-contributor-guide]: https://github.com/jaegertracing/jaeger/blob/master/CONTRIBUTING.md
-[jaeger-chat]: https://gitter.im/jaegertracing/Lobby
-[jaeger-dev-list]: https://groups.google.com/forum/#!forum/jaeger-tracing
 
 ### Linkerd
 
