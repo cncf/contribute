@@ -47,9 +47,15 @@ CNCF is currently working on expanding the Cloud Native community around the glo
 
 Details on the Meetups program, together with the best practices on running CNCF Meetups is available [here](https://github.com/cncf/meetups).
 
-CNCF + Summer of Code
+Mentorship Programs
 ---------------------
 
-The Cloud Native Computing Foundation participates in [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC). CNCF is a great place to spend a summer learning, coding, participating and contributing. We are an exciting open source foundation with a vibrant community of projects, and we look forward to your application and your project ideas!
+The Cloud Native Computing Foundation participates in various mentoring programs, including:
+
+- [Community Bridge](https://communitybridge.org/) by the Linux Foundation;
+- [Google Summer of Code](https://summerofcode.withgoogle.com/) (GSoC);
+- [Outreachy](https://www.outreachy.org/)
+
+CNCF is a great place to spend a time learning, coding, participating and contributing. We are an exciting open source foundation with a vibrant community of projects, and we look forward to your application and your project ideas!
 
 CNCF and SoC information is available [here](https://github.com/cncf/soc/blob/master/README.md).
