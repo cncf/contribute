@@ -83,17 +83,21 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |              [Brigade](#brigade)              |    [Sandbox](#sandbox-projects)    |        Scripting        |
 |           [Buildpacks](#buildpacks)           |    [Sandbox](#sandbox-projects)    |        Packaging        |
 |               [Cortex](#cortex)               |    [Sandbox](#sandbox-projects)    |        Monitoring       |
+|             [ChubaoFS](#chubaofs)             |    [Sandbox](#sandbox-projects)    |         Storage         |
 |            [Dragonfly](#dragonfly)            |    [Sandbox](#sandbox-projects)    |    Image Distribution   |
 |                [Falco](#falco)                |    [Sandbox](#sandbox-projects)    |    Container Security   |
 |                 [Flux](#flux)                 |    [Sandbox](#sandbox-projects)    |          GitOps         |
 |              [in-toto](#in-toto)              |    [Sandbox](#sandbox-projects)    |         Security        |
 |             [KubeEdge](#kubeedge)             |    [Sandbox](#sandbox-projects)    |           Edge          |
+|             [KubeVirt](#kubevirt)             |    [Sandbox](#sandbox-projects)    |       VM Operator       |
 | [Network Service Mesh](#network-service-mesh) |    [Sandbox](#sandbox-projects)    |        Networking       |
+|             [Longhorn](#longhorn)             |    [Sandbox](#sandbox-projects)    |         Storage         |
 |              [OpenEBS](#openebs)              |    [Sandbox](#sandbox-projects)    |         Storage         |
 |          [OpenMetrics](#openmetrics)          |    [Sandbox](#sandbox-projects)    |         Tooling         |
 |        [OpenTelemetry](#opentelemetry)        |    [Sandbox](#sandbox-projects)    | Telemetry Specification |
 |               [SPIFFE](#spiffe)               |    [Sandbox](#sandbox-projects)    |      Identity Spec      |
 |                [SPIRE](#spire)                |    [Sandbox](#sandbox-projects)    |         Identity        |
+|              [Strimzi](#strimzi)              |    [Sandbox](#sandbox-projects)    |      Kafka Operator     |
 |         [Telepresence](#telepresence)         |    [Sandbox](#sandbox-projects)    |         Tooling         |
 |               [Thanos](#thanos)               |    [Sandbox](#sandbox-projects)    |        Monitoring       |
 |      [Virtual Kubelet](#virtual-kubelet)      |    [Sandbox](#sandbox-projects)    |         Nodeless        |
