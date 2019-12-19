@@ -63,6 +63,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |              [Fluentd](#fluentd)              |  [Graduated](#graduated-projects)  |         Logging         |
 |           [Kubernetes](#kubernetes)           |  [Graduated](#graduated-projects)  |      Orchestration      |
 |           [Prometheus](#prometheus)           |  [Graduated](#graduated-projects)  |        Monitoring       |
+|                  [TUF](#tuf)                  |  [Graduated](#graduated-projects)  |   Software Update Spec  |
 |                  [CNI](#cni)                  | [Incubating](#incubating-projects) |      Networking API     |
 |                [CRI-O](#cri-o)                | [Incubating](#incubating-projects) |    Container Runtime    |
 |                 [etcd](#etcd)                 | [Incubating](#incubating-projects) |     Key/Value Store     |
@@ -77,7 +78,6 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |          [OpenTracing](#opentracing)          | [Incubating](#incubating-projects) | Distributed Tracing API |
 |                 [Rook](#rook)                 | [Incubating](#incubating-projects) |         Storage         |
 |                 [TiKV](#tikv)                 | [Incubating](#incubating-projects) |     Key/Value Store     |
-|                  [TUF](#tuf)                  | [Incubating](#incubating-projects) |   Software Update Spec  |
 |               [Vitess](#vitess)               | [Incubating](#incubating-projects) |         Storage         |
 |              [Brigade](#brigade)              |    [Sandbox](#sandbox-projects)    |        Scripting        |
 |           [Buildpacks](#buildpacks)           |    [Sandbox](#sandbox-projects)    |        Packaging        |
@@ -223,6 +223,23 @@ Foundation in 2016 as the second hosted project, after Kubernetes."* -
 [prometheus-contributor-guide]: https://github.com/prometheus/prometheus/blob/master/CONTRIBUTING.md
 [prometheus-chat]: https://riot.im/app/#/room/#freenode_#prometheus:matrix.org
 [prometheus-dev-list]: https://groups.google.com/forum/#!forum/prometheus-developers
+
+### TUF
+
+*"The Update Framework (TUF) helps developers maintain the security of a software update system, even against attackers
+that compromise the repository or signing keys. TUF provides a flexible framework and specification that developers can
+adopt into any software update system."* - [TUF Readme][tuf-overview]
+
+- **Project Repository:** https://github.com/theupdateframework/specification
+- **Contributor Guide:** [theupdateframework/tuf/contributors][tuf-contributor-guide]
+- **Chat:** None
+- **Developer Mailing List/Forum:** [TUF Mailing List][tuf-dev-list]
+- **License:** Dual Licensed [Apache 2.0][apache-license] / [MIT][mit-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[tuf-overview]: https://github.com/theupdateframework/tuf/blob/develop/README.md
+[tuf-contributor-guide]: https://github.com/theupdateframework/tuf/blob/develop/docs/CONTRIBUTORS.rst
+[tuf-dev-list]: https://groups.google.com/forum/?fromgroups#!forum/theupdateframework
 
 ---
 
@@ -480,23 +497,6 @@ system."* - [TiKV Readme][tikv-overview]
 
 [tikv-overview]: https://github.com/tikv/tikv#tikv
 [tikv-contributor-guide]: https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md
-
-### TUF
-
-*"The Update Framework (TUF) helps developers maintain the security of a software update system, even against attackers
-that compromise the repository or signing keys. TUF provides a flexible framework and specification that developers can
-adopt into any software update system."* - [TUF Readme][tuf-overview]
-
-- **Project Repository:** https://github.com/theupdateframework/specification
-- **Contributor Guide:** [theupdateframework/tuf/contributors][tuf-contributor-guide]
-- **Chat:** None
-- **Developer Mailing List/Forum:** [TUF Mailing List][tuf-dev-list]
-- **License:** Dual Licensed [Apache 2.0][apache-license] / [MIT][mit-license]
-- **Legal Requirements:** [DCO][DCO]
-
-[tuf-overview]: https://github.com/theupdateframework/tuf/blob/develop/README.md
-[tuf-contributor-guide]: https://github.com/theupdateframework/tuf/blob/develop/docs/CONTRIBUTORS.rst
-[tuf-dev-list]: https://groups.google.com/forum/?fromgroups#!forum/theupdateframework
 
 ### Vitess
 
