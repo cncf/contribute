@@ -68,6 +68,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |               [Vitess](#vitess)               |  [Graduated](#graduated-projects)  |         Storage         |
 |                  [CNI](#cni)                  | [Incubating](#incubating-projects) |      Networking API     |
 |                [CRI-O](#cri-o)                | [Incubating](#incubating-projects) |    Container Runtime    |
+|          [CloudEvents](#cloudevents)          | [Incubating](#incubating-projects) |        Serverless       |
 |                 [etcd](#etcd)                 | [Incubating](#incubating-projects) |     Key/Value Store     |
 |                 [gRPC](#grpc)                 | [Incubating](#incubating-projects) |  Remote Procedure Call  |
 |               [Harbor](#harbor)               | [Incubating](#incubating-projects) |         Registry        |
@@ -81,7 +82,6 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |                 [TiKV](#tikv)                 | [Incubating](#incubating-projects) |     Key/Value Store     |
 |              [Brigade](#brigade)              |    [Sandbox](#sandbox-projects)    |        Scripting        |
 |           [Buildpacks](#buildpacks)           |    [Sandbox](#sandbox-projects)    |        Packaging        |
-|          [CloudEvents](#cloudevents)          |    [Sandbox](#sandbox-projects)    |        Serverless       |
 |               [Cortex](#cortex)               |    [Sandbox](#sandbox-projects)    |        Monitoring       |
 |            [Dragonfly](#dragonfly)            |    [Sandbox](#sandbox-projects)    |    Image Distribution   |
 |                [Falco](#falco)                |    [Sandbox](#sandbox-projects)    |    Container Security   |
@@ -323,6 +323,21 @@ and Kata Containers as the container runtimes but any OCI-conformant runtime can
 [crio-contributor-guide]: https://github.com/cri-o/cri-o/blob/master/CONTRIBUTING.md
 [crio-chat]: https://riot.im/app/#/room/#freenode_#cri-o:matrix.org
 
+### CloudEvents
+
+CloudEvents Specification
+
+- **Project Repository:** https://github.com/cloudevents/spec
+- **Contributor Guide:** [cloudevents/spec/contributing][cloudevents-contributor-guide]
+- **Chat:** Slack: `#cloudevents` in [slack.cncf.io][cloudevents-chat]
+- **Developer Mailing List/Forum:** [CNCF-wg-Serverless Mailing List][cloudevents-dev-list]
+- **License:** [Apache 2.0][apache-license]
+- **Legal Requirements:** [DCO][DCO]
+
+[cloudevents-contributor-guide]: https://github.com/cloudevents/spec/blob/master/CONTRIBUTING.md
+[cloudevents-chat]: https://cloud-native.slack.com/messages/C9DB5ABAA/
+[cloudevents-dev-list]: https://lists.cncf.io/g/cncf-wg-serverless
+
 ### etcd
 
 *"etcd is a distributed reliable key-value store for the most critical data of a distributed system, with a focus on being:*
@@ -547,21 +562,6 @@ Dockerfiles."* - [What Are Buildpacks? - buildpacks.io][buildpacks-overview]
 
 [buildpacks-overview]: https://buildpacks.io/
 [buildpacks-chat]: https://slack.buildpacks.io/
-
-### CloudEvents
-
-CloudEvents Specification
-
-- **Project Repository:** https://github.com/cloudevents/spec
-- **Contributor Guide:** [cloudevents/spec/contributing][cloudevents-contributor-guide]
-- **Chat:** Slack: `#cloudevents` in [slack.cncf.io][cloudevents-chat]
-- **Developer Mailing List/Forum:** [CNCF-wg-Serverless Mailing List][cloudevents-dev-list]
-- **License:** [Apache 2.0][apache-license]
-- **Legal Requirements:** [DCO][DCO]
-
-[cloudevents-contributor-guide]: https://github.com/cloudevents/spec/blob/master/CONTRIBUTING.md
-[cloudevents-chat]: https://cloud-native.slack.com/messages/C9DB5ABAA/
-[cloudevents-dev-list]: https://lists.cncf.io/g/cncf-wg-serverless
 
 ### Cortex
 
