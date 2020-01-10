@@ -70,6 +70,7 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |                [CRI-O](#cri-o)                | [Incubating](#incubating-projects) |    Container Runtime    |
 |          [CloudEvents](#cloudevents)          | [Incubating](#incubating-projects) |        Serverless       |
 |                 [etcd](#etcd)                 | [Incubating](#incubating-projects) |     Key/Value Store     |
+|                [Falco](#falco)                | [Incubating](#Incubating-projects) |    Container Security   |
 |                 [gRPC](#grpc)                 | [Incubating](#incubating-projects) |  Remote Procedure Call  |
 |               [Harbor](#harbor)               | [Incubating](#incubating-projects) |         Registry        |
 |                 [Helm](#helm)                 | [Incubating](#incubating-projects) |    Package Management   |
@@ -85,7 +86,6 @@ the CNCF TOC repo. The document describes the maturity stages of the projects.
 |               [Cortex](#cortex)               |    [Sandbox](#sandbox-projects)    |        Monitoring       |
 |             [ChubaoFS](#chubaofs)             |    [Sandbox](#sandbox-projects)    |         Storage         |
 |            [Dragonfly](#dragonfly)            |    [Sandbox](#sandbox-projects)    |    Image Distribution   |
-|                [Falco](#falco)                |    [Sandbox](#sandbox-projects)    |    Container Security   |
 |                 [Flux](#flux)                 |    [Sandbox](#sandbox-projects)    |          GitOps         |
 |              [in-toto](#in-toto)              |    [Sandbox](#sandbox-projects)    |         Security        |
 |             [KubeEdge](#kubeedge)             |    [Sandbox](#sandbox-projects)    |           Edge          |
@@ -362,6 +362,22 @@ CloudEvents Specification
 [etcd-dev-list]: https://groups.google.com/forum/?hl=en#!forum/etcd-dev
 [etcd-chat]:  https://riot.im/app/#/room/#freenode_#etcd:matrix.org
 
+### Falco
+
+*"Falco is a behavioral activity monitor designed to detect anomalous activity in your applications. Powered by
+sysdig’s system call capture infrastructure, Falco lets you continuously monitor and detect container, application,
+host, and network activity... all in one place, from one source of data, with one set of rules."* -
+[Overview - Falco Readme][falco-overview]
+
+- **Project Repository:** https://github.com/falcosecurity/falco
+- **Chat:** Slack: `#falco` in [slack.sysdig.com][falco-chat]
+- **License:**  [Apache 2.0][apache-license]
+- **Legal Requirements:** [Falco CLA][falco-legal]
+
+[falco-overview]: https://github.com/falcosecurity/falco#overview
+[falco-chat]: https://slack.sysdig.com/
+[falco-legal]: https://github.com/falcosecurity/falco#contributor-license-agreements
+
 ### gRPC
 
 *"gRPC is a modern open source high performance RPC framework that can run in any environment. It can efficiently
@@ -597,22 +613,6 @@ write destination, and a horizontally scalable, Prometheus-compatible query API.
 [dragonfly-overview]: https://d7y.io/
 [dragonfly-contributor-guide]: https://github.com/dragonflyoss/Dragonfly/blob/master/CONTRIBUTING.md
 [dragonfly-chat]: https://gitter.im/alibaba/Dragonfly
-
-### Falco
-
-*"Falco is a behavioral activity monitor designed to detect anomalous activity in your applications. Powered by
-sysdig’s system call capture infrastructure, Falco lets you continuously monitor and detect container, application,
-host, and network activity... all in one place, from one source of data, with one set of rules."* -
-[Overview - Falco Readme][falco-overview]
-
-- **Project Repository:** https://github.com/falcosecurity/falco
-- **Chat:** Slack: `#falco` in [slack.sysdig.com][falco-chat]
-- **License:**  [Apache 2.0][apache-license]
-- **Legal Requirements:** [Falco CLA][falco-legal]
-
-[falco-overview]: https://github.com/falcosecurity/falco#overview
-[falco-chat]: https://slack.sysdig.com/
-[falco-legal]: https://github.com/falcosecurity/falco#contributor-license-agreements
 
 ### Flux
 
