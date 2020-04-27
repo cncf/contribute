@@ -232,7 +232,7 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 -	**Chat:** Slack `#helm-dev` in [slack.k8s.io](https://slack.k8s.io/)
 -	**Developer List/Forum:** [CNCF-Helm Mailing List](https://lists.cncf.io/g/cncf-helm)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
--	**Legal Requirements:** [CNCF CLA](https://github.com/cncf/cla)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
 ### Rook
 
