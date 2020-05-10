@@ -23,6 +23,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/READM
 |     [Jaeger](projects/README.md#jaeger)     | Distributed Tracing  |        Go        |
 |     [Vitess](projects/README.md#vitess)     |       Storage        |        Go        |
 |        [TUF](projects/README.md#tuf)        | Software Update Spec |        \-        |
+|       [Helm](projects/README.md#helm)       |  Package Management  |        Go        |
 
 ### Incubated Projects
 
@@ -34,7 +35,6 @@ The Cloud Native Computing Foundation projects are listed [below](projects/READM
 |            [Notary](projects/README.md#notary)            |        Security         |        Go        |
 |              [NATS](projects/README.md#nats)              |        Messaging        |        Go        |
 |           [Linkerd](projects/README.md#linkerd)           |      Service Mesh       |     Scala,Go     |
-|              [Helm](projects/README.md#helm)              |   Package Management    |        Go        |
 |              [Rook](projects/README.md#rook)              |         Storage         |        Go        |
 |            [Harbor](projects/README.md#harbor)            |        Registry         |        Go        |
 |              [etcd](projects/README.md#etcd)              |     Key/Value Store     |        Go        |
