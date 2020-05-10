@@ -152,6 +152,17 @@ Graduated Projects
 -	**License:** Dual Licensed [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/) / [MIT](https://choosealicense.com/licenses/mit/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+### Helm
+
+*"Helm helps you manage Kubernetes applications — Helm Charts helps you define, install, and upgrade even the most complex Kubernetes application.* *Charts are easy to create, version, share, and publish — so start using Helm and stop the copy-and-paste madness.* *The latest version of Helm is maintained by the CNCF - in collaboration with Microsoft, Google, Bitnami and the Helm contributor community."* - [What is Helm? - helm.sh](https://www.helm.sh/)
+
+-	**Project Repository:** https://github.com/helm/helm
+-	**Contributor Guide:** [helm/helm/contributing](https://github.com/helm/helm/blob/master/CONTRIBUTING.md)
+-	**Chat:** Slack `#helm-dev` in [slack.k8s.io](https://slack.k8s.io/)
+-	**Developer List/Forum:** [CNCF-Helm Mailing List](https://lists.cncf.io/g/cncf-helm)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
 ---
 
 Incubating Projects
@@ -220,17 +231,6 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 -	**Contributor Guide:** [linkerd/linkerd/contributing](https://github.com/linkerd/linkerd/blob/master/CONTRIBUTING.md)
 -	**Chat:** Slack: [slack.linkerd.io](https://slack.linkerd.io/)
 -	**Developer Mailing List/Forum:** [Linkerd Forum](https://discourse.linkerd.io/)
--	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
--	**Legal Requirements:** [DCO](https://developercertificate.org/)
-
-### Helm
-
-*"Helm helps you manage Kubernetes applications — Helm Charts helps you define, install, and upgrade even the most complex Kubernetes application.* *Charts are easy to create, version, share, and publish — so start using Helm and stop the copy-and-paste madness.* *The latest version of Helm is maintained by the CNCF - in collaboration with Microsoft, Google, Bitnami and the Helm contributor community."* - [What is Helm? - helm.sh](https://www.helm.sh/)
-
--	**Project Repository:** https://github.com/helm/helm
--	**Contributor Guide:** [helm/helm/contributing](https://github.com/helm/helm/blob/master/CONTRIBUTING.md)
--	**Chat:** Slack `#helm-dev` in [slack.k8s.io](https://slack.k8s.io/)
--	**Developer List/Forum:** [CNCF-Helm Mailing List](https://lists.cncf.io/g/cncf-helm)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
