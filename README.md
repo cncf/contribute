@@ -24,6 +24,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/READM
 |     [Vitess](projects/README.md#vitess)     |       Storage        |        Go        |
 |        [TUF](projects/README.md#tuf)        | Software Update Spec |        \-        |
 |       [Helm](projects/README.md#helm)       |  Package Management  |        Go        |
+|     [Harbor](projects/README.md#harbor)     |       Registry       |        Go        |
 
 ### Incubated Projects
 
@@ -36,7 +37,6 @@ The Cloud Native Computing Foundation projects are listed [below](projects/READM
 |              [NATS](projects/README.md#nats)              |        Messaging        |        Go        |
 |           [Linkerd](projects/README.md#linkerd)           |      Service Mesh       |     Scala,Go     |
 |              [Rook](projects/README.md#rook)              |         Storage         |        Go        |
-|            [Harbor](projects/README.md#harbor)            |        Registry         |        Go        |
 |              [etcd](projects/README.md#etcd)              |     Key/Value Store     |        Go        |
 | [Open Policy Agent](projects/README.md#open-policy-agent) |         Policy          |        Go        |
 |             [CRI-O](projects/README.md#cri-o)             |    Container Runtime    |        Go        |
@@ -45,13 +45,13 @@ The Cloud Native Computing Foundation projects are listed [below](projects/READM
 |             [Falco](projects/README.md#falco)             |   Container Security    |       C++        |
 |              [Argo](projects/README.md#argo)              |          CI/CD          |        Go        |
 |         [Dragonfly](projects/README.md#dragonfly)         |   Image Distribution    |        Go        |
+|            [SPIFFE](projects/README.md#spiffe)            |      Identity spec      |        Go        |
+|             [SPIRE](projects/README.md#spire)             |        Identity         |        Go        |
 
 ### Sandbox Projects
 
 | Project Name                                                        | Focus                      | Primary Language |
 |:-------------------------------------------------------------------:|:--------------------------:|:----------------:|
-|                 [SPIFFE](projects/README.md#spiffe)                 |       Identity spec        |        Go        |
-|                  [SPIRE](projects/README.md#spire)                  |          Identity          |        Go        |
 |           [Telepresence](projects/README.md#telepresence)           |          Tooling           |      Python      |
 |            [OpenMetrics](projects/README.md#openmetrics)            |          Security          |        Go        |
 |                 [Cortex](projects/README.md#cortex)                 |         Monitoring         |        Go        |

@@ -163,6 +163,16 @@ Graduated Projects
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+### Harbor
+
+*"Project Harbor is an an open source trusted cloud native registry project that stores, signs, and scans content. Harbor extends the open source Docker Distribution by adding the functionalities usually required by users such as security, identity and management. Having a registry closer to the build and run environment can improve the image transfer efficiency. Harbor supports replication of images between registries, and also offers advanced security features such as user management, access control and activity auditing."* - [Harbor Readme](https://github.com/goharbor/harbor)
+
+-	**Project Repository:** https://github.com/goharbor/harbor
+-	**Contributor Guide:** [vmware/harbor/contributing](https://github.com/goharbor/harbor/blob/master/CONTRIBUTING.md)
+-	**Chat:** Slack: `#harbor-dev` in [slack.cncf.io](https://slack.cncf.io)
+-	**Developer Mailing List/Forum:** [Harbor-Dev Mailing List](https://groups.google.com/forum/#!forum/harbor-dev)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+
 ---
 
 Incubating Projects
@@ -244,16 +254,6 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 -	**Developer Mailing List/Forum:** [Rook-Dev Mailing List](https://groups.google.com/forum/#!forum/rook-dev)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
-
-### Harbor
-
-*"Project Harbor is an an open source trusted cloud native registry project that stores, signs, and scans content. Harbor extends the open source Docker Distribution by adding the functionalities usually required by users such as security, identity and management. Having a registry closer to the build and run environment can improve the image transfer efficiency. Harbor supports replication of images between registries, and also offers advanced security features such as user management, access control and activity auditing."* - [Harbor Readme](https://github.com/goharbor/harbor)
-
--	**Project Repository:** https://github.com/goharbor/harbor
--	**Contributor Guide:** [vmware/harbor/contributing](https://github.com/goharbor/harbor/blob/master/CONTRIBUTING.md)
--	**Chat:** Slack: `#harbor-dev` in [slack.cncf.io](https://slack.cncf.io)
--	**Developer Mailing List/Forum:** [Harbor-Dev Mailing List](https://groups.google.com/forum/#!forum/harbor-dev)
--	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 
 ### etcd
 
@@ -338,11 +338,6 @@ CloudEvents Specification
 -	**Chat:** [gitter.im/alibaba/Dragonfly](https://gitter.im/alibaba/Dragonfly)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 
----
-
-Sandbox Projects
-----------------
-
 ### SPIFFE
 
 *"SPIFFE (Secure Production Identity Framework For Everyone) provides a secure identity, in the form of a specially crafted X.509 certificate, to every workload in a modern production environment. SPIFFE removes the need for application-level authentication and complex network-level ACL configuration."* - [What is SPIFFE? - spiffe.io](https://spiffe.io/)
@@ -364,6 +359,11 @@ Sandbox Projects
 -	**Developer Mailing List/Forum:** [SPIFFE Dev Discussion Mailing List](https://groups.google.com/a/spiffe.io/forum/#!forum/dev-discussion)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
+---
+
+Sandbox Projects
+----------------
 
 ### Telepresence
 
