@@ -224,7 +224,7 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 
 ### NATS
 
-*"NATS is an open source, lightweight, high-performance cloud native infrastructure messaging system. It implements a highly scalable and elegant publish-subscribe (pub/sub) distribution model. The performant nature of NATS make it an ideal base for building modern, reliable, scalable cloud native distributed systems."* - [What is NATS? - nats.io](https://nats.io/documentation/faq/)
+*"NATS is an open source, lightweight, high-performance cloud native infrastructure messaging system. It implements a highly scalable and elegant publish-subscribe (pub/sub) distribution model. The performant nature of NATS make it an ideal base for building modern, reliable, scalable cloud native distributed systems."* - [What is NATS? - nats.io](https://docs.nats.io/nats-concepts/intro)
 
 -	**Project Repository:** https://github.com/nats-io
 -	**Contributor Guide:** [nats.io/documentation/contributing/](https://nats.io/documentation/contributing/)
