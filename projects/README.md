@@ -227,7 +227,7 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 *"NATS is an open source, lightweight, high-performance cloud native infrastructure messaging system. It implements a highly scalable and elegant publish-subscribe (pub/sub) distribution model. The performant nature of NATS make it an ideal base for building modern, reliable, scalable cloud native distributed systems."* - [What is NATS? - nats.io](https://docs.nats.io/nats-concepts/intro)
 
 -	**Project Repository:** https://github.com/nats-io
--	**Contributor Guide:** [nats.io/documentation/contributing/](https://nats.io/documentation/contributing/)
+-	**Contributor Guide:** [nats.io/contributing/](https://nats.io/contributing/)
 -	**Chat:** Slack: [natsio.slack.com](https://natsio.slack.com/join/shared_invite/enQtMzE2NDkxNDI2NTE1LTc5ZDEzYTkwYWZkYWQ5YjY1MzBjMWZmYzA5OGQxMzlkMGQzMjYxNGM3MWYxMjNiYmNjNzIwMTVjMWE2ZDgxZGM)
 -	**Developer Mailing List/Forum:** [natsio Mailing List](https://groups.google.com/forum/#!forum/natsio)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
