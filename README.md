@@ -47,6 +47,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/READM
 |         [Dragonfly](projects/README.md#dragonfly)         |   Image Distribution    |        Go        |
 |            [SPIFFE](projects/README.md#spiffe)            |      Identity spec      |        Go        |
 |             [SPIRE](projects/README.md#spire)             |        Identity         |        Go        |
+|           [Contour](projects/README.md#contour)           |       Networking        |        Go        |
 
 ### Sandbox Projects
 

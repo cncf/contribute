@@ -361,6 +361,17 @@ CloudEvents Specification
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+
+### Contour
+
+*"Contour is an open source Kubernetes ingress controller providing the control plane for the Envoy edge and service proxy. Contour supports dynamic configuration updates and multi-team ingress delegation out of the box while maintaining a lightweight profile."* - [projectcontour.io](https://projectcontour.io)
+
+-	**Project Repository:** https://github.com/projectcontour/contour
+-	**Contributor Guide:** [projectcontour/community](https://github.com/projectcontour/community)
+-	**Chat:** Slack: `#contour` in [kubernetes.slack.com](https://kubernetes.slack.com/messages/contour)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
 ---
 
 Sandbox Projects
