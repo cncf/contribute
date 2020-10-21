@@ -25,6 +25,8 @@ The Cloud Native Computing Foundation projects are listed [below](projects/READM
 |        [TUF](projects/README.md#tuf)        | Software Update Spec |        \-        |
 |       [Helm](projects/README.md#helm)       |  Package Management  |        Go        |
 |     [Harbor](projects/README.md#harbor)     |       Registry       |        Go        |
+|    [Rook](projects/README.md#rook)          |        Storage       |        Go        |
+|     [TiKV](projects/README.md#tikv)         |   Key/Value Store    |       Rust       |
 
 ### Incubated Projects
 
@@ -36,11 +38,9 @@ The Cloud Native Computing Foundation projects are listed [below](projects/READM
 |            [Notary](projects/README.md#notary)            |        Security         |        Go        |
 |              [NATS](projects/README.md#nats)              |        Messaging        |        Go        |
 |           [Linkerd](projects/README.md#linkerd)           |      Service Mesh       |     Scala,Go     |
-|              [Rook](projects/README.md#rook)              |         Storage         |        Go        |
 |              [etcd](projects/README.md#etcd)              |     Key/Value Store     |        Go        |
 | [Open Policy Agent](projects/README.md#open-policy-agent) |         Policy          |        Go        |
 |             [CRI-O](projects/README.md#cri-o)             |    Container Runtime    |        Go        |
-|              [TiKV](projects/README.md#tikv)              |     Key/Value Store     |       Rust       |
 |       [CloudEvents](projects/README.md#cloudevents)       |       Serverless        |        \-        |
 |             [Falco](projects/README.md#falco)             |   Container Security    |       C++        |
 |              [Argo](projects/README.md#argo)              |          CI/CD          |        Go        |
