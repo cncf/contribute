@@ -173,6 +173,25 @@ Graduated Projects
 -	**Developer Mailing List/Forum:** [Harbor-Dev Mailing List](https://groups.google.com/forum/#!forum/harbor-dev)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 
+### Rook
+
+*"Rook is an open source cloud-native storage orchestrator for Kubernetes, providing the platform, framework, and support for a diverse set of storage solutions to natively integrate with cloud-native environments."* - [What is Rook? - Rook Readme](https://github.com/rook/rook/blob/master/README.md)
+
+-	**Project Repository:** https://github.com/rook/rook
+-	**Contributor Guide:** [rook/rook/contributing](https://github.com/rook/rook/blob/master/CONTRIBUTING.md)
+-	**Chat:** Slack: [rook-io.slack.com](https://rook-io.slack.com/)
+-	**Developer Mailing List/Forum:** [Rook-Dev Mailing List](https://groups.google.com/forum/#!forum/rook-dev)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
+### TiKV
+
+*"TiKV ("Ti" stands for Titanium) is a distributed transactional key-value database, originally created to complement TiDB, a distributed HTAP database compatible with the MySQL protocol. TiKV is built in Rust and powered by Raft, and was inspired by the design of Google Spanner and HBase, but without dependency on any specific distributed file system."* - [TiKV Readme](https://github.com/tikv/tikv#tikv)
+
+-	**Project Repository:** https://github.com/tikv/tikv
+-	**Contributor Guide:** [tkiv/tkiv/contributing](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
 Incubating Projects
@@ -244,16 +263,6 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
-### Rook
-
-*"Rook is an open source cloud-native storage orchestrator for Kubernetes, providing the platform, framework, and support for a diverse set of storage solutions to natively integrate with cloud-native environments."* - [What is Rook? - Rook Readme](https://github.com/rook/rook/blob/master/README.md)
-
--	**Project Repository:** https://github.com/rook/rook
--	**Contributor Guide:** [rook/rook/contributing](https://github.com/rook/rook/blob/master/CONTRIBUTING.md)
--	**Chat:** Slack: [rook-io.slack.com](https://rook-io.slack.com/)
--	**Developer Mailing List/Forum:** [Rook-Dev Mailing List](https://groups.google.com/forum/#!forum/rook-dev)
--	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
--	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
 ### etcd
 
@@ -290,14 +299,6 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
-### TiKV
-
-*"TiKV ("Ti" stands for Titanium) is a distributed transactional key-value database, originally created to complement TiDB, a distributed HTAP database compatible with the MySQL protocol. TiKV is built in Rust and powered by Raft, and was inspired by the design of Google Spanner and HBase, but without dependency on any specific distributed file system."* - [TiKV Readme](https://github.com/tikv/tikv#tikv)
-
--	**Project Repository:** https://github.com/tikv/tikv
--	**Contributor Guide:** [tkiv/tkiv/contributing](https://github.com/tikv/tikv/blob/master/CONTRIBUTING.md)
--	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
--	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
 ### CloudEvents
 
