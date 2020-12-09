@@ -434,6 +434,15 @@ Sandbox Projects
 -	**Developer List/Forum:** [KubeEdge](https://groups.google.com/forum/?hl=en#!forum/kubeedge)
 -	**License:** [Apache 2.0](apache-license)
 
+### Keptn
+*"Keptn is a control-plane for continuous delivery and automated operations."* - [Keptn.sh](https://keptn.sh)
+
+-	**Project Repository:** https://github.com/keptn/keptn
+-	**Contributor Guide:** [Keptn-contributor-guide](https://github.com/keptn/keptn/blob/master/CONTRIBUTING.md)
+-	**Chat:** [Keptn Slack](https://slack.keptn.sh/)
+-	**Developer List/Forum:** [Keptn mailing list](https://groups.google.com/forum/#!forum/keptn)
+-	**License:** [Apache 2.0](apache-license)
+
 ### Brigade
 
 *"Brigade is a tool for running scriptable, automated tasks in the cloud — as part of your Kubernetes cluster."* - [Brigade-overview](https://brigade.sh/)
