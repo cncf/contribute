@@ -59,6 +59,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/READM
 |             [Buildpacks](projects/README.md#buildpacks)             |       Packaging Spec       |        Go        |
 |        [Virtual Kubelet](projects/README.md#virtual-kubelet)        |          Nodeless          |        Go        |
 |               [KubeEdge](projects/README.md#kubeedge)               |            Edge            |        Go        |
+|               [Keptn](projects/README.md#keptn)                     | Event-driven orchestration |    Go, Angular   |
 |                [Brigade](projects/README.md#Brigade)                |         Scripting          |        Go        |
 |   [Network Service Mesh](projects/README.md#network-service-mesh)   |         Networking         |        Go        |
 |          [OpenTelemetry](projects/README.md#opentelemetry)          |       Telemetry Spec       |        Go        |
