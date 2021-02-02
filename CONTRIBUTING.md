@@ -12,3 +12,13 @@ The site is composed of two repositories:
 
 [Contributing Guide]: https://contribute.cncf.io/about/contributing/
 [cncf/sig-contributor-strategy]: https://github.com/cncf/sig-contributor-strategy/
+
+## Netlify Deployments
+
+The main website is in another repository, [cncf/sig-contributor-strategy]. When
+a pull request is created for this repository, Netlify clones the main repo and
+builds the website using the content from this repository. A preview of the
+website is available in the GitHub pull request.
+
+When commits are pushed to the production branch of this repository, a build of
+the main website is triggered in Netlify.
