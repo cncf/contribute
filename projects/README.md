@@ -379,7 +379,7 @@ Sandbox Projects
 
 ### Telepresence
 
-*"Telepresence is an open source tool that lets you run a single service locally, while connecting that service to a remote Kubernetes cluster."* - [Overview - telepresene.io](https://www.telepresence.io/discussion/overview)
+*"Telepresence is an open source tool that lets you run a single service locally, while connecting that service to a remote Kubernetes cluster."* - [Overview - telepresence.io](https://www.telepresence.io/discussion/overview)
 
 -	**Project Repository:** https://github.com/telepresenceio/telepresence
 -	**Contributor Guide:** [telepresenceio/telepresence/docs/reference/developing](https://github.com/telepresenceio/telepresence/blob/master/docs/reference/developing.md)
