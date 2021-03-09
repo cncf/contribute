@@ -383,9 +383,10 @@ Sandbox Projects
 
 -	**Project Repository:** https://github.com/telepresenceio/telepresence
 -	**Contributor Guide:** [telepresenceio/telepresence/docs/reference/developing](https://github.com/telepresenceio/telepresence/blob/master/docs/reference/developing.md)
--	**Chat:** Gitter: [gitter.im/datawire/telepresence](https://gitter.im/datawire/telepresence)
+-	**Chat:** Slack: `#telepresence` in [datawire-oss.slack.com](https://d6e.co/slack)
 -	**Developer Mailing List/Forum:** None
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
 ### OpenMetrics
 
