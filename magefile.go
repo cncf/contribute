@@ -22,7 +22,7 @@ var (
 )
 
 const (
-	webhook = "https://api.netlify.com/build_hooks/6005c2758a2bba09b6563667"
+	webhook = "https://api.netlify.com/build_hooks/6077044c670d3a4579bf1f99"
 )
 
 // Ensure Mage is installed and on the PATH.
