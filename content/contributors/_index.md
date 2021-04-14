@@ -72,7 +72,7 @@ The Cloud Native Computing Foundation projects are listed [below](content/projec
 |                [OpenEBS](content/projects/#openebs)                |          Storage           |        Go        |
 |                 [Thanos](content/projects/#thanos)                 |         Monitoring         |        Go        |
 |                   [Flux](content/projects/#flux)                   |           GitOps           |        Go        |
-|                [in-toto](content/projects/#in-toto)                |          Security          |        Go        |
+|                [in-toto](content/projects/#in-toto)                |          Security          |    Python        |
 |                [Strimzi](content/projects/#strimzi)                |       Kafka Operator       |        Go        |
 |               [KubeVirt](content/projects/#kubevirt)               |        VM Operator         |        Go        |
 |               [Longhorn](content/projects/#longhorn)               |          Storage           |        Go        |
