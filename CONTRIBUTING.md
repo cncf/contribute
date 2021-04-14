@@ -10,7 +10,7 @@ The site is composed of two repositories:
 * [cncf/sig-contributor-strategy]: Contains the website infrastructure, and
   pages under the /maintainers section of the site.
 
-[Contributing Guide]: https://contribute.cncf.io/about/contributing/
+[Contributing Guide]: https://cncf-contribute.netlify.app/about/contributing/
 [cncf/sig-contributor-strategy]: https://github.com/cncf/sig-contributor-strategy/
 
 ## Netlify Deployments
