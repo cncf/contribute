@@ -1,3 +1,6 @@
+---
+title: CNCF Projects
+---
 <!--
 
 When adding a new project to the list, add an entry to the table under the CNCF Projects section. The table is sorted
@@ -34,9 +37,6 @@ convenience.
 -->
 
 <!-- Frequently Used Links -->
-
-CNCF Projects
-=============
 
 All projects of the Cloud Native Computing Foundation are classified with one of three stages of maturity:
 
