@@ -127,7 +127,7 @@ Mentorship Programs
 
 The Cloud Native Computing Foundation participates in various mentoring programs, including:
 
--	[Community Bridge](https://github.com/cncf/mentoring/tree/master/communitybridge) by the Linux Foundation;
+-	[LFX Mentorship](https://github.com/cncf/mentoring/tree/master/lfx-mentorship) (previously known as Community Bridge) by the Linux Foundation;
 -	[Google Summer of Code](https://github.com/cncf/mentoring/tree/master/summerofcode) (GSoC);
 -	[Google Summer of Docs](https://github.com/cncf/mentoring/tree/master/seasonofdocs);
 -	[Outreachy](https://github.com/cncf/mentoring/tree/master/outreachy)
