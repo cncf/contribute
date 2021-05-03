@@ -14,72 +14,72 @@ CNCF offers multiple ways to start contributing to the CNCF ecosystem, including
 Projects
 ========
 
-The Cloud Native Computing Foundation projects are listed [below](content/projects/), together with the brief information on contributing to them.
+The Cloud Native Computing Foundation projects are listed [below](projects/), together with the brief information on contributing to them.
 
 ### Graduated Projects
 
 | Project Name                                | Focus                | Primary Language |
 |:-------------------------------------------:|:--------------------:|:----------------:|
-| [Kubernetes](content/projects/#kubernetes) |    Orchestration     |        Go        |
-| [Prometheus](content/projects/#prometheus) |      Monitoring      |        Go        |
-|      [Envoy](content/projects/#envoy)      |     Service Mesh     |       C++        |
-|    [CoreDNS](content/projects/#coredns)    |  Service Discovery   |        Go        |
-| [containerd](content/projects/#containerd) |  Container Runtime   |        Go        |
-|    [Fluentd](content/projects/#fluentd)    |       Logging        |     C, Ruby      |
-|     [Jaeger](content/projects/#jaeger)     | Distributed Tracing  |        Go        |
-|     [Vitess](content/projects/#vitess)     |       Storage        |        Go        |
-|        [TUF](content/projects/#tuf)        | Software Update Spec |        \-        |
-|       [Helm](content/projects/#helm)       |  Package Management  |        Go        |
-|     [Harbor](content/projects/#harbor)     |       Registry       |        Go        |
-|    [Rook](content/projects/#rook)          |        Storage       |        Go        |
-|     [TiKV](content/projects/#tikv)         |   Key/Value Store    |       Rust       |
+| [Kubernetes](projects/#kubernetes) |    Orchestration     |        Go        |
+| [Prometheus](projects/#prometheus) |      Monitoring      |        Go        |
+|      [Envoy](projects/#envoy)      |     Service Mesh     |       C++        |
+|    [CoreDNS](projects/#coredns)    |  Service Discovery   |        Go        |
+| [containerd](projects/#containerd) |  Container Runtime   |        Go        |
+|    [Fluentd](projects/#fluentd)    |       Logging        |     C, Ruby      |
+|     [Jaeger](projects/#jaeger)     | Distributed Tracing  |        Go        |
+|     [Vitess](projects/#vitess)     |       Storage        |        Go        |
+|        [TUF](projects/#tuf)        | Software Update Spec |        \-        |
+|       [Helm](projects/#helm)       |  Package Management  |        Go        |
+|     [Harbor](projects/#harbor)     |       Registry       |        Go        |
+|    [Rook](projects/#rook)          |        Storage       |        Go        |
+|     [TiKV](projects/#tikv)         |   Key/Value Store    |       Rust       |
 
 ### Incubated Projects
 
 | Project Name                                              | Focus                   | Primary Language |
 |:---------------------------------------------------------:|:-----------------------:|:----------------:|
-|       [OpenTracing](content/projects/#opentracing)       | Distributed Tracing API |        Go        |
-|              [gRPC](content/projects/#grpc)              |  Remote Procedure Call  |        Go        |
-|               [CNI](content/projects/#cni)               |     Networking API      |                  |
-|            [Notary](content/projects/#notary)            |        Security         |        Go        |
-|              [NATS](content/projects/#nats)              |        Messaging        |        Go        |
-|           [Linkerd](content/projects/#linkerd)           |      Service Mesh       |     Scala,Go     |
-|              [etcd](content/projects/#etcd)              |     Key/Value Store     |        Go        |
-| [Open Policy Agent](content/projects/#open-policy-agent) |         Policy          |        Go        |
-|             [CRI-O](content/projects/#cri-o)             |    Container Runtime    |        Go        |
-|       [CloudEvents](content/projects/#cloudevents)       |       Serverless        |        \-        |
-|             [Falco](content/projects/#falco)             |   Container Security    |       C++        |
-|              [Argo](content/projects/#argo)              |          CI/CD          |        Go        |
-|         [Dragonfly](content/projects/#dragonfly)         |   Image Distribution    |        Go        |
-|            [SPIFFE](content/projects/#spiffe)            |      Identity spec      |        Go        |
-|             [SPIRE](content/projects/#spire)             |        Identity         |        Go        |
-|           [Contour](content/projects/#contour)           |       Networking        |        Go        |
+|       [OpenTracing](projects/#opentracing)       | Distributed Tracing API |        Go        |
+|              [gRPC](projects/#grpc)              |  Remote Procedure Call  |        Go        |
+|               [CNI](projects/#cni)               |     Networking API      |                  |
+|            [Notary](projects/#notary)            |        Security         |        Go        |
+|              [NATS](projects/#nats)              |        Messaging        |        Go        |
+|           [Linkerd](projects/#linkerd)           |      Service Mesh       |     Scala,Go     |
+|              [etcd](projects/#etcd)              |     Key/Value Store     |        Go        |
+| [Open Policy Agent](projects/#open-policy-agent) |         Policy          |        Go        |
+|             [CRI-O](projects/#cri-o)             |    Container Runtime    |        Go        |
+|       [CloudEvents](projects/#cloudevents)       |       Serverless        |        \-        |
+|             [Falco](projects/#falco)             |   Container Security    |       C++        |
+|              [Argo](projects/#argo)              |          CI/CD          |        Go        |
+|         [Dragonfly](projects/#dragonfly)         |   Image Distribution    |        Go        |
+|            [SPIFFE](projects/#spiffe)            |      Identity spec      |        Go        |
+|             [SPIRE](projects/#spire)             |        Identity         |        Go        |
+|           [Contour](projects/#contour)           |       Networking        |        Go        |
 
 ### Sandbox Projects
 
 | Project Name                                                        | Focus                      | Primary Language |
 |:-------------------------------------------------------------------:|:--------------------------:|:----------------:|
-|           [Telepresence](content/projects/#telepresence)           |          Tooling           |      Python      |
-|            [OpenMetrics](content/projects/#openmetrics)            |          Security          |        Go        |
-|                 [Cortex](content/projects/#cortex)                 |         Monitoring         |        Go        |
-|             [Buildpacks](content/projects/#buildpacks)             |       Packaging Spec       |        Go        |
-|        [Virtual Kubelet](content/projects/#virtual-kubelet)        |          Nodeless          |        Go        |
-|               [KubeEdge](content/projects/#kubeedge)               |            Edge            |        Go        |
-|               [Keptn](content/projects/#keptn)                     | Event-driven orchestration |    Go, Angular   |
-|                [Brigade](content/projects/#Brigade)                |         Scripting          |        Go        |
-|   [Network Service Mesh](content/projects/#network-service-mesh)   |         Networking         |        Go        |
-|          [OpenTelemetry](content/projects/#opentelemetry)          |       Telemetry Spec       |        Go        |
-|                [OpenEBS](content/projects/#openebs)                |          Storage           |        Go        |
-|                 [Thanos](content/projects/#thanos)                 |         Monitoring         |        Go        |
-|                   [Flux](content/projects/#flux)                   |           GitOps           |        Go        |
-|                [in-toto](content/projects/#in-toto)                |          Security          |    Python        |
-|                [Strimzi](content/projects/#strimzi)                |       Kafka Operator       |        Go        |
-|               [KubeVirt](content/projects/#kubevirt)               |        VM Operator         |        Go        |
-|               [Longhorn](content/projects/#longhorn)               |          Storage           |        Go        |
-|               [ChubaoFS](content/projects/#chubaofs)               |          Storage           |        Go        |
-|                   [KEDA](content/projects/#keda)                   |  Event-driven autoscaling  |        Go        |
-| [Service Mesh Interface](content/projects/#service-mesh-interface) |        Service Mesh        |        Go        |
-|                [Volcano](content/projects/#volcano)                | High Performance Workloads |        Go        |
+|           [Telepresence](projects/#telepresence)           |          Tooling           |      Python      |
+|            [OpenMetrics](projects/#openmetrics)            |          Security          |        Go        |
+|                 [Cortex](projects/#cortex)                 |         Monitoring         |        Go        |
+|             [Buildpacks](projects/#buildpacks)             |       Packaging Spec       |        Go        |
+|        [Virtual Kubelet](projects/#virtual-kubelet)        |          Nodeless          |        Go        |
+|               [KubeEdge](projects/#kubeedge)               |            Edge            |        Go        |
+|               [Keptn](projects/#keptn)                     | Event-driven orchestration |    Go, Angular   |
+|                [Brigade](projects/#Brigade)                |         Scripting          |        Go        |
+|   [Network Service Mesh](projects/#network-service-mesh)   |         Networking         |        Go        |
+|          [OpenTelemetry](projects/#opentelemetry)          |       Telemetry Spec       |        Go        |
+|                [OpenEBS](projects/#openebs)                |          Storage           |        Go        |
+|                 [Thanos](projects/#thanos)                 |         Monitoring         |        Go        |
+|                   [Flux](projects/#flux)                   |           GitOps           |        Go        |
+|                [in-toto](projects/#in-toto)                |          Security          |    Python        |
+|                [Strimzi](projects/#strimzi)                |       Kafka Operator       |        Go        |
+|               [KubeVirt](projects/#kubevirt)               |        VM Operator         |        Go        |
+|               [Longhorn](projects/#longhorn)               |          Storage           |        Go        |
+|               [ChubaoFS](projects/#chubaofs)               |          Storage           |        Go        |
+|                   [KEDA](projects/#keda)                   |  Event-driven autoscaling  |        Go        |
+| [Service Mesh Interface](projects/#service-mesh-interface) |        Service Mesh        |        Go        |
+|                [Volcano](projects/#volcano)                | High Performance Workloads |        Go        |
 
 TOC
 ===
