@@ -89,7 +89,7 @@ The CNCF TOC is the technical governing body of the CNCF Foundation. The detaile
 Special Interest Groups
 -----------------------
 
-CNCF SIGs oversee and coordinate the interests pertaining to a logical area of needs of end users and/or projects. More details about the CNCF SIGs is available [here](https://github.com/cncf/toc/tree/main/workinggroups)
+CNCF SIGs oversee and coordinate the interests pertaining to a logical area of needs of end users and/or projects. More details about the CNCF SIGs is available [here](https://github.com/cncf/toc/tree/main/tags)
 
 Working Groups
 --------------
