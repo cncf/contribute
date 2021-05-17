@@ -510,6 +510,13 @@ Sandbox Projects
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+### Litmus
+*"Litmus is a toolset to perform cloud-native chaos engineering. Litmus provides tools to orchestrate chaos on Kubernetes and helps SREs find weaknesses in their deployments. SREs use Litmus to run chaos experiments initially in the staging environment and eventually in production to find bugs, vulnerabilities. Fixing the weaknesses leads to increased resilience of the system."* - [Litmus](https://litmuschaos.io/)
+
+-	**Project Repository:** https://github.com/litmuschaos/litmus
+-	**Contributor Guide:** [Litmus-contributor-guide](https://github.com/litmuschaos/litmus/blob/master/CONTRIBUTING.md)
+-	**Chat:** [Litmus Slack](https://slack.litmuschaos.io)
+-	**License:** [Apache 2.0](apache-license)
 ---
 
 Archived Projects
