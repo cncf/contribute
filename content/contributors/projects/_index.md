@@ -484,7 +484,7 @@ Sandbox Projects
 *"Thanos is a set of components that can be composed into a highly available metric system with unlimited storage capacity, which can be added seamlessly on top of existing Prometheus deployments."* - [Overview - Thanos readme](https://github.com/thanos-io/thanos#overview)
 
 -	**Project Repository:** https://github.com/thanos-io/thanos
--	**Contributor Guide:** [thanos.io/contributing](https://thanos.io/contributing/)
+-	**Contributor Guide:** [thanos.io/contributing](https://github.com/thanos-io/thanos/blob/main/CONTRIBUTING.md)
 -	**Chat:** Slack: `#thanos` in [slack.cncf.io](https://app.slack.com/client/T08PSQ7BQ/CK5RSSC10)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
