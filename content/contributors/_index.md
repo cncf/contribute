@@ -55,6 +55,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |             [SPIRE](projects/#spire)             |        Identity         |        Go        |
 |           [Contour](projects/#contour)           |       Networking        |        Go        |
 |               [KubeEdge](projects/#kubeedge)     |            Edge         |        Go        |
+|        [Buildpacks](projects/#buildpacks)        |      Packaging Spec     |        Go        |
 
 ### Sandbox Projects
 
@@ -63,7 +64,6 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |           [Telepresence](projects/#telepresence)           |          Tooling           |      Python      |
 |            [OpenMetrics](projects/#openmetrics)            |          Security          |        Go        |
 |                 [Cortex](projects/#cortex)                 |         Monitoring         |        Go        |
-|             [Buildpacks](projects/#buildpacks)             |       Packaging Spec       |        Go        |
 |        [Virtual Kubelet](projects/#virtual-kubelet)        |          Nodeless          |        Go        |
 |               [Keptn](projects/#keptn)                     | Event-driven orchestration |    Go, Angular   |
 |                [Brigade](projects/#Brigade)                |         Scripting          |        Go        |
