@@ -22,7 +22,8 @@ var (
 )
 
 const (
-	webhook = "https://api.netlify.com/build_hooks/6077044c670d3a4579bf1f99"
+	// Triggers a build of github.com/cncf/tag-contributor-strategy on the main branch
+	webhook = "https://api.netlify.com/build_hooks/60d5e1de44093546fdf14b3e"
 )
 
 // Ensure Mage is installed and on the PATH.
