@@ -18,7 +18,7 @@ import (
 )
 
 var (
-	prodBranch = "website"
+	prodBranch = "main"
 )
 
 const (
@@ -81,10 +81,10 @@ func triggerNetlifyDeployment() error {
 // DeployPreview builds the entire website for a preview.
 func DeployPreview() error {
 	pwd, _ := os.Getwd()
-	websiteDir := filepath.Join(filepath.Dir(pwd), "sig-contributor-strategy")
+	websiteDir := filepath.Join(filepath.Dir(pwd), "tag-contributor-strategy")
 
 	if _, err := os.Stat(websiteDir); os.IsNotExist(err) {
-		err := shx.RunV("git", "clone", "-b", prodBranch, "--recurse-submodules", "https://github.com/cncf/sig-contributor-strategy.git", websiteDir)
+		err := shx.RunV("git", "clone", "-b", prodBranch, "--recurse-submodules", "https://github.com/cncf/tag-contributor-strategy.git", websiteDir)
 		if err != nil {
 			return err
 		}
