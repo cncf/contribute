@@ -32,6 +32,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |     [Harbor](projects/#harbor)     |       Registry       |        Go        |
 |       [Rook](projects/#rook)       |       Storage        |        Go        |
 |       [TiKV](projects/#tikv)       |   Key/Value Store    |       Rust       |
+|    [Linkerd](projects/#linkerd)    |     Service Mesh     |     Scala,Go     |
 
 ### Incubated Projects
 
@@ -42,7 +43,6 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |               [CNI](projects/#cni)               |     Networking API      |                  |
 |            [Notary](projects/#notary)            |        Security         |        Go        |
 |              [NATS](projects/#nats)              |        Messaging        |        Go        |
-|           [Linkerd](projects/#linkerd)           |      Service Mesh       |     Scala,Go     |
 |              [etcd](projects/#etcd)              |     Key/Value Store     |        Go        |
 | [Open Policy Agent](projects/#open-policy-agent) |         Policy          |        Go        |
 |             [CRI-O](projects/#cri-o)             |    Container Runtime    |        Go        |
