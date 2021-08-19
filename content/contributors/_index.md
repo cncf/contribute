@@ -85,9 +85,11 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 
 The CNCF TOC is the technical governing body of the CNCF Foundation. The detailed information on CNCF TOC, including its duties and responsibilities, together with the information on collaboration is listed on [CNCF TOC repo](https://github.com/cncf/toc/).
 
-## Special Interest Groups
+## Technical Advisory Groups
 
-CNCF SIGs oversee and coordinate the interests pertaining to a logical area of needs of end users and/or projects. More details about the CNCF SIGs is available [here](https://github.com/cncf/toc/tree/main/tags)
+CNCF TAGs oversee and coordinate the interests pertaining to a logical area of needs of end users and/or projects. More details about the CNCF TAGs is available [here](https://github.com/cncf/toc/tree/main/tags).
+
+_Note: CNCF TAGs were previously named Special Interest Groups (SIGs). Renaming SIGs was discussed in [this GitHub Issue](https://github.com/cncf/toc/issues/549)._
 
 ## Working Groups
 
