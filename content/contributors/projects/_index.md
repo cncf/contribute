@@ -535,7 +535,7 @@ Sandbox Projects
 
 -	**Project Repository:** https://github.com/meshery
 -	**Contributor Guide:** [docs.meshery.io/project/contributing](https://docs.meshery.io/project/contributing)
--	**Chat:** Slack: `#tinkerbell` in [slack.layer5.io](https://slack.layer5.io)
+-	**Chat:** Slack: `#meshery` in [slack.layer5.io](https://slack.layer5.io)
 -	**Developer List/Forum:** [Meshery Mailing Lists](https://meshery.io/subscribe)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
