@@ -529,6 +529,17 @@ Sandbox Projects
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+### Meshery
+
+*"Meshery is the open source, service mesh management plane that enables the adoption, operation, and management of any service mesh and their workloads."* - [Meshery](https://meshery.io)
+
+-	**Project Repository:** https://github.com/meshery
+-	**Contributor Guide:** [docs.meshery.io/project/contributing](https://docs.meshery.io/project/contributing)
+-	**Chat:** Slack: `#meshery` in [slack.layer5.io](https://slack.layer5.io)
+-	**Developer List/Forum:** [Meshery Mailing Lists](https://meshery.io/subscribe)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
 ### Service Mesh Performance
 
 *"Service Mesh Performance is a standard for capturing and characterizing the details of infrastructure capacity, service mesh configuration, and workload metadata."* - [Service Mesh Performance](https://smp-spec.io/)
