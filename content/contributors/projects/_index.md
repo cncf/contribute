@@ -325,7 +325,7 @@ CloudEvents Specification
 *"Open source Kubernetes native workflows, events, CI and CD"* - [https://argoproj.github.io/ ][$Argo overview]
 
 -	**Project Repository:** https://github.com/argoproj/
--	**Contributor Guide:** [argo/community/](https://github.com/argoproj/community-contrib-docs/blob/3b76affa356dbc3160b31f9a96ac81dfa49017ae/CODE_OF_CONDUCT.md)
+-	**Contributor Guide:** [argo/community/](https://github.com/argoproj/community-contrib-docs/blob/master/argo-cd/developer/contributing.md)
 -	**Chat:** [Argo Slack](https://argoproj.slack.com/)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [Argo CLA](https://github.com/argoproj/argo/tree/master/community#contributing-to-argo)
