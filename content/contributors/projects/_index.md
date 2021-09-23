@@ -550,6 +550,19 @@ Sandbox Projects
 -	**Developer List/Forum:** [Service Mesh Performance Mailing Lists](https://smp-spec.io/subscribe)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
+### MetalLB
+
+*"MetalLB is a load-balancer implementation for bare metal Kubernetes clusters, using standard routing protocols."* - [MetalLB](https://metallb.io/)
+
+-	**Project Repository:** https://github.com/metallb/metallb
+-	**Contributor Guide:** [metallb/metallb/CONTRIBUTING](https://github.com/metallb/metallb/blob/main/CONTRIBUTING.md)
+-	**Chat:** Slack: `#metallb` and `#metallb-dev` in [slack.k8s.io](https://slack.k8s.io)
+-	**Developer List/Forum:** [MetalLB users](https://groups.google.com/g/metallb-users)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
+
 ---
 
 Archived Projects

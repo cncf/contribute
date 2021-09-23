@@ -82,6 +82,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |                 [Litmus](projects/#litmus)                 |     Chaos Engineering      |        Go        |
 |                 [Meshery](projects/#meshery)               |     Service Mesh           |     Go, React    |
 | [Service Mesh Performance](projects/#service-mesh-performance)|     Service Mesh           |        Go        |
+|            [MetalLB](projects/#metallb)                    |   Bare Metal Load balancer |        Go        |
 
 # TOC
 
