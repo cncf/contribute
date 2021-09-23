@@ -529,6 +529,16 @@ Sandbox Projects
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+### Service Mesh Performance
+
+*"Service Mesh Performance is a standard for capturing and characterizing the details of infrastructure capacity, service mesh configuration, and workload metadata."* - [Service Mesh Performance](https://smp-spec.io/)
+
+-	**Project Repository:** https://github.com/service-mesh-performance
+-	**Contributor Guide:** [smp-spec.io/contributing](https://github.com/service-mesh-performance/service-mesh-performance/blob/master/CONTRIBUTING.md). Service Mesh Performance prominently and consistently engages with the Meshery project. For a more complete set of contributing guides see [docs.meshery.io/project/contributing](https://docs.meshery.io/project/contributing)
+-	**Chat:** Slack: `#performance` in [slack.layer5.io](https://slack.layer5.io)
+-	**Developer List/Forum:** [Service Mesh Performance Mailing Lists](https://smp-spec.io/subscribe)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
 Archived Projects
