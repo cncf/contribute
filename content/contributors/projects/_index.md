@@ -562,7 +562,16 @@ Sandbox Projects
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+### Karmada
 
+*"Karmada (Kubernetes Armada) is a Kubernetes management system that enables you to run your cloud-native applications across multiple Kubernetes clusters and clouds, with no changes to your applications."* - [Karmada](https://karmada.io/)
+
+-	**Project Repository:** https://github.com/karmada-io/karmada
+-	**Contributor Guide:** [karmada-io/karmada/CONTRIBUTING](https://github.com/karmada-io/karmada/blob/master/CONTRIBUTING.md)
+-	**Chat:** Slack: `#general` and `#karmada-dev` in [karmada-io.slack](https://karmada-io.slack.com)
+-	**Developer List/Forum:** [Karmada Mailing Lists](https://groups.google.com/forum/#!forum/karmada)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
 Archived Projects
