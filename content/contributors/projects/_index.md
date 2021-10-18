@@ -572,6 +572,18 @@ Sandbox Projects
 -	**Developer List/Forum:** [Karmada Mailing Lists](https://groups.google.com/forum/#!forum/karmada)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
+### Inclavare Containers
+
+*"Inclavare Containers is an innovation of container runtime with the novel approach for launching protected containers in hardware-assisted Trusted Execution Environment (TEE) technology, aka Enclave, which can prevent the untrusted entity, such as Cloud Service Provider (CSP), from accessing the sensitive and confidential assets in use."* - [Inclavare Containers](https://inclavare-containers.io/)
+
+-	**Project Repository:** https://github.com/alibaba/inclavare-containers/
+-	**Contributor Guide:** [inclavare-containers/CONTRIBUTING](https://github.com/alibaba/inclavare-containers/blob/master/CONTRIBUTING.md)
+-	**Chat:** Slack: `#inclavare-containers` in [slack.cncf.io](https://cloud-native.slack.com/archives/C02HJJ81BD5)
+-	**Developer List/Forum:** [Inclavare-Containers](https://groups.google.com/forum/#!forum/inclavare-containers)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
 ---
 
 Archived Projects
