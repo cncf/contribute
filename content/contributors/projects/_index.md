@@ -599,3 +599,17 @@ rkt is a pod-native container engine for Linux. It is composable, secure, and bu
 -	**Developer Mailing List/Forum:** [rkt-dev Mailing List](https://groups.google.com/forum/#!forum/rkt-dev)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
+---
+
+### SuperEdge
+
+*"SuperEdge is a distributed edge container management system. Aims to seamlessly expand the native Kubernetes centralized resource management capabilities to edge computing and distributed resource management scenarios, and centrally manage edge devices and applications."* - [SuperEdge](https://superedge.io/)
+
+-	**Project Repository:** https://github.com/superedge/superedge
+-	**Contributor Guide:** [superedge/superedge/CONTRIBUTING](https://github.com/superedge/superedge/blob/main/CONTRIBUTING.md)
+-	**Chat:** Slack: `#superedge-community` and `#superedge-dev` in [superedge.slack](https://superedge-workspace.slack.com)
+-	**Developer List/Forum:** [SuperEdge Mailing Lists](https://groups.google.com/g/superedge)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
