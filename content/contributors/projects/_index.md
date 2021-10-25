@@ -372,6 +372,19 @@ CloudEvents Specification
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+### Flux
+
+*"Flux is a tool that automatically ensures that the state of your Kubernetes cluster matches the configuration you’ve supplied in Git. It uses an operator in the cluster to trigger deployments inside Kubernetes, which means that you don’t need a separate continuous delivery tool."* - [Flux - fluxcd.io](https://fluxcd.io/)
+
+-	**Project Repository:** https://github.com/fluxcd/flux2
+-	**Contributor Guide:** [fluxcd.io/contributing](https://fluxcd.io/contributing/)
+-	**Chat:** Slack: `#flux` in [slack.cncf.io](https://app.slack.com/client/T08PSQ7BQ/CLAJ40HV3)
+-	**Developer List/Forum:** [Flux Dev Mailing List](https://lists.cncf.io/g/cncf-flux-dev)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
+
+
 ---
 
 Sandbox Projects
@@ -486,17 +499,6 @@ Sandbox Projects
 -	**Project Repository:** https://github.com/thanos-io/thanos
 -	**Contributor Guide:** [thanos.io/contributing](https://thanos.io/tip/contributing/)
 -	**Chat:** Slack: `#thanos` in [slack.cncf.io](https://app.slack.com/client/T08PSQ7BQ/CK5RSSC10)
--	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
--	**Legal Requirements:** [DCO](https://developercertificate.org/)
-
-### Flux
-
-*"Flux is a tool that automatically ensures that the state of your Kubernetes cluster matches the configuration you’ve supplied in Git. It uses an operator in the cluster to trigger deployments inside Kubernetes, which means that you don’t need a separate continuous delivery tool."* - [Flux - fluxcd.io](https://fluxcd.io/)
-
--	**Project Repository:** https://github.com/fluxcd/flux2
--	**Contributor Guide:** [fluxcd.io/contributing](https://fluxcd.io/contributing/)
--	**Chat:** Slack: `#flux` in [slack.cncf.io](https://app.slack.com/client/T08PSQ7BQ/CLAJ40HV3)
--	**Developer List/Forum:** [Flux Dev Mailing List](https://lists.cncf.io/g/cncf-flux-dev)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
