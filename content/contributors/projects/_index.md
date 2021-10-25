@@ -374,7 +374,7 @@ CloudEvents Specification
 
 ### Flux
 
-*"Flux is a tool that automatically ensures that the state of your Kubernetes cluster matches the configuration you’ve supplied in Git. It uses an operator in the cluster to trigger deployments inside Kubernetes, which means that you don’t need a separate continuous delivery tool."* - [Flux - fluxcd.io](https://fluxcd.io/)
+*"Flux is a collection of tools for keeping Kubernetes clusters in sync with sources of configuration (like Git repositories), and automating updates to configuration when there is new code to deploy."* - [Flux - fluxcd.io](https://fluxcd.io/)
 
 -	**Project Repository:** https://github.com/fluxcd/flux2
 -	**Contributor Guide:** [fluxcd.io/contributing](https://fluxcd.io/contributing/)
