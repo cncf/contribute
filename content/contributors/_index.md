@@ -87,6 +87,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |            [Karmada](projects/#karmada)                    |   Multi-Cloud Orchestration |        Go        |
 |   [Inclavare Containers](projects/#inclavare-containers)   |          Security          |       C, Go      |
 | [SuperEdge](projects/#SuperEdge) | Edge | Go |
+|   [WasmEdge](projects/#wasmedge)   |      Container Runtime         |       C++, Rust      |
 
 # TOC
 
