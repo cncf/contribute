@@ -586,6 +586,17 @@ Sandbox Projects
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+### WasmEdge
+
+*"WasmEdge is a lightweight, high-performance, and extensible WebAssembly runtime for cloud native, edge, and decentralized applications. It is the fastest Wasm VM today. Its use cases include serverless apps, embedded functions, microservices, smart contracts, and IoT devices. WasmEdge supports all standard WebAssembly extensions as well as proprietary extensions for Tensorflow inference, KV store, and image processing, etc. Its compiler toolchain supports not only WebAssembly languages such as C/C++, Rust, Swift, Kotlin, and AssemblyScript but also [regular JavaScript](https://github.com/WasmEdge/WasmEdge/blob/master/docs/run_javascript.md)."* - [WasmEdge](https://wasmedge.org/)
+
+- **Project Repository:** https://github.com/WasmEdge/WasmEdge
+- **Contributor Guide:** [WasmEdge/CONTRIBUTING](https://github.com/WasmEdge/WasmEdge/blob/master/docs/CONTRIBUTING.md)
+- **Chat:** Slack: `#WasmEdge` in [slack.cncf.io](https://cloud-native.slack.com/)
+- **Developer List/Forum:** [WasmEdge email group](WasmEdge@googlegroups.com)
+- **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+- **Legal Requirements:** [DCO](https://developercertificate.org/)
+
 ---
 
 Archived Projects
