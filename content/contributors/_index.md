@@ -88,6 +88,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |   [Inclavare Containers](projects/#inclavare-containers)   |          Security          |       C, Go      |
 | [SuperEdge](projects/#SuperEdge) | Edge | Go |
 |   [WasmEdge](projects/#wasmedge)   |      Container Runtime         |       C++, Rust      |
+|   [Akri](projects/#akri)   |      IoT, Edge         |       Rust     |
 
 # TOC
 
