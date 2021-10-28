@@ -608,6 +608,15 @@ Sandbox Projects
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+### Akri
+
+*"Akri (A Kubernetes Resource Interface for the Edge) removes the work of finding, using, and monitoring the availability of the IoT devices around Kubernetes clusters. It provides an abstraction layer for device usage, handling the dynamic appearance and disappearance of IoT devices on the Edge. Akri continually detects nodes that have access to IoT devices and schedules workloads based on their availability."* - [Akri](https://docs.akri.sh/)
+
+-	**Project Repository:** https://github.com/project-akri/akri
+-	**Contributor Guide:** [superedge/superedge/CONTRIBUTING](https://docs.akri.sh/community/contributing)
+-	**Chat:** Slack: `#akri` in [kubernetes.slack.com](https://kubernetes.slack.com/messages/C01D9L7QE8Z)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
 Archived Projects
