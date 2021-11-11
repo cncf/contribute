@@ -89,6 +89,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 | [SuperEdge](projects/#SuperEdge) | Edge | Go |
 |   [WasmEdge](projects/#wasmedge)   |      Container Runtime         |       C++, Rust      |
 |   [Akri](projects/#akri)   |      IoT, Edge         |       Rust     |
+|[Open Cluster Management](projects/#open-cluster-management)| Multi-Cluster Orchestration|        Go        |
 
 # TOC
 
