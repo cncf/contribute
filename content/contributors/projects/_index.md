@@ -617,6 +617,17 @@ Sandbox Projects
 -	**Chat:** Slack: `#akri` in [kubernetes.slack.com](https://kubernetes.slack.com/messages/C01D9L7QE8Z)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
+### Open Cluster Management
+
+*"Open Cluster Management (OCM) is a community-driven project focused on multi-cluster and multi-cloud scenarios for Kubernetes apps. Open APIs are evolving within this project for cluster registration, work distribution, dynamic placement of policies and workloads, and much more."* - [Open Cluster Management](https://open-cluster-management.io)
+
+-	**Project Repository:** https://github.com/open-cluster-management-io/ocm
+-	**Contributor Guide:** [open-cluster-management-io/community/CONTRIBUTING](https://github.com/open-cluster-management-io/community/blob/main/CONTRIBUTING.md)
+-	**Chat:** Slack: `##open-cluster-mgmt` in [kubernetes.slack.com](https://kubernetes.slack.com/archives/C01GE7YSUUF)
+-	**Developer List/Forum:** [Open Cluster Management Mailing Lists](https://groups.google.com/g/open-cluster-management)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
 Archived Projects
