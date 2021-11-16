@@ -628,6 +628,16 @@ Sandbox Projects
 -	**Developer List/Forum:** [Open Cluster Management Mailing Lists](https://groups.google.com/g/open-cluster-management)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
+
+### KubeArmor
+
+*"KubeArmor is a cloud-native runtime security enforcement system that restricts the behavior (such as process execution, file access, and networking operation) of containers and nodes at the system level."* - [KubeArmor](https://github.com/kubearmor/KubeArmor)
+
+-	**Project Repository:** https://github.com/kubearmor/KubeArmor
+-	**Contributor Guide:** [kubearmor/KubeArmor/CONTRIBUTING](https://github.com/kubearmor/KubeArmor/blob/main/CONTRIBUTING.md)
+-	**Chat:** Slack: `##kubearmor-project` in [kubearmor.slack](https://kubearmor.slack.com)
+-	**Developer List/Forum:** [KubeArmor GitHub Discussions](https://github.com/kubearmor/KubeArmor/discussions)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 ---
 
 Archived Projects
