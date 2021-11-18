@@ -80,8 +80,8 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 | [Service Mesh Interface](projects/#service-mesh-interface) |        Service Mesh        |        Go        |
 |                [Volcano](projects/#volcano)                | High Performance Workloads |        Go        |
 |                 [Litmus](projects/#litmus)                 |     Chaos Engineering      |        Go        |
-|                 [Meshery](projects/#meshery)               |     Service Mesh           |     Go, React    |
-| [Service Mesh Performance](projects/#service-mesh-performance)|     Service Mesh           |        Go        |
+|                 [Meshery](projects/#meshery)               |     Service Mesh           |     Go, React, Rust, C++    |
+| [Service Mesh Performance](projects/#service-mesh-performance)|     Service Mesh           |        Go, DevOps       |
 |            [Tinkerbell](projects/#tinkerbell)              |   Bare Metal Provisioning  |        Go        |
 |            [MetalLB](projects/#metallb)                    |   Bare Metal Load balancer |        Go        |
 |            [Karmada](projects/#karmada)                    |   Multi-Cloud Orchestration |        Go        |
