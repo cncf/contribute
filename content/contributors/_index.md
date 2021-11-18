@@ -91,6 +91,8 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |   [Akri](projects/#akri)   |      IoT, Edge         |       Rust     |
 |[Open Cluster Management](projects/#open-cluster-management)| Multi-Cluster Orchestration|        Go        |
 |            [KubeArmor](projects/#kubearmor)                |       Runtime Security     |      Go, C       |
+|            [Nocalhost](projects/#nocalhost)                |   Cloud Native Dev Environment   |     Go     |
+
 
 # TOC
 

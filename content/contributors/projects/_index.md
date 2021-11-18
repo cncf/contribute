@@ -638,6 +638,16 @@ Sandbox Projects
 -	**Chat:** Slack: `##kubearmor-project` in [kubearmor.slack](https://kubearmor.slack.com)
 -	**Developer List/Forum:** [KubeArmor GitHub Discussions](https://github.com/kubearmor/KubeArmor/discussions)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+
+### Nocalhost
+
+*"Nocalhost is a cloud-native dev environment (include VSCode and Jetbrains plug-in), It allows developers to develop applications directly in a Kubernetes cluster using an IDE plug-in, with local coding taking effect in real-time within the container, reducing the development/debugging/testing cycle."* - [Nocalhost](https://github.com/nocalhost/nocalhost)
+
+-	**Project Repository:** https://github.com/nocalhost/nocalhost
+-	**Contributor Guide:** [nocalhost/nocalhost/CONTRIBUTING](https://github.com/nocalhost/nocalhost/blob/main/CONTRIBUTING.md)
+-	**Chat:** Slack: `##nocalhost` in [cloud-native.slack.com](https://cloud-native.slack.com/archives/C02MNCR8R5H)
+-	**Developer List/Forum:** [Nocalhost Mainling Lists](https://groups.google.com/g/nocalhost)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 ---
 
 Archived Projects
