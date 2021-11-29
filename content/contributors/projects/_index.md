@@ -283,11 +283,11 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 *"OPA is a lightweight general-purpose policy engine that can be co-located with your service. You can integrate OPA as a sidecar, host-level daemon, or library."* - [What is OPA? - openpolicyagent.org](https://www.openpolicyagent.org/docs/#what-is-opa)
 
 -	**Project Repository:** https://github.com/open-policy-agent/opa
--	**Contributor Guide:** [open-policy-agent/opa/contributing](https://github.com/open-policy-agent/opa/blob/master/CONTRIBUTING.md)
+-	**Contributor Guide:** [open-policy-agent/opa/contributing](https://www.openpolicyagent.org/docs/latest/contributing/)
 -	**Chat:** Slack: [slack.openpolicyagent.org](https://slack.openpolicyagent.org/)
 -	**Developer Mailing List/Forum:** None
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
--	**Legal Requirements:** None
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
 ### CRI-O
 
