@@ -60,6 +60,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |        [Thanos](projects/#thanos)        |        Monitoring        |        Go        |
 |          [Flux](projects/#flux)          |          GitOps          |        Go        |
 | [OpenTelemetry](projects/#opentelemetry) |      Telemetry Spec      |        Go        |
+|          [Dapr](projects/#dapr)          |        Framework         |        Go        |
 
 ### Sandbox Projects
 

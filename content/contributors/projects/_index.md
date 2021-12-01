@@ -383,6 +383,15 @@ CloudEvents Specification
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+### Dapr
+
+*"The Distributed Application Runtime (Dapr) provides APIs that simplify microservice connectivity. Whether your communication pattern is service to service invocation or pub/sub messaging, Dapr helps you write resilient and secured microservices. By letting Dapr’s sidecar take care of the complex challenges such as service discovery, message broker integration, encryption, observability, and secret management, you can focus on business logic and keep your code simple."* - [Dapr - dapr.io](https://dapr.io/)
+
+-   **Project Repository:** https://github.com/dapr
+-   **Contributor Guide:** [dapr.io/contributing](https://docs.dapr.io/contributing/)
+-   **Chat:** [Dapr Discord Server](https://aka.ms/dapr-discord)
+-   **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-   **Legal Requirements:** [DCO](https://developercertificate.org/)
 
 
 ---
