@@ -283,11 +283,11 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 *"OPA is a lightweight general-purpose policy engine that can be co-located with your service. You can integrate OPA as a sidecar, host-level daemon, or library."* - [What is OPA? - openpolicyagent.org](https://www.openpolicyagent.org/docs/#what-is-opa)
 
 -	**Project Repository:** https://github.com/open-policy-agent/opa
--	**Contributor Guide:** [open-policy-agent/opa/contributing](https://github.com/open-policy-agent/opa/blob/master/CONTRIBUTING.md)
+-	**Contributor Guide:** [open-policy-agent/opa/contributing](https://www.openpolicyagent.org/docs/latest/contributing/)
 -	**Chat:** Slack: [slack.openpolicyagent.org](https://slack.openpolicyagent.org/)
 -	**Developer Mailing List/Forum:** None
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
--	**Legal Requirements:** None
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
 ### CRI-O
 
@@ -647,6 +647,17 @@ Sandbox Projects
 -	**Chat:** Slack: `##kubearmor-project` in [kubearmor.slack](https://kubearmor.slack.com)
 -	**Developer List/Forum:** [KubeArmor GitHub Discussions](https://github.com/kubearmor/KubeArmor/discussions)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+---
+
+### K8up
+
+*K8up (pronounced /keɪtæpp/ or simply "ketchup") is a Kubernetes Operator distributed via a Helm chart, compatible with OpenShift and plain Kubernetes.* - [K8up](https://github.com/k8up-io/k8up)
+
+-	**Project Repository:** https://github.com/k8up-io/k8up
+-	**Contributor Guide:** [K8up Contribution Guide](https://k8up.io/k8up/about/contribution_guide.html)
+-	**Chat:** Rocket Chat: `#k8up` in [APPUiO Community Chat](https://community.appuio.ch/channel/k8up)
+-	**Developer List/Forum:** [K8up GitHub Discussions](https://github.com/k8up-io/k8up/discussions)
+-	**License:** [BSD-3-Clause](https://github.com/k8up-io/k8up/blob/master/LICENSE)
 ---
 
 Archived Projects
