@@ -93,6 +93,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |  [Open Cluster Management](projects/#open-cluster-management)  | Multi-Cluster Orchestration |          Go          |
 |                [KubeArmor](projects/#kubearmor)                |      Runtime Security       |        Go, C         |
 |                     [K8up](projects/#k8up)                     | Kubernetes Backup Operator  |          Go          |
+|            [Nocalhost](projects/#nocalhost)                |   Cloud Native Dev Environment  |     Go               |
 
 # TOC
 
