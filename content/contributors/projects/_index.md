@@ -283,11 +283,11 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 *"OPA is a lightweight general-purpose policy engine that can be co-located with your service. You can integrate OPA as a sidecar, host-level daemon, or library."* - [What is OPA? - openpolicyagent.org](https://www.openpolicyagent.org/docs/#what-is-opa)
 
 -	**Project Repository:** https://github.com/open-policy-agent/opa
--	**Contributor Guide:** [open-policy-agent/opa/contributing](https://github.com/open-policy-agent/opa/blob/master/CONTRIBUTING.md)
+-	**Contributor Guide:** [open-policy-agent/opa/contributing](https://www.openpolicyagent.org/docs/latest/contributing/)
 -	**Chat:** Slack: [slack.openpolicyagent.org](https://slack.openpolicyagent.org/)
 -	**Developer Mailing List/Forum:** None
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
--	**Legal Requirements:** None
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
 ### CRI-O
 
@@ -383,6 +383,15 @@ CloudEvents Specification
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 
+### Dapr
+
+*"The Distributed Application Runtime (Dapr) provides APIs that simplify microservice connectivity. Whether your communication pattern is service to service invocation or pub/sub messaging, Dapr helps you write resilient and secured microservices. By letting Dapr’s sidecar take care of the complex challenges such as service discovery, message broker integration, encryption, observability, and secret management, you can focus on business logic and keep your code simple."* - [Dapr - dapr.io](https://dapr.io/)
+
+-   **Project Repository:** https://github.com/dapr
+-   **Contributor Guide:** [dapr.io/contributing](https://docs.dapr.io/contributing/)
+-   **Chat:** [Dapr Discord Server](https://aka.ms/dapr-discord)
+-   **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-   **Legal Requirements:** [DCO](https://developercertificate.org/)
 
 
 ---
@@ -648,6 +657,17 @@ Sandbox Projects
 -	**Chat:** Slack: `##nocalhost` in [cloud-native.slack.com](https://cloud-native.slack.com/archives/C02MNCR8R5H)
 -	**Developer List/Forum:** [Nocalhost Mainling Lists](https://groups.google.com/g/nocalhost)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+---
+
+### K8up
+
+*K8up (pronounced /keɪtæpp/ or simply "ketchup") is a Kubernetes Operator distributed via a Helm chart, compatible with OpenShift and plain Kubernetes.* - [K8up](https://github.com/k8up-io/k8up)
+
+-	**Project Repository:** https://github.com/k8up-io/k8up
+-	**Contributor Guide:** [K8up Contribution Guide](https://k8up.io/k8up/about/contribution_guide.html)
+-	**Chat:** Rocket Chat: `#k8up` in [APPUiO Community Chat](https://community.appuio.ch/channel/k8up)
+-	**Developer List/Forum:** [K8up GitHub Discussions](https://github.com/k8up-io/k8up/discussions)
+-	**License:** [BSD-3-Clause](https://github.com/k8up-io/k8up/blob/master/LICENSE)
 ---
 
 Archived Projects
