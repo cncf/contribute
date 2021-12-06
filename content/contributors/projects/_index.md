@@ -670,6 +670,18 @@ Sandbox Projects
 -	**License:** [BSD-3-Clause](https://github.com/k8up-io/k8up/blob/master/LICENSE)
 ---
 
+### kube-rs
+
+*"kube-rs is a set of core libraries for building applications against the kubernetes api in Rust."* - [kube-rs](https://github.com/kube-rs)
+
+-	**Project Repository:** https://github.com/kube-rs/kube-rs
+-	**Contributor Guide:** [kube-rs/kube-rs/CONTRIBUTING](https://github.com/kube-rs/kube-rs/blob/master/CONTRIBUTING.md)
+-	**Chat:** Discord: `##kube` in [tokio](https://discord.gg/tokio)
+-	**Developer List/Forum:** [Github Discussions](https://github.com/kube-rs/kube-rs/discussions)
+-	**License:** [Apache 2.0](https://github.com/kube-rs/kube-rs/blob/master/LICENSE)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
+---
+
 Archived Projects
 -----------------
 
@@ -683,5 +695,3 @@ rkt is a pod-native container engine for Linux. It is composable, secure, and bu
 -	**Developer Mailing List/Forum:** [rkt-dev Mailing List](https://groups.google.com/forum/#!forum/rkt-dev)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
-
-

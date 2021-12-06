@@ -94,6 +94,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |                [KubeArmor](projects/#kubearmor)                |      Runtime Security       |        Go, C         |
 |                     [K8up](projects/#k8up)                     | Kubernetes Backup Operator  |          Go          |
 |            [Nocalhost](projects/#nocalhost)                |   Cloud Native Dev Environment  |     Go               |
+|                  [kube-rs](projects/#kube-rs)                  |       Rust Ecosystem        |         Rust         |
 
 # TOC
 
