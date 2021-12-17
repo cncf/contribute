@@ -682,6 +682,18 @@ Sandbox Projects
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
+### OpenELB
+
+*"OpenELB is an open-source load balancer implementation designed for exposing the LoadBalancer type of Kubernetes services in bare metal, edge, and virtualization environments.."* - [OpenELB](https://openelb.github.io/)
+
+-	**Project Repository:** https://github.com/openelb/openelb
+-	**Contributor Guide:** [contribute-to-the-openelb-project/](https://openelb.github.io/docs/building-and-contributing/contribute-to-the-porter-project/)
+-	**Chat:** Slack: `#openelb` in [kubernetes.slack.com](https://kubernetes.slack.com/messages/openelb)
+-	**Developer List/Forum:** [OpenELB GitHub Discussions](https://github.com/openelb/openelb/discussions)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
+---
+
 Archived Projects
 -----------------
 
