@@ -95,6 +95,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |                     [K8up](projects/#k8up)                     | Kubernetes Backup Operator  |          Go          |
 |            [Nocalhost](projects/#nocalhost)                |   Cloud Native Dev Environment  |     Go               |
 |                  [kube-rs](projects/#kube-rs)                  |       Rust Ecosystem        |         Rust         |
+|                  [OpenELB](projects/#openelb)                  |       Bare Metal Load balancer	        |         Go         |
 
 # TOC
 
