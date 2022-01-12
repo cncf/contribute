@@ -102,7 +102,7 @@ Graduated Projects
 *"containerd is an industry-standard core container runtime with an emphasis on simplicity, robustness and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, low-level storage and network attachments, etc.."* - [About containerd - containerd.io][about-containerd]
 
 -	**Project Repository:** https://github.com/containerd/containerd
--	**Contributor Guide:** [containerd/containerd/contributing](https://github.com/containerd/containerd/blob/master/CONTRIBUTING.md)
+-	**Contributor Guide:** [containerd/containerd/contributing](https://github.com/containerd/project/blob/main/CONTRIBUTING.md)
 -	**Chat:** Slack: `#containerd` in [dockercommunity.slack.com](https://join.slack.com/t/dockercommunity/shared_invite/enQtNDY4MDc1Mzc0MzIwLTgxZDBlMmM4ZGEyNDc1N2FkMzlhODJkYmE1YTVkYjM1MDE3ZjAwZjBkOGFlOTJkZjRmZGYzNjYyY2M3ZTUxYzQ)
 -	**Developer Mailing List/Forum:** None
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
