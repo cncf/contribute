@@ -61,6 +61,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |          [Flux](projects/#flux)          |          GitOps          |        Go        |
 | [OpenTelemetry](projects/#opentelemetry) |      Telemetry Spec      |        Go        |
 |          [Dapr](projects/#dapr)          |        Framework         |        Go        |
+|        [Cilium](projects/#cilium)        | eBPF Networking & Security |     Go, C      |
 
 ### Sandbox Projects
 
