@@ -703,6 +703,18 @@ Sandbox Projects
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
+### Devfile
+
+*"Devfile is an open standard defining containerized development environments that enables developer tools to simplify and accelerate workflows."* - [Devfile](https://devfile.io/)
+
+-	**Project Repository:** https://github.com/devfile/api
+-	**Contributor Guide:** [devfile-contributor-guide](https://github.com/devfile/library/blob/main/CONTRIBUTING.md)
+-	**Chat:** Slack: `#devfile` in [kubernetes.slack.com](https://kubernetes.slack.com/messages/devfile)
+-	**Developer List/Forum:** [Devfile Discussions](https://github.com/devfile/api/discussions)
+-	**License:** [Apache 2.0](https://github.com/devfile/api/blob/main/LICENSE)
+-	**Legal Requirements:** [DCO](https://developercertificate.org/)
+---
+
 Archived Projects
 -----------------
 
