@@ -67,7 +67,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 
 |                          Project Name                          |            Focus            |   Primary Language   |
 | :------------------------------------------------------------: | :-------------------------: | :------------------: |
-|             [Telepresence](projects/#telepresence)             |           Tooling           |        Python        |
+|             [Telepresence](projects/#telepresence)             |           Tooling           |          Go        |
 |              [OpenMetrics](projects/#openmetrics)              |          Security           |          Go          |
 |          [Virtual Kubelet](projects/#virtual-kubelet)          |          Nodeless           |          Go          |
 |                    [Keptn](projects/#keptn)                    | Event-driven orchestration  |     Go, Angular      |
