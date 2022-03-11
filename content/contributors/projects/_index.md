@@ -403,6 +403,16 @@ native workloads"* - [cilium.io](https://cilium.io)
 - **Chat:** Slack: [slack.cilium.io](https://slack.cilium.io)
 - **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 - **Legal Requirements:** [DCO](https://developercertificate.org/)
+
+### Knative
+
+*"Knative is a solution to build Serverless and Event Driven Applications. Serverless Containers in Kubernetes environments."* - [knative.dev](https://knative.dev)
+
+-   **Project Repository:** https://github.com/knative
+-   **Contributor Guide:** [Knative contributor guide](https://knative.dev/docs/community/contributing/)
+-   **Chat:** [Knative slack](https://knative.slack.com/)
+-   **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-   **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
 Sandbox Projects

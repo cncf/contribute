@@ -62,6 +62,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 | [OpenTelemetry](projects/#opentelemetry) |      Telemetry Spec      |        Go        |
 |          [Dapr](projects/#dapr)          |        Framework         |        Go        |
 |        [Cilium](projects/#cilium)        | eBPF Networking & Security |     Go, C      |
+| [Knative](projects/#knative) | Serverless & Event Driven Applications | Go |
 
 ### Sandbox Projects
 
