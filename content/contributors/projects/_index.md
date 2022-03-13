@@ -412,7 +412,7 @@ native workloads"* - [cilium.io](https://cilium.io)
 -   **Contributor Guide:** [Knative contributor guide](https://knative.dev/docs/community/contributing/)
 -   **Chat:** [Knative slack](https://knative.slack.com/)
 -   **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
--   **Legal Requirements:** [DCO](https://developercertificate.org/)
+-   **Legal Requirements:** [Google CLA](https://cla.developers.google.com)
 ---
 
 Sandbox Projects
