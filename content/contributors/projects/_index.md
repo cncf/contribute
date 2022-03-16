@@ -725,6 +725,18 @@ Sandbox Projects
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
+### Kyverno
+
+ *"Kyverno is a policy engine designed for Kubernetes. With Kyverno, policies are managed as Kubernetes resources and no new language is required to write policies."* - [Kyverno](https://kyverno.io/)
+
+ -   **Project Repository:** https://github.com/kyverno/kyverno
+ -   **Contributor Guide:** [kyverno/kyverno/CONTRIBUTING](https://github.com/kyverno/kyverno/blob/main/CONTRIBUTING.md)
+ -   **Chat:** Slack: `#kyverno` and `#kyverno-dev` in [kubernetes.slack.com](https://kubernetes.slack.com)
+ -   **Developer List/Forum:** [Kyverno Discussions](https://github.com/kyverno/kyverno/discussions)
+ -   **License:** [Apache 2.0](https://github.com/kyverno/kyverno/blob/main/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+ ---
+
 Archived Projects
 -----------------
 
