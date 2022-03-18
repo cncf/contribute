@@ -99,7 +99,7 @@ Graduated Projects
 
 ### containerd
 
-*"containerd is an industry-standard core container runtime with an emphasis on simplicity, robustness and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, low-level storage and network attachments, etc.."* - [About containerd - containerd.io][about-containerd]
+*"containerd is an industry-standard core container runtime with an emphasis on simplicity, robustness and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, low-level storage and network attachments, etc.."* - [About containerd - containerd.io](https://containerd.io/)
 
 -	**Project Repository:** https://github.com/containerd/containerd
 -	**Contributor Guide:** [containerd/containerd/contributing](https://github.com/containerd/project/blob/main/CONTRIBUTING.md)
@@ -322,7 +322,7 @@ CloudEvents Specification
 
 ### Argo
 
-*"Open source Kubernetes native workflows, events, CI and CD"* - [https://argoproj.github.io/ ][$Argo overview]
+*"Open source Kubernetes native workflows, events, CI and CD"* - [Overview - https://argoproj.github.io/](https://argoproj.github.io/)
 
 -	**Project Repository:** https://github.com/argoproj/
 -	**Contributor Guide:** [argo/community/](https://github.com/argoproj/community-contrib-docs/blob/master/argo-cd/developer/contributing.md)
