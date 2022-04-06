@@ -737,6 +737,18 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
  ---
 
+ ### Confidential Containers
+
+ *"Confidential Containers is an open source community working to enable cloud native confidential computing by leveraging Trusted Execution Environments to protect containers and data."* - [Confidential Containers](https://github.com/confidential-containers)
+
+ -   **Project Repository:** https://github.com/confidential-containers
+ -   **Contributor Guide:** [community/CONTRIBUTING](https://github.com/confidential-containers/community/blob/main/CONTRIBUTING.md)
+ -   **Chat:** Slack: `#confidential-containers` in [slack.cncf.io](https://cloud-native.slack.com/)
+ -   **Developer List/Forum:** [Confidential Containers Discussions](https://github.com/confidential-containers/community/discussions)
+ -   **License:** [Apache 2.0](https://github.com/confidential-containers/community/blob/main/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+ ---
+
 Archived Projects
 -----------------
 
