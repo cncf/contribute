@@ -305,7 +305,7 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 CloudEvents Specification
 
 -	**Project Repository:** https://github.com/cloudevents/spec
--	**Contributor Guide:** [cloudevents/spec/contributing](https://github.com/cloudevents/spec/blob/master/CONTRIBUTING.md)
+-	**Contributor Guide:** [cloudevents/spec/contributing](https://github.com/cloudevents/spec/blob/main/docs/CONTRIBUTING.md)
 -	**Chat:** Slack: `#cloudevents` in [slack.cncf.io](https://cloud-native.slack.com/messages/C9DB5ABAA/)
 -	**Developer Mailing List/Forum:** [CNCF-wg-Serverless Mailing List](https://lists.cncf.io/g/cncf-wg-serverless)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
