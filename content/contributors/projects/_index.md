@@ -40,11 +40,11 @@ convenience.
 
 All projects of the Cloud Native Computing Foundation are classified with one of three stages of maturity:
 
--	[Graduated](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc#graduation-stage)
--	[Incubated](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc#incubating-stage)
--	[Sandboxed](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc#sandbox-stage)
+-	[Graduated](https://github.com/cncf/toc/blob/master/process/graduation_criteria.md#graduation-stage)
+-	[Incubated](https://github.com/cncf/toc/blob/master/process/graduation_criteria.md#incubating-stage)
+-	[Sandboxed](https://github.com/cncf/toc/blob/master/process/graduation_criteria.md#sandbox-stage)
 
-[CNCF Graduation Criteria](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) are documented in the CNCF TOC repo. The document describes the maturity stages of the projects.
+[CNCF Graduation Criteria](https://github.com/cncf/toc/blob/master/process/graduation_criteria.md) are documented in the CNCF TOC repo. The document describes the maturity stages of the projects.
 
 ---
 
