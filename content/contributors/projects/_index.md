@@ -400,7 +400,7 @@ native workloads"* - [cilium.io](https://cilium.io)
 
 - **Project Repository:** http://github.com/cilium
 - **Contributor Guide:** [Cilium contributor guide](https://github.com/cilium/cilium/blob/master/CONTRIBUTING.md)
-- **Chat:** Slack: [slack.cilium.io](https://slack.cilium.io)
+- **Chat:** Slack: [slack.cilium.io](https://cilium.herokuapp.com/)
 - **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 - **Legal Requirements:** [DCO](https://developercertificate.org/)
 
