@@ -105,7 +105,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 
 |                          Project Name                          |            Focus            |   Primary Language   |
 | :------------------------------------------------------------: | :-------------------------: | :------------------: |
-|             [Cloud Native Glossary](projects/#glossary)        |           Definitions       |        Markdown      |     
+|             [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
 
 # TOC
 
