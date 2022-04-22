@@ -101,6 +101,12 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |                  [Devfile](projects/#devfile)                  |           Devfile           |          Go          |
 |                 [Kyverno](projects/#kyverno)               | Kubernetes Native Policy Management |          Go          |
 
+### Non-code Projects
+
+|                          Project Name                          |            Focus            |   Primary Language   |
+| :------------------------------------------------------------: | :-------------------------: | :------------------: |
+|             [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
+
 # TOC
 
 The CNCF TOC is the technical governing body of the CNCF Foundation. The detailed information on CNCF TOC, including its duties and responsibilities, together with the information on collaboration is listed on [CNCF TOC repo](https://github.com/cncf/toc/).
