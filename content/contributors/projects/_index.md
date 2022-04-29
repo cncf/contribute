@@ -737,6 +737,18 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
  ---
 
+### sealer
+
+ *"sealer is a tool to seal all your application's dependencies and kubernetes into one single CloudImage! With sealer, you can build, deliver and run self-customized clusters in one command."* - [Sealer](https://sealer.cool/)
+
+ -   **Project Repository:** https://github.com/sealerio/sealer
+ -   **Contributor Guide:** [sealerio/sealer/CONTRIBUTING](https://github.com/sealerio/sealer/blob/main/CONTRIBUTING.md)
+ -   **Chat:** Slack: `#sealer` in [kubernetes.slack.com](https://kubernetes.slack.com/messages/sealer)
+ -   **Developer List/Forum:** [Sealer Discussions](https://github.com/sealerio/sealer/discussions)
+ -   **License:** [Apache 2.0](https://github.com/sealerio/sealer/blob/main/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+ ---
+
 Non-code Projects
 ------------------
 
