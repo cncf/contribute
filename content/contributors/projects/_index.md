@@ -735,7 +735,19 @@ Sandbox Projects
  -   **Developer List/Forum:** [Kyverno Discussions](https://github.com/kyverno/kyverno/discussions)
  -   **License:** [Apache 2.0](https://github.com/kyverno/kyverno/blob/main/LICENSE)
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
- ---
+---
+
+### OpenFunction
+
+ *"OpenFunction is a cloud-native open source FaaS (Function as a Service) platform aiming to let you focus on your business logic without having to maintain the underlying runtime environment and infrastructure. You only need to submit business-related source code in the form of functions."* - [OpenFunction](https://openfunction.dev/)
+
+ -   **Project Repository:** https://github.com/OpenFunction/OpenFunction
+ -   **Contributor Guide:** [Development Guide](https://github.com/OpenFunction/OpenFunction/blob/main/docs/development/README.md)
+ -   **Chat:** Slack: `#openfunction` in [slack.cncf.io](https://slack.cncf.io)
+ -   **Developer List/Forum:** [OpenFunction Discussions](https://github.com/OpenFunction/OpenFunction/discussions)
+ -   **License:** [Apache 2.0](https://github.com/OpenFunction/OpenFunction/blob/main/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+---
 
 Non-code Projects
 ------------------
