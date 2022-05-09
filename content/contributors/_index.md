@@ -100,6 +100,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |                  [OpenELB](projects/#openelb)                  |       Bare Metal Load balancer	        |         Go         |
 |                  [Devfile](projects/#devfile)                  |           Devfile           |          Go          |
 |                 [Kyverno](projects/#kyverno)               | Kubernetes Native Policy Management |          Go          |
+|                 [Teller](projects/#teller)               | Security |          Go          |
 
 ### Non-code Projects
 
