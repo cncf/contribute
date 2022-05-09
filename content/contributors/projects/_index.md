@@ -737,6 +737,18 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
  ---
 
+### Teller
+
+ *"Teller is a universal secret manager for developers"* - [Teller](https://tlr.dev/)
+
+ -   **Project Repository:** https://github.com/SpectralOps/teller
+ -   **Contributor Guide:** [SpectralOps/teller/CONTRIBUTING](https://github.com/SpectralOps/teller/blob/master/CONTRIBUTING.md)
+ -   **Chat:** [GitHub](https://github.com/SpectralOps/teller/discussions)
+ -   **Developer List/Forum:** [Teller GitHub Discussions](https://github.com/SpectralOps/teller/discussions)
+ -   **License:** [Apache 2.0](https://github.com/SpectralOps/teller/blob/master/LICENSE.txt)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+ ---
+
 Non-code Projects
 ------------------
 
