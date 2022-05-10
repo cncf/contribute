@@ -40,11 +40,11 @@ convenience.
 
 All projects of the Cloud Native Computing Foundation are classified with one of three stages of maturity:
 
--	[Graduated](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc#graduation-stage)
--	[Incubated](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc#incubating-stage)
--	[Sandboxed](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc#sandbox-stage)
+-	[Graduated](https://github.com/cncf/toc/blob/master/process/graduation_criteria.md#graduation-stage)
+-	[Incubated](https://github.com/cncf/toc/blob/master/process/graduation_criteria.md#incubating-stage)
+-	[Sandboxed](https://github.com/cncf/toc/blob/master/process/graduation_criteria.md#sandbox-stage)
 
-[CNCF Graduation Criteria](https://github.com/cncf/toc/blob/master/process/graduation_criteria.adoc) are documented in the CNCF TOC repo. The document describes the maturity stages of the projects.
+[CNCF Graduation Criteria](https://github.com/cncf/toc/blob/master/process/graduation_criteria.md) are documented in the CNCF TOC repo. The document describes the maturity stages of the projects.
 
 ---
 
@@ -99,7 +99,7 @@ Graduated Projects
 
 ### containerd
 
-*"containerd is an industry-standard core container runtime with an emphasis on simplicity, robustness and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, low-level storage and network attachments, etc.."* - [About containerd - containerd.io][about-containerd]
+*"containerd is an industry-standard core container runtime with an emphasis on simplicity, robustness and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, low-level storage and network attachments, etc.."* - [About containerd - containerd.io](https://containerd.io/)
 
 -	**Project Repository:** https://github.com/containerd/containerd
 -	**Contributor Guide:** [containerd/containerd/contributing](https://github.com/containerd/project/blob/main/CONTRIBUTING.md)
@@ -305,7 +305,7 @@ Vendor-neutral APIs and instrumentation for distributed tracing.
 CloudEvents Specification
 
 -	**Project Repository:** https://github.com/cloudevents/spec
--	**Contributor Guide:** [cloudevents/spec/contributing](https://github.com/cloudevents/spec/blob/master/CONTRIBUTING.md)
+-	**Contributor Guide:** [cloudevents/spec/contributing](https://github.com/cloudevents/spec/blob/main/docs/CONTRIBUTING.md)
 -	**Chat:** Slack: `#cloudevents` in [slack.cncf.io](https://cloud-native.slack.com/messages/C9DB5ABAA/)
 -	**Developer Mailing List/Forum:** [CNCF-wg-Serverless Mailing List](https://lists.cncf.io/g/cncf-wg-serverless)
 -	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
@@ -322,7 +322,7 @@ CloudEvents Specification
 
 ### Argo
 
-*"Open source Kubernetes native workflows, events, CI and CD"* - [https://argoproj.github.io/ ][$Argo overview]
+*"Open source Kubernetes native workflows, events, CI and CD"* - [Overview - https://argoproj.github.io/](https://argoproj.github.io/)
 
 -	**Project Repository:** https://github.com/argoproj/
 -	**Contributor Guide:** [argo/community/](https://github.com/argoproj/community-contrib-docs/blob/master/argo-cd/developer/contributing.md)
@@ -400,7 +400,7 @@ native workloads"* - [cilium.io](https://cilium.io)
 
 - **Project Repository:** http://github.com/cilium
 - **Contributor Guide:** [Cilium contributor guide](https://github.com/cilium/cilium/blob/master/CONTRIBUTING.md)
-- **Chat:** Slack: [slack.cilium.io](https://slack.cilium.io)
+- **Chat:** Slack: [slack.cilium.io](https://cilium.herokuapp.com/)
 - **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 - **Legal Requirements:** [DCO](https://developercertificate.org/)
 
@@ -748,6 +748,32 @@ Sandbox Projects
  -   **License:** [Apache 2.0](https://github.com/confidential-containers/community/blob/main/LICENSE)
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
  ---
+
+=======
+### Teller
+
+ *"Teller is a universal secret manager for developers"* - [Teller](https://tlr.dev/)
+
+ -   **Project Repository:** https://github.com/SpectralOps/teller
+ -   **Contributor Guide:** [SpectralOps/teller/CONTRIBUTING](https://github.com/SpectralOps/teller/blob/master/CONTRIBUTING.md)
+ -   **Chat:** [GitHub](https://github.com/SpectralOps/teller/discussions)
+ -   **Developer List/Forum:** [Teller GitHub Discussions](https://github.com/SpectralOps/teller/discussions)
+ -   **License:** [Apache 2.0](https://github.com/SpectralOps/teller/blob/master/LICENSE.txt)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+ ---
+
+Non-code Projects
+------------------
+
+### Cloud Native Glossary
+
+ *"The Cloud Native Glossary is a project led by the CNCF Business Value Subcommittee. Its goal is to explain cloud native concepts in clear and simple language without requiring any previous technical knowledge."* - [Cloud Native Glossary](https://glossary.cncf.io/)
+
+ -   **Project Repository:** https://github.com/cncf/glossary
+ -   **Contributor Guide**: https://glossary.cncf.io/contribute/
+ -   **Chat:** CNCF Slack: `#glossary` and `#glossary-localizations` in [cloudnative.slack.com](https://cloud-native.slack.com/)
+ -   **License:** Apache 2.0 license. Documentation is distributed under CC BY 4.0.
+
 
 Archived Projects
 -----------------
