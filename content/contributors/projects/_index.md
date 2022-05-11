@@ -99,7 +99,7 @@ Graduated Projects
 
 ### containerd
 
-*"containerd is an industry-standard core container runtime with an emphasis on simplicity, robustness and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, low-level storage and network attachments, etc.."* - [About containerd - containerd.io][about-containerd]
+*"containerd is an industry-standard core container runtime with an emphasis on simplicity, robustness and portability. It is available as a daemon for Linux and Windows, which can manage the complete container lifecycle of its host system: image transfer and storage, container execution and supervision, low-level storage and network attachments, etc.."* - [About containerd - containerd.io](https://containerd.io/)
 
 -	**Project Repository:** https://github.com/containerd/containerd
 -	**Contributor Guide:** [containerd/containerd/contributing](https://github.com/containerd/project/blob/main/CONTRIBUTING.md)
@@ -322,7 +322,7 @@ CloudEvents Specification
 
 ### Argo
 
-*"Open source Kubernetes native workflows, events, CI and CD"* - [https://argoproj.github.io/ ][$Argo overview]
+*"Open source Kubernetes native workflows, events, CI and CD"* - [Overview - https://argoproj.github.io/](https://argoproj.github.io/)
 
 -	**Project Repository:** https://github.com/argoproj/
 -	**Contributor Guide:** [argo/community/](https://github.com/argoproj/community-contrib-docs/blob/master/argo-cd/developer/contributing.md)
@@ -749,6 +749,31 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
+ ### Confidential Containers
+
+ *"Confidential Containers is an open source community working to enable cloud native confidential computing by leveraging Trusted Execution Environments to protect containers and data."* - [Confidential Containers](https://github.com/confidential-containers)
+
+ -   **Project Repository:** https://github.com/confidential-containers
+ -   **Contributor Guide:** [community/CONTRIBUTING](https://github.com/confidential-containers/community/blob/main/CONTRIBUTING.md)
+ -   **Chat:** Slack: `#confidential-containers` in [slack.cncf.io](https://cloud-native.slack.com/)
+ -   **Developer List/Forum:** [Confidential Containers Discussions](https://github.com/confidential-containers/community/discussions)
+ -   **License:** [Apache 2.0](https://github.com/confidential-containers/community/blob/main/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+ ---
+
+=======
+### Teller
+
+ *"Teller is a universal secret manager for developers"* - [Teller](https://tlr.dev/)
+
+ -   **Project Repository:** https://github.com/SpectralOps/teller
+ -   **Contributor Guide:** [SpectralOps/teller/CONTRIBUTING](https://github.com/SpectralOps/teller/blob/master/CONTRIBUTING.md)
+ -   **Chat:** [GitHub](https://github.com/SpectralOps/teller/discussions)
+ -   **Developer List/Forum:** [Teller GitHub Discussions](https://github.com/SpectralOps/teller/discussions)
+ -   **License:** [Apache 2.0](https://github.com/SpectralOps/teller/blob/master/LICENSE.txt)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+ ---
+
 Non-code Projects
 ------------------
 
@@ -760,6 +785,7 @@ Non-code Projects
  -   **Contributor Guide**: https://glossary.cncf.io/contribute/
  -   **Chat:** CNCF Slack: `#glossary` and `#glossary-localizations` in [cloudnative.slack.com](https://cloud-native.slack.com/)
  -   **License:** Apache 2.0 license. Documentation is distributed under CC BY 4.0.
+
 
 Archived Projects
 -----------------
