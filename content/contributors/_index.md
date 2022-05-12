@@ -68,7 +68,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 
 |                          Project Name                          |            Focus            |   Primary Language   |
 | :------------------------------------------------------------: | :-------------------------: | :------------------: |
-|             [Telepresence](projects/#telepresence)             |           Tooling           |        Python        |
+|             [Telepresence](projects/#telepresence)             |           Tooling           |          Go        |
 |              [OpenMetrics](projects/#openmetrics)              |          Security           |          Go          |
 |          [Virtual Kubelet](projects/#virtual-kubelet)          |          Nodeless           |          Go          |
 |                    [Keptn](projects/#keptn)                    | Event-driven orchestration  |     Go, Angular      |
@@ -95,18 +95,20 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |  [Open Cluster Management](projects/#open-cluster-management)  | Multi-Cluster Orchestration |          Go          |
 |                [KubeArmor](projects/#kubearmor)                |      Runtime Security       |        Go, C         |
 |                     [K8up](projects/#k8up)                     | Kubernetes Backup Operator  |          Go          |
-|            [Nocalhost](projects/#nocalhost)                |   Cloud Native Dev Environment  |     Go               |
+|            [Nocalhost](projects/#nocalhost)                    |    Cloud Dev Environment    |          Go          |
 |                  [kube-rs](projects/#kube-rs)                  |       Rust Ecosystem        |         Rust         |
-|                  [OpenELB](projects/#openelb)                  |       Bare Metal Load balancer	        |         Go         |
+|                  [OpenELB](projects/#openelb)                  |       Load balancer	       |         Go           |
 |                  [Devfile](projects/#devfile)                  |           Devfile           |          Go          |
 |                 [Kyverno](projects/#kyverno)               | Kubernetes Native Policy Management |          Go          |
 |                 [sealer](projects/#sealer)               | Cluster lifecycle and delivery |          Go          |
+|  [Confidential Containers](projects/#confidential-containers)  |          Security           |       Rust, Go       |
+|                 [Teller](projects/#teller)                     |          Security           |          Go          |
 
 ### Non-code Projects
 
 |                          Project Name                          |            Focus            |   Primary Language   |
 | :------------------------------------------------------------: | :-------------------------: | :------------------: |
-|             [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
+|    [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
 
 # TOC
 
