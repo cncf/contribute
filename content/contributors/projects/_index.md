@@ -197,17 +197,6 @@ Graduated Projects
 Incubating Projects
 -------------------
 
-### OpenTracing
-
-Vendor-neutral APIs and instrumentation for distributed tracing.
-
--	**Project Repository:** https://github.com/opentracing
--	**Contributor Guide:** [opentracing-contrib/meta](https://github.com/opentracing-contrib/meta#opentracing-contributions)
--	**Chat:** Gitter: [gitter.im/opentracing/public](https://gitter.im/opentracing/public)
--	**Developer Mailing List/Forum:** [OpenTracing Mailing List](https://groups.google.com/forum/#!forum/opentracing)
--	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
--	**Legal Requirements:** None
-
 ### gRPC
 
 *"gRPC is a modern open source high performance RPC framework that can run in any environment. It can efficiently connect services in and across data centers with pluggable support for load balancing, tracing, health checking and authentication. It is also applicable in last mile of distributed computing to connect devices, mobile applications and browsers to backend services."* - [About - grpc.io](https://grpc.io/about/)
@@ -777,6 +766,17 @@ Non-code Projects
 
 Archived Projects
 -----------------
+
+### OpenTracing
+
+Vendor-neutral APIs and instrumentation for distributed tracing.
+
+-	**Project Repository:** https://github.com/opentracing
+-	**Contributor Guide:** [opentracing-contrib/meta](https://github.com/opentracing-contrib/meta#opentracing-contributions)
+-	**Chat:** Gitter: [gitter.im/opentracing/public](https://gitter.im/opentracing/public)
+-	**Developer Mailing List/Forum:** [OpenTracing Mailing List](https://groups.google.com/forum/#!forum/opentracing)
+-	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**Legal Requirements:** None
 
 ### rkt
 
