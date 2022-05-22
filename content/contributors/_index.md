@@ -102,6 +102,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |                 [Kyverno](projects/#kyverno)                   | Policy Management           |          Go          |
 |  [Confidential Containers](projects/#confidential-containers)  |          Security           |       Rust, Go       |
 |                 [Teller](projects/#teller)                     |          Security           |          Go          |
+|             [OpenFunction](projects/#openfunction)             |  Cloud Native FaaS platform |          Go          |
 
 ### Non-code Projects
 
