@@ -40,7 +40,6 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 
 |               Project Name               |          Focus           | Primary Language |
 | :--------------------------------------: | :----------------------: | :--------------: |
-|   [OpenTracing](projects/#opentracing)   | Distributed Tracing API  |        Go        |
 |          [gRPC](projects/#grpc)          |  Remote Procedure Call   |        Go        |
 |           [CNI](projects/#cni)           |      Networking API      |                  |
 |        [Notary](projects/#notary)        |         Security         |        Go        |
