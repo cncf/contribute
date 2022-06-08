@@ -750,7 +750,6 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
  ---
 
-=======
 ### Teller
 
  *"Teller is a universal secret manager for developers"* - [Teller](https://tlr.dev/)
@@ -763,6 +762,17 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
  ---
 
+### FabEdge
+
+ *"FabEdge is a secure edge networking solution based on kubernetes"* - [FabEdge](https://github.com/FabEdge/fabedge)
+
+ -   **Project Repository:** https://github.com/FabEdge/fabedge
+ -   **Contributor Guide:** [FabEdge/CONTRIBUTING](https://github.com/FabEdge/fabedge/blob/main/CONTRIBUTING.md)
+ -   **Chat:** Slack: `#fabedge` in [cloud-native.slack.com](https://cloud-native.slack.com/)
+ -   **Developer List/Forum:** None
+ -   **License:** [Apache 2.0](https://github.com/FabEdge/fabedge/blob/main/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+
 Non-code Projects
 ------------------
 
@@ -774,7 +784,6 @@ Non-code Projects
  -   **Contributor Guide**: https://glossary.cncf.io/contribute/
  -   **Chat:** CNCF Slack: `#glossary` and `#glossary-localizations` in [cloudnative.slack.com](https://cloud-native.slack.com/)
  -   **License:** Apache 2.0 license. Documentation is distributed under CC BY 4.0.
-
 
 Archived Projects
 -----------------
