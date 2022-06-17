@@ -98,7 +98,8 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |                  [kube-rs](projects/#kube-rs)                  |       Rust Ecosystem        |         Rust         |
 |                  [OpenELB](projects/#openelb)                  |       Load balancer	       |         Go           |
 |                  [Devfile](projects/#devfile)                  |           Devfile           |          Go          |
-|                 [Kyverno](projects/#kyverno)                   | Policy Management           |          Go          |
+|                 [Kyverno](projects/#kyverno)               | Kubernetes Native Policy Management |          Go          |
+|                 [sealer](projects/#sealer)               | Cluster lifecycle and delivery |          Go          |
 |  [Confidential Containers](projects/#confidential-containers)  |          Security           |       Rust, Go       |
 |                 [Teller](projects/#teller)                     |          Security           |          Go          |
 |             [OpenFunction](projects/#openfunction)             |  Cloud Native FaaS platform |          Go          |
