@@ -750,7 +750,6 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
  ---
 
-=======
 ### Teller
 
  *"Teller is a universal secret manager for developers"* - [Teller](https://tlr.dev/)
@@ -762,6 +761,18 @@ Sandbox Projects
  -   **License:** [Apache 2.0](https://github.com/SpectralOps/teller/blob/master/LICENSE.txt)
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
  ---
+
+### Aeraki Mesh
+
+ *"Aeraki Mesh allows you manage any layer-7 protocols in a service mesh."* - [Aeraki Mesh](https://aeraki.com/)
+
+ -   **Project Repository:** https://github.com/aeraki-mesh/aerak
+ -   **Contributor Guide:** [Development Guide](https://github.com/aeraki-mesh/aeraki/blob/master/README.md)
+ -   **Chat:** Slack: `#aeraki-mesh` in [slack.cncf.io](https://slack.cncf.io)
+ -   **Developer List/Forum:** [Aeraki Mesh Discussions](https://github.com/aeraki-mesh/aeraki/discussions)
+ -   **License:** [Apache 2.0](https://github.com/aeraki-mesh/aeraki/blob/master/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+---
 
 Non-code Projects
 ------------------
