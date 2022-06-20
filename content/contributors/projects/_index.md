@@ -785,6 +785,19 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
+### Clusterpedia
+
+*"Clusterpedia is used for complex resources search across multiple clusters, support simultaneous search of a single kind of resource or multiple kinds of resources existing in multiple clusters."* - [Clusterpedia](https://clusterpedia.io)
+
+ -   **Project Repository:** https://github.com/clusterpedia-io/clusterpedia
+ -   **Contributor Guide:** [clusterpedia-io/clusterpedia/CONTRIBUTING](https://github.com/clusterpedia-io/clusterpedia/blob/main/CONTRIBUTING.md)
+ -   **Chat:** Slack: `#clusterpedia` in [slack.cncf.io](https://slack.cncf.io)
+ -   **Developer List/Forum:** [Clusterpedia Discussions](https://github.com/clusterpedia-io/clusterpedia/discussions)
+ -   **License:** [Apache 2.0](https://github.com/clusterpedia-io/clusterpedia/blob/main/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+---
+
+
 Non-code Projects
 ------------------
 

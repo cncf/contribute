@@ -104,6 +104,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |                 [Teller](projects/#teller)                     |          Security           |          Go          |
 |             [OpenFunction](projects/#openfunction)             |  Cloud Native FaaS platform |          Go          |
 |              [Aeraki Mesh](projects/#aeraki-mesh)              |        Service Mesh         |       Go, C++        |
+|             [Clusterpedia](projects/#clusterpedia)             |         Multi-Cloud         |          Go          |
 
 ### Non-code Projects
 
