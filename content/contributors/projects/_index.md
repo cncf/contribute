@@ -809,14 +809,15 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
-### OpenCost
+### DevStream
 
- *"OpenCost provides visibility into current and historical Kubernetes spend and resource allocation."* - [OpenCost](https://www.opencost.io/)
+ *"DevStream: Your DevOps Toolchain Manager."* - [DevStream](https://www.devstream.io/)
 
- -   **Project Repository:** https://github.com/kubecost/opencost
- -   **Contributor Guide:** [kubecost/opencost/contributing](https://github.com/kubecost/opencost/blob/develop/CONTRIBUTING.md)
- -   **Chat:** Slack: `#opencost` in [slack.cncf.io](https://slack.cncf.io)
- -   **License:** [Apache 2.0](https://github.com/kubecost/opencost/blob/develop/LICENSE)
+ -   **Project Repository:** https://github.com/devstream-io/devstream
+ -   **Contributor Guide:** [Development Guide](https://github.com/devstream-io/devstream/blob/main/CONTRIBUTING.md)
+ -   **Chat:** Slack: `#devstream` in [slack.cncf.io](https://slack.cncf.io)
+ -   **Developer List/Forum:** [DevStream Discussions](https://github.com/devstream-io/devstream/discussions)
+ -   **License:** [Apache 2.0](https://github.com/devstream-io/devstream/blob/main/LICENSE)
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 

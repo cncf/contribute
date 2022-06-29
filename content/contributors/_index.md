@@ -106,7 +106,6 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |              [Aeraki Mesh](projects/#aeraki-mesh)              |        Service Mesh         |       Go, C++        |
 |             [Clusterpedia](projects/#clusterpedia)             |         Multi-Cloud         |          Go          |
 |                [DevStream](projects/#devstream)                | Automation & Configuration  |          Go          |
-|                 [OpenCost](projects/#opencost)                 |       Cost Management       |     Go, Javascript   |
 
 ### Non-code Projects
 
