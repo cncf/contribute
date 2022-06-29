@@ -797,6 +797,17 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
+### DevStream
+
+ *"DevStream: Your DevOps Toolchain Manager."* - [DevStream](https://www.devstream.io/)
+
+ -   **Project Repository:** https://github.com/devstream-io/devstream
+ -   **Contributor Guide:** [Development Guide](https://github.com/devstream-io/devstream/blob/main/CONTRIBUTING.md)
+ -   **Chat:** Slack: `#devstream` in [slack.cncf.io](https://slack.cncf.io)
+ -   **Developer List/Forum:** [DevStream Discussions](https://github.com/devstream-io/devstream/discussions)
+ -   **License:** [Apache 2.0](https://github.com/devstream-io/devstream/blob/main/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+---
 
 ### OpenCost
 
