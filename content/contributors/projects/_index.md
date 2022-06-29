@@ -811,12 +811,12 @@ Sandbox Projects
 
 ### OpenCost
 
-*"OpenCost provides visibility into current and historical Kubernetes spend and resource allocation."* - [OpenCost](https://www.opencost.io/)
+ *"OpenCost provides visibility into current and historical Kubernetes spend and resource allocation."* - [OpenCost](https://www.opencost.io/)
 
 -	**Project Repository:** https://github.com/kubecost/opencost
 -	**Contributor Guide:** [kubecost/opencost/contributing](https://github.com/kubecost/opencost/blob/develop/CONTRIBUTING.md)
 -	**Chat:** Slack: `#opencost` in [slack.cncf.io](https://slack.cncf.io)
--	**License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
+-	**License:** [Apache 2.0](https://github.com/kubecost/opencost/blob/develop/LICENSE)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
