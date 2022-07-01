@@ -808,6 +808,17 @@ Sandbox Projects
  -   **License:** [Apache 2.0](https://github.com/devstream-io/devstream/blob/main/LICENSE)
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
+### Curve
+
+*"Curve is a high-performance, lightweight-operation, cloud-native open source distributed storage system. Curve can be applied to mainstream cloud-native infrastructure platforms OpenStack and Kubernetes, high-performance storage for cloud-native databases and cloud storage middleware using S3-compatible object storage as a data storage engine, providing cost-effective shared file storage."* - [Curve](https://www.opencurve.io)
+
+ -   **Project Repository:** https://github.com/opencurve/curve
+ -   **Contributor Guide:** [curve-io/curve/CONTRIBUTING](https://github.com/opencurve/curve/blob/master/CONTRIBUTING.md)
+ -   **Chat:** Slack: `project_curve` in [slack.cncf.io](https://slack.cncf.io)
+ -   **Developer List/Forum:** [Curve Discussions](https://ask.opencurve.io/)
+ -   **License:** [Apache 2.0](https://github.com/opencurve/curve/blob/master/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+---
 
 ### OpenCost
 
