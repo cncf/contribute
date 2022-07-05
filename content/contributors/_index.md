@@ -11,7 +11,7 @@ Welcome! Are you interested in contributing to one of CNCF hosted projects? This
 
 CNCF offers multiple ways to start contributing to the CNCF ecosystem, including either foundation-wide and project-wide opportunities.
 
-# Projects
+## Projects
 
 The Cloud Native Computing Foundation projects are listed [below](projects/), together with the brief information on contributing to them.
 
@@ -113,7 +113,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 | :------------------------------------------------------------: | :-------------------------: | :------------------: |
 |    [Cloud Native Glossary](projects/#cloud-native-glossary)        |           Definitions       |        Markdown      |     
 
-# TOC
+## TOC
 
 The CNCF TOC is the technical governing body of the CNCF Foundation. The detailed information on CNCF TOC, including its duties and responsibilities, together with the information on collaboration is listed on [CNCF TOC repo](https://github.com/cncf/toc/).
 
@@ -131,9 +131,9 @@ Working groups (WG's) are the community-driven groups with the goal of continuou
 
 The recommended way to start contributing to CNCF TOC - acting as a TOC Contributor. Here are more [details](https://github.com/cncf/toc/blob/master/CONTRIBUTORS.md) on goals and purpose of the initiative.
 
-# Community Engagement
+## Community Engagement
 
-## Ambassadors
+### Ambassadors
 
 [Cloud Native Ambassadors](https://www.cncf.io/people/ambassadors/) (CNAs) are individuals who are passionate about [Cloud Native Computing Foundation](https://www.cncf.io/) technology and projects, recognized for their expertise, and willing to help others learn about the framework and community.
 
@@ -141,7 +141,7 @@ Successful ambassadors are people such as bloggers, influencers, evangelists who
 
 Details on the Ambassadors program, and information on how to join CNCF as an Ambassador is available [here](https://github.com/cncf/ambassadors).
 
-## Meetups
+### Meetups
 
 The Cloud Native Computing Foundation supports the worldwide community of the Cloud Native meetups. They are listed on [meetup.com](https://www.meetup.com/pro/cncf/) website.
 
@@ -149,7 +149,7 @@ CNCF is currently working on expanding the Cloud Native community around the glo
 
 Details on the Meetups program, together with the best practices on running CNCF Meetups is available [here](https://github.com/cncf/meetups).
 
-## Mentorship Programs
+### Mentorship Programs
 
 The Cloud Native Computing Foundation participates in various mentoring programs, including:
 
