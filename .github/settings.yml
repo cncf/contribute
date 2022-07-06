@@ -29,3 +29,9 @@ collaborators:
     # all permissions except admin
   - username: carolynvs
     permission: push
+
+  - username: jberkus
+    permission: push
+    
+  - username: geekygirldawn
+    permission: push
