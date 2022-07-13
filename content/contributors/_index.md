@@ -15,7 +15,7 @@ CNCF offers multiple ways to start contributing to the CNCF ecosystem, including
 
 The Cloud Native Computing Foundation projects are listed [below](projects/), together with the brief information on contributing to them.
 
-### Graduated Projects
+## Graduated Projects
 
 |                   Project Name                   |        Focus         | Primary Language |
 | :----------------------------------------------: | :------------------: | :--------------: |
@@ -36,7 +36,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |              [etcd](projects/#etcd)              |   Key/Value Store    |        Go        |
 | [Open Policy Agent](projects/#open-policy-agent) |        Policy        |        Go        |
 
-### Incubated Projects
+## Incubated Projects
 
 |               Project Name               |          Focus           | Primary Language |
 | :--------------------------------------: | :----------------------: | :--------------: |
@@ -63,7 +63,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |        [Cilium](projects/#cilium)        | eBPF Networking & Security |     Go, C      |
 | [Knative](projects/#knative) | Serverless & Event Driven Applications | Go |
 
-### Sandbox Projects
+## Sandbox Projects
 
 |                          Project Name                          |            Focus            |   Primary Language   |
 | :------------------------------------------------------------: | :-------------------------: | :------------------: |
@@ -108,7 +108,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |                [DevStream](projects/#devstream)                | Automation & Configuration  |          Go          |
 |                 [OpenCost](projects/#opencost)                 |       Cost Management       |     Go, Javascript   |
 
-### Non-code Projects
+## Non-code Projects
 
 |                          Project Name                          |            Focus            |   Primary Language   |
 | :------------------------------------------------------------: | :-------------------------: | :------------------: |
