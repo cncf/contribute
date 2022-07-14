@@ -402,6 +402,17 @@ native workloads"* - [cilium.io](https://cilium.io)
 -   **Chat:** [Knative slack](https://knative.slack.com/)
 -   **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -   **Legal Requirements:** [Google CLA](https://cla.developers.google.com)
+
+### Kyverno
+
+ *"Kyverno is a policy engine designed for Kubernetes. With Kyverno, policies are managed as Kubernetes resources and no new language is required to write policies."* - [Kyverno](https://kyverno.io/)
+
+ -   **Project Repository:** https://github.com/kyverno/kyverno
+ -   **Contributor Guide:** [kyverno/kyverno/CONTRIBUTING](https://github.com/kyverno/kyverno/blob/main/CONTRIBUTING.md)
+ -   **Chat:** Slack: `#kyverno` and `#kyverno-dev` in [kubernetes.slack.com](https://kubernetes.slack.com)
+ -   **Developer List/Forum:** [Kyverno Discussions](https://github.com/kyverno/kyverno/discussions)
+ -   **License:** [Apache 2.0](https://github.com/kyverno/kyverno/blob/main/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
 Sandbox Projects
@@ -712,18 +723,6 @@ Sandbox Projects
 -	**Developer List/Forum:** [Devfile Discussions](https://github.com/devfile/api/discussions)
 -	**License:** [Apache 2.0](https://github.com/devfile/api/blob/main/LICENSE)
 -	**Legal Requirements:** [DCO](https://developercertificate.org/)
----
-
-### Kyverno
-
- *"Kyverno is a policy engine designed for Kubernetes. With Kyverno, policies are managed as Kubernetes resources and no new language is required to write policies."* - [Kyverno](https://kyverno.io/)
-
- -   **Project Repository:** https://github.com/kyverno/kyverno
- -   **Contributor Guide:** [kyverno/kyverno/CONTRIBUTING](https://github.com/kyverno/kyverno/blob/main/CONTRIBUTING.md)
- -   **Chat:** Slack: `#kyverno` and `#kyverno-dev` in [kubernetes.slack.com](https://kubernetes.slack.com)
- -   **Developer List/Forum:** [Kyverno Discussions](https://github.com/kyverno/kyverno/discussions)
- -   **License:** [Apache 2.0](https://github.com/kyverno/kyverno/blob/main/LICENSE)
- -   **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
 ### OpenFunction
