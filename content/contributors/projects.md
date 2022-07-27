@@ -402,6 +402,17 @@ native workloads"* - [cilium.io](https://cilium.io)
 -   **Chat:** [Knative slack](https://knative.slack.com/)
 -   **License:** [Apache 2.0](https://choosealicense.com/licenses/apache-2.0/)
 -   **Legal Requirements:** [Google CLA](https://cla.developers.google.com)
+
+### KubeVirt
+
+*"KubeVirt is a virtual machine management add-on for Kubernetes. The aim is to provide a common ground for virtualization solutions on top of Kubernetes."* - [KubeVirt README](https://github.com/kubevirt/kubevirt)
+
+- **Project Repository:** https://github.com/kubevirt/kubevirt/ 
+- **Contributor Guide:** [kubevirt/kubevirt/CONTRIBUTING](https://github.com/kubevirt/kubevirt/blob/main/CONTRIBUTING.md)
+- **Chat:** [kubernetes.slack.com #virtualization](https://kubernetes.slack.com/archives/C8ED7RKFE)
+- **Developer List/Forum:** [KubeVirt mailing list](https://groups.google.com/g/kubevirt-dev)
+- **License:** [Apache 2.0](https://github.com/kubevirt/kubevirt/blob/main/LICENSE)
+- **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
 Sandbox Projects
