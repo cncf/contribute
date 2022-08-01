@@ -107,6 +107,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |             [Clusterpedia](projects/#clusterpedia)             |         Multi-Cloud         |          Go          |
 |                [DevStream](projects/#devstream)                | Automation & Configuration  |          Go          |
 |                 [OpenCost](projects/#opencost)                 |       Cost Management       |     Go, Javascript   |
+|[External Secrets Operator](projects/#external-secrets-operator)|     Secret Management       |          Go          |
 
 ## Non-code Projects
 
