@@ -820,6 +820,18 @@ Sandbox Projects
  -   **Legal Requirements:** [DCO](https://developercertificate.org/)
 ---
 
+### External Secrets Operator
+
+ *"External Secrets Operator reads information from a third-party service like AWS Secrets Manager and automatically injects the values as Kubernetes Secrets."* - [External Secrets Operator](https://www.external-secrets.io/)
+
+ -   **Project Repository:** https://github.com/external-secrets/external-secrets
+ -   **Contributor Guide:** [Development Guide](https://external-secrets.io/latest/contributing-process/)
+ -   **Chat:** Slack: `#external-secrets` in [https://slack.k8s.io/](https://kubernetes.slack.com/messages/external-secrets)
+ -   **License:** [Apache 2.0](https://github.com/external-secrets/external-secrets/blob/main/LICENSE)
+ -   **Legal Requirements:** [DCO](https://developercertificate.org/)
+
+
+
 Non-code Projects
 ------------------
 
