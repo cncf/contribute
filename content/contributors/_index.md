@@ -62,6 +62,7 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |          [Dapr](projects/#dapr)          |        Framework         |        Go        |
 |        [Cilium](projects/#cilium)        | eBPF Networking & Security |     Go, C      |
 | [Knative](projects/#knative) | Serverless & Event Driven Applications | Go |
+| [Kyverno](projects/#kyverno) | Kubernetes Native Policy Management |        Go        |
 
 ## Sandbox Projects
 
@@ -98,7 +99,6 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |                  [kube-rs](projects/#kube-rs)                  |       Rust Ecosystem        |         Rust         |
 |                  [OpenELB](projects/#openelb)                  |       Load balancer	       |         Go           |
 |                  [Devfile](projects/#devfile)                  |           Devfile           |          Go          |
-|                 [Kyverno](projects/#kyverno)               | Kubernetes Native Policy Management |          Go          |
 |                 [sealer](projects/#sealer)               | Cluster lifecycle and delivery |          Go          |
 |  [Confidential Containers](projects/#confidential-containers)  |          Security           |       Rust, Go       |
 |                 [Teller](projects/#teller)                     |          Security           |          Go          |
