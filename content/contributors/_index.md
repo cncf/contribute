@@ -62,6 +62,8 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |          [Dapr](projects/#dapr)          |        Framework         |        Go        |
 |        [Cilium](projects/#cilium)        | eBPF Networking & Security |     Go, C      |
 | [Knative](projects/#knative) | Serverless & Event Driven Applications | Go |
+|  [KubeVirt](projects/#kubevirt)          |      VM Operator         |        Go        |
+
 
 ## Sandbox Projects
 
@@ -76,7 +78,6 @@ The Cloud Native Computing Foundation projects are listed [below](projects/), to
 |                  [OpenEBS](projects/#openebs)                  |           Storage           |          Go          |
 |                  [in-toto](projects/#in-toto)                  |          Security           |        Python        |
 |                  [Strimzi](projects/#strimzi)                  |       Kafka Operator        |          Go          |
-|                 [KubeVirt](projects/#kubevirt)                 |         VM Operator         |          Go          |
 |                 [Longhorn](projects/#longhorn)                 |           Storage           |          Go          |
 |                 [ChubaoFS](projects/#chubaofs)                 |           Storage           |          Go          |
 |   [Service Mesh Interface](projects/#service-mesh-interface)   |        Service Mesh         |          Go          |
